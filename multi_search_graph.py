@@ -45,7 +45,7 @@ class Train:
         self.num = 120 # options: 120, 180, 69, 264
         self.dataset = 'adni' # options: 'mnist' or 'adni'
         self.train_rate = 0.7 # how to split train/test
-        self.thresh = 0.3 # keep edges in the graph with weight > thresh
+        self.thresh = 0.7 # keep edges in the graph with weight > thresh
         self.state = "corr" # 'corr', 'random' or 'eye'
         self.random_seed = None # None or an integer
         self.verbose = False # for feature imp & graph visualization 
@@ -526,7 +526,7 @@ if __name__ == '__main__':
     #test.main()
     train_data, train_label, test_data, test_label, L, lmax, A, candidate , old_A = test.prepare(test.dataset)
     #0 or 1  default 1
-    test.set_params(0)
+    test.set_params(1)
 
     #different actions 
     action = [random.choice([0,1]) for _ in range(len(candidate))]
@@ -535,4 +535,6 @@ if __name__ == '__main__':
     #generate graph and then compute the accs. 
     new_A = test.action_graph(action)
     acc = test.train_top3(new_A)
+    print(acc)
+    acc = test.train_top3(old_A)
     print(acc)
