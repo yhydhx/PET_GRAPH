@@ -50,7 +50,7 @@ class Train:
         self.random_seed = None # None or an integer
         self.verbose = False # for feature imp & graph visualization 
         self.layer1 = (144,144)
-        self.saved_path = "graph_search/multi_30_20_3_2_"
+        self.saved_path = "graph_search/"
         self.CL1_F = 64
         self.CL1_K = 75
         self.CL2_F = 256 # 64
@@ -93,9 +93,9 @@ class Train:
             train_data, test_data, train_labels, test_labels, A = load_data(train_rate=self.train_rate, thresh= self.thresh, binary=self.binary, num=self.num, state=self.state) # 0.35
             #print(train_labels)
             
-            # A = np.load(saved_path+"_graph_A_2.npy")
+            A = np.load(self.saved_path+"76.npy")
             # A = np.load(saved_path+"_init_graph.npy")
-            # A = scipy.sparse.coo_matrix(A)
+            A = scipy.sparse.coo_matrix(A)
             # print(A)
             # print( scipy.sparse.coo_matrix(A))
             old_A = copy.copy(A)
