@@ -417,6 +417,13 @@ class Train:
             acc = self.train(train_data, train_label, test_data, test_label, L, lmax,A)
             acc_list.append(acc)
         return acc_list
+    def train_one(self, A):
+        train_data, test_data, train_label, test_label, L, lmax = self.gene_graph(A)
+    
+        acc = self.train(train_data, train_label, test_data, test_label, L, lmax,A)
+        return acc
+
+
 
     def gene_graph(self, A):
         coarsening_levels = 4
