@@ -94,13 +94,13 @@ class Train:
             #print(train_labels)
             
             #A = np.load(self.saved_path+"76.npy")
-            A = np.load("UGA/multi_30_20_3_800_found_graph_left_candidate_465.npy")
-            A = scipy.sparse.coo_matrix(A)
+            #A = np.load("UGA/multi_30_20_3_800_found_graph_left_candidate_465.npy")
+            #A = scipy.sparse.coo_matrix(A)
             # print(A)
             # print( scipy.sparse.coo_matrix(A))
             old_A = copy.copy(A)
             np.save(self.saved_path+"init_graph.npy",A.toarray())
-            A, candidate = self.generate_candidates(A, 0.7 , 0.7)
+            A, candidate = self.generate_candidates(A, 0.9 , 0.7)
             
 
             if  self.verbose:
