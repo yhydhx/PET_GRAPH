@@ -1,0 +1,5159 @@
+(419, 120)
+(419,)
+11310
+candidate number:  1265
+(228, 120)
+(99, 120)
+baseline:  1.0404040404040404
+Heavy Edge Matching coarsening with Xavier version
+Heavy Edge Matching coarsening with Xavier version
+1248
+              precision    recall  f1-score   support
+
+          NC       0.00      0.00      0.00        35
+        LMCI       0.25      0.96      0.39        25
+        EMCI       0.00      0.00      0.00        39
+
+    accuracy                           0.24        99
+   macro avg       0.08      0.32      0.13        99
+weighted avg       0.06      0.24      0.10        99
+
+[[ 0 34  1]
+ [ 0 24  1]
+ [ 0 39  0]]
+              precision    recall  f1-score   support
+
+          NC       0.72      0.74      0.73        35
+        LMCI       0.33      0.20      0.25        25
+        EMCI       0.56      0.69      0.62        39
+
+    accuracy                           0.59        99
+   macro avg       0.54      0.55      0.53        99
+weighted avg       0.56      0.59      0.57        99
+
+[[26  3  6]
+ [ 5  5 15]
+ [ 5  7 27]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.46      0.62        35
+        LMCI       0.42      0.64      0.51        25
+        EMCI       0.57      0.64      0.60        39
+
+    accuracy                           0.58        99
+   macro avg       0.64      0.58      0.58        99
+weighted avg       0.66      0.58      0.58        99
+
+[[16  9 10]
+ [ 0 16  9]
+ [ 1 13 25]]
+Heavy Edge Matching coarsening with Xavier version
+1248
+              precision    recall  f1-score   support
+
+          NC       0.60      0.94      0.73        35
+        LMCI       0.44      0.44      0.44        25
+        EMCI       0.68      0.33      0.45        39
+
+    accuracy                           0.58        99
+   macro avg       0.57      0.57      0.54        99
+weighted avg       0.59      0.58      0.55        99
+
+[[33  1  1]
+ [ 9 11  5]
+ [13 13 13]]
+              precision    recall  f1-score   support
+
+          NC       0.77      0.86      0.81        35
+        LMCI       0.41      0.60      0.48        25
+        EMCI       0.65      0.38      0.48        39
+
+    accuracy                           0.61        99
+   macro avg       0.61      0.61      0.59        99
+weighted avg       0.63      0.61      0.60        99
+
+[[30  3  2]
+ [ 4 15  6]
+ [ 5 19 15]]
+              precision    recall  f1-score   support
+
+          NC       1.00      0.43      0.60        35
+        LMCI       0.41      0.60      0.48        25
+        EMCI       0.57      0.69      0.63        39
+
+    accuracy                           0.58        99
+   macro avg       0.66      0.57      0.57        99
+weighted avg       0.68      0.58      0.58        99
+
+[[15 10 10]
+ [ 0 15 10]
+ [ 0 12 27]]
+Heavy Edge Matching coarsening with Xavier version
+1248
+              precision    recall  f1-score   support
+
+          NC       1.00      0.23      0.37        35
+        LMCI       0.50      0.04      0.07        25
+        EMCI       0.43      0.97      0.59        39
+
+    accuracy                           0.47        99
+   macro avg       0.64      0.41      0.35        99
+weighted avg       0.65      0.47      0.38        99
+
+[[ 8  0 27]
+ [ 0  1 24]
+ [ 0  1 38]]
+              precision    recall  f1-score   support
+
+          NC       0.92      0.66      0.77        35
+        LMCI       0.44      0.16      0.24        25
+        EMCI       0.54      0.90      0.67        39
+
+    accuracy                           0.63        99
+   macro avg       0.63      0.57      0.56        99
+weighted avg       0.65      0.63      0.60        99
+
+[[23  3  9]
+ [ 0  4 21]
+ [ 2  2 35]]
+              precision    recall  f1-score   support
+
+          NC       0.92      0.69      0.79        35
+        LMCI       0.47      0.56      0.51        25
+        EMCI       0.63      0.69      0.66        39
+
+    accuracy                           0.66        99
+   macro avg       0.67      0.65      0.65        99
+weighted avg       0.69      0.66      0.67        99
+
+[[24  5  6]
+ [ 1 14 10]
+ [ 1 11 27]]
+max_acc : 65.657
+Heavy Edge Matching coarsening with Xavier version
+368
+              precision    recall  f1-score   support
+
+          NC       0.80      0.46      0.58        35
+        LMCI       0.39      0.36      0.37        25
+        EMCI       0.48      0.69      0.57        39
+
+    accuracy                           0.53        99
+   macro avg       0.56      0.50      0.51        99
+weighted avg       0.57      0.53      0.52        99
+
+[[16  5 14]
+ [ 1  9 15]
+ [ 3  9 27]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.89      0.91        35
+        LMCI       0.48      0.52      0.50        25
+        EMCI       0.67      0.67      0.67        39
+
+    accuracy                           0.71        99
+   macro avg       0.70      0.69      0.69        99
+weighted avg       0.72      0.71      0.71        99
+
+[[31  2  2]
+ [ 1 13 11]
+ [ 1 12 26]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.91      0.93        35
+        LMCI       0.43      0.64      0.52        25
+        EMCI       0.71      0.51      0.60        39
+
+    accuracy                           0.69        99
+   macro avg       0.70      0.69      0.68        99
+weighted avg       0.72      0.69      0.69        99
+
+[[32  3  0]
+ [ 1 16  8]
+ [ 1 18 20]]
+Heavy Edge Matching coarsening with Xavier version
+368
+              precision    recall  f1-score   support
+
+          NC       0.74      0.57      0.65        35
+        LMCI       0.46      0.44      0.45        25
+        EMCI       0.50      0.62      0.55        39
+
+    accuracy                           0.56        99
+   macro avg       0.57      0.54      0.55        99
+weighted avg       0.57      0.56      0.56        99
+
+[[20  3 12]
+ [ 2 11 12]
+ [ 5 10 24]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.91      0.93        35
+        LMCI       0.47      0.60      0.53        25
+        EMCI       0.70      0.59      0.64        39
+
+    accuracy                           0.71        99
+   macro avg       0.70      0.70      0.70        99
+weighted avg       0.73      0.71      0.71        99
+
+[[32  2  1]
+ [ 1 15  9]
+ [ 1 15 23]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.89      0.91        35
+        LMCI       0.39      0.28      0.33        25
+        EMCI       0.62      0.77      0.69        39
+
+    accuracy                           0.69        99
+   macro avg       0.65      0.64      0.64        99
+weighted avg       0.68      0.69      0.68        99
+
+[[31  3  1]
+ [ 1  7 17]
+ [ 1  8 30]]
+Heavy Edge Matching coarsening with Xavier version
+368
+              precision    recall  f1-score   support
+
+          NC       0.78      0.51      0.62        35
+        LMCI       0.46      0.48      0.47        25
+        EMCI       0.52      0.67      0.58        39
+
+    accuracy                           0.57        99
+   macro avg       0.59      0.55      0.56        99
+weighted avg       0.60      0.57      0.57        99
+
+[[18  4 13]
+ [ 2 12 11]
+ [ 3 10 26]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.89      0.91        35
+        LMCI       0.52      0.56      0.54        25
+        EMCI       0.69      0.69      0.69        39
+
+    accuracy                           0.73        99
+   macro avg       0.72      0.71      0.71        99
+weighted avg       0.74      0.73      0.73        99
+
+[[31  2  2]
+ [ 1 14 10]
+ [ 1 11 27]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.94      0.94        35
+        LMCI       0.44      0.48      0.46        25
+        EMCI       0.68      0.64      0.66        39
+
+    accuracy                           0.71        99
+   macro avg       0.69      0.69      0.69        99
+weighted avg       0.71      0.71      0.71        99
+
+[[33  2  0]
+ [ 1 12 12]
+ [ 1 13 25]]
+count :  1  acc: 70.707071
+better edges.
+Heavy Edge Matching coarsening with Xavier version
+352
+              precision    recall  f1-score   support
+
+          NC       0.88      0.43      0.58        35
+        LMCI       0.34      0.40      0.37        25
+        EMCI       0.53      0.72      0.61        39
+
+    accuracy                           0.54        99
+   macro avg       0.59      0.52      0.52        99
+weighted avg       0.61      0.54      0.54        99
+
+[[15 10 10]
+ [ 0 10 15]
+ [ 2  9 28]]
+              precision    recall  f1-score   support
+
+          NC       0.91      0.89      0.90        35
+        LMCI       0.41      0.28      0.33        25
+        EMCI       0.58      0.72      0.64        39
+
+    accuracy                           0.67        99
+   macro avg       0.64      0.63      0.63        99
+weighted avg       0.66      0.67      0.66        99
+
+[[31  1  3]
+ [ 1  7 17]
+ [ 2  9 28]]
+              precision    recall  f1-score   support
+
+          NC       0.91      0.91      0.91        35
+        LMCI       0.54      0.56      0.55        25
+        EMCI       0.71      0.69      0.70        39
+
+    accuracy                           0.74        99
+   macro avg       0.72      0.72      0.72        99
+weighted avg       0.74      0.74      0.74        99
+
+[[32  2  1]
+ [ 1 14 10]
+ [ 2 10 27]]
+Heavy Edge Matching coarsening with Xavier version
+352
+              precision    recall  f1-score   support
+
+          NC       0.60      0.91      0.73        35
+        LMCI       0.36      0.20      0.26        25
+        EMCI       0.66      0.54      0.59        39
+
+    accuracy                           0.59        99
+   macro avg       0.54      0.55      0.53        99
+weighted avg       0.56      0.59      0.55        99
+
+[[32  1  2]
+ [11  5  9]
+ [10  8 21]]
+              precision    recall  f1-score   support
+
+          NC       0.88      0.83      0.85        35
+        LMCI       0.39      0.28      0.33        25
+        EMCI       0.58      0.72      0.64        39
+
+    accuracy                           0.65        99
+   macro avg       0.62      0.61      0.61        99
+weighted avg       0.64      0.65      0.64        99
+
+[[29  2  4]
+ [ 2  7 16]
+ [ 2  9 28]]
+              precision    recall  f1-score   support
+
+          NC       0.91      0.91      0.91        35
+        LMCI       0.52      0.44      0.48        25
+        EMCI       0.65      0.72      0.68        39
+
+    accuracy                           0.72        99
+   macro avg       0.70      0.69      0.69        99
+weighted avg       0.71      0.72      0.71        99
+
+[[32  1  2]
+ [ 1 11 13]
+ [ 2  9 28]]
+Heavy Edge Matching coarsening with Xavier version
+352
+              precision    recall  f1-score   support
+
+          NC       0.71      0.77      0.74        35
+        LMCI       0.50      0.44      0.47        25
+        EMCI       0.64      0.64      0.64        39
+
+    accuracy                           0.64        99
+   macro avg       0.62      0.62      0.62        99
+weighted avg       0.63      0.64      0.63        99
+
+[[27  4  4]
+ [ 4 11 10]
+ [ 7  7 25]]
+              precision    recall  f1-score   support
+
+          NC       0.89      0.91      0.90        35
+        LMCI       0.41      0.28      0.33        25
+        EMCI       0.61      0.72      0.66        39
+
+    accuracy                           0.68        99
+   macro avg       0.64      0.64      0.63        99
+weighted avg       0.66      0.68      0.66        99
+
+[[32  1  2]
+ [ 2  7 16]
+ [ 2  9 28]]
+              precision    recall  f1-score   support
+
+          NC       0.89      0.91      0.90        35
+        LMCI       0.50      0.44      0.47        25
+        EMCI       0.68      0.72      0.70        39
+
+    accuracy                           0.72        99
+   macro avg       0.69      0.69      0.69        99
+weighted avg       0.71      0.72      0.71        99
+
+[[32  2  1]
+ [ 2 11 12]
+ [ 2  9 28]]
+count :  2  acc: 73.737374
+better edges.
+Heavy Edge Matching coarsening with Xavier version
+288
+              precision    recall  f1-score   support
+
+          NC       0.67      0.86      0.75        35
+        LMCI       0.44      0.32      0.37        25
+        EMCI       0.67      0.62      0.64        39
+
+    accuracy                           0.63        99
+   macro avg       0.59      0.60      0.59        99
+weighted avg       0.61      0.63      0.61        99
+
+[[30  2  3]
+ [ 8  8  9]
+ [ 7  8 24]]
+              precision    recall  f1-score   support
+
+          NC       0.89      0.94      0.92        35
+        LMCI       0.57      0.64      0.60        25
+        EMCI       0.76      0.67      0.71        39
+
+    accuracy                           0.76        99
+   macro avg       0.74      0.75      0.74        99
+weighted avg       0.76      0.76      0.76        99
+
+[[33  2  0]
+ [ 1 16  8]
+ [ 3 10 26]]
+              precision    recall  f1-score   support
+
+          NC       0.92      0.94      0.93        35
+        LMCI       0.52      0.52      0.52        25
+        EMCI       0.71      0.69      0.70        39
+
+    accuracy                           0.74        99
+   macro avg       0.72      0.72      0.72        99
+weighted avg       0.74      0.74      0.74        99
+
+[[33  2  0]
+ [ 1 13 11]
+ [ 2 10 27]]
+Heavy Edge Matching coarsening with Xavier version
+288
+              precision    recall  f1-score   support
+
+          NC       0.68      0.86      0.76        35
+        LMCI       0.41      0.48      0.44        25
+        EMCI       0.65      0.44      0.52        39
+
+    accuracy                           0.60        99
+   macro avg       0.58      0.59      0.58        99
+weighted avg       0.60      0.60      0.59        99
+
+[[30  2  3]
+ [ 7 12  6]
+ [ 7 15 17]]
+              precision    recall  f1-score   support
+
+          NC       0.91      0.83      0.87        35
+        LMCI       0.45      0.36      0.40        25
+        EMCI       0.60      0.72      0.65        39
+
+    accuracy                           0.67        99
+   macro avg       0.65      0.64      0.64        99
+weighted avg       0.67      0.67      0.66        99
+
+[[29  2  4]
+ [ 1  9 15]
+ [ 2  9 28]]
+              precision    recall  f1-score   support
+
+          NC       0.89      0.97      0.93        35
+        LMCI       0.56      0.60      0.58        25
+        EMCI       0.76      0.67      0.71        39
+
+    accuracy                           0.76        99
+   macro avg       0.74      0.75      0.74        99
+weighted avg       0.76      0.76      0.76        99
+
+[[34  1  0]
+ [ 2 15  8]
+ [ 2 11 26]]
+Heavy Edge Matching coarsening with Xavier version
+288
+              precision    recall  f1-score   support
+
+          NC       0.72      0.74      0.73        35
+        LMCI       0.40      0.48      0.44        25
+        EMCI       0.64      0.54      0.58        39
+
+    accuracy                           0.60        99
+   macro avg       0.59      0.59      0.58        99
+weighted avg       0.61      0.60      0.60        99
+
+[[26  5  4]
+ [ 5 12  8]
+ [ 5 13 21]]
+              precision    recall  f1-score   support
+
+          NC       0.91      0.83      0.87        35
+        LMCI       0.48      0.52      0.50        25
+        EMCI       0.65      0.67      0.66        39
+
+    accuracy                           0.69        99
+   macro avg       0.68      0.67      0.67        99
+weighted avg       0.70      0.69      0.69        99
+
+[[29  3  3]
+ [ 1 13 11]
+ [ 2 11 26]]
+              precision    recall  f1-score   support
+
+          NC       0.92      0.94      0.93        35
+        LMCI       0.52      0.48      0.50        25
+        EMCI       0.68      0.69      0.68        39
+
+    accuracy                           0.73        99
+   macro avg       0.70      0.71      0.70        99
+weighted avg       0.72      0.73      0.72        99
+
+[[33  1  1]
+ [ 1 12 12]
+ [ 2 10 27]]
+count :  3  acc: 75.757576
+better edges.
+Heavy Edge Matching coarsening with Xavier version
+336
+              precision    recall  f1-score   support
+
+          NC       0.82      0.77      0.79        35
+        LMCI       0.42      0.52      0.46        25
+        EMCI       0.60      0.54      0.57        39
+
+    accuracy                           0.62        99
+   macro avg       0.61      0.61      0.61        99
+weighted avg       0.63      0.62      0.62        99
+
+[[27  4  4]
+ [ 2 13 10]
+ [ 4 14 21]]
+              precision    recall  f1-score   support
+
+          NC       0.89      0.91      0.90        35
+        LMCI       0.45      0.60      0.52        25
+        EMCI       0.70      0.54      0.61        39
+
+    accuracy                           0.69        99
+   macro avg       0.68      0.68      0.68        99
+weighted avg       0.70      0.69      0.69        99
+
+[[32  3  0]
+ [ 1 15  9]
+ [ 3 15 21]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.91      0.93        35
+        LMCI       0.44      0.44      0.44        25
+        EMCI       0.68      0.69      0.68        39
+
+    accuracy                           0.71        99
+   macro avg       0.69      0.68      0.68        99
+weighted avg       0.71      0.71      0.71        99
+
+[[32  3  0]
+ [ 1 11 13]
+ [ 1 11 27]]
+Heavy Edge Matching coarsening with Xavier version
+336
+              precision    recall  f1-score   support
+
+          NC       1.00      0.31      0.48        35
+        LMCI       0.30      0.28      0.29        25
+        EMCI       0.45      0.74      0.56        39
+
+    accuracy                           0.47        99
+   macro avg       0.58      0.45      0.44        99
+weighted avg       0.61      0.47      0.46        99
+
+[[11  6 18]
+ [ 0  7 18]
+ [ 0 10 29]]
+              precision    recall  f1-score   support
+
+          NC       0.85      0.94      0.89        35
+        LMCI       0.52      0.60      0.56        25
+        EMCI       0.74      0.59      0.66        39
+
+    accuracy                           0.72        99
+   macro avg       0.70      0.71      0.70        99
+weighted avg       0.72      0.72      0.71        99
+
+[[33  2  0]
+ [ 2 15  8]
+ [ 4 12 23]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.91      0.93        35
+        LMCI       0.46      0.48      0.47        25
+        EMCI       0.69      0.69      0.69        39
+
+    accuracy                           0.72        99
+   macro avg       0.70      0.70      0.70        99
+weighted avg       0.72      0.72      0.72        99
+
+[[32  3  0]
+ [ 1 12 12]
+ [ 1 11 27]]
+Heavy Edge Matching coarsening with Xavier version
+336
+              precision    recall  f1-score   support
+
+          NC       1.00      0.34      0.51        35
+        LMCI       0.35      0.24      0.29        25
+        EMCI       0.46      0.82      0.59        39
+
+    accuracy                           0.51        99
+   macro avg       0.60      0.47      0.46        99
+weighted avg       0.62      0.51      0.48        99
+
+[[12  4 19]
+ [ 0  6 19]
+ [ 0  7 32]]
+              precision    recall  f1-score   support
+
+          NC       0.86      0.91      0.89        35
+        LMCI       0.52      0.56      0.54        25
+        EMCI       0.74      0.67      0.70        39
+
+    accuracy                           0.73        99
+   macro avg       0.71      0.71      0.71        99
+weighted avg       0.73      0.73      0.73        99
+
+[[32  3  0]
+ [ 2 14  9]
+ [ 3 10 26]]
+              precision    recall  f1-score   support
+
+          NC       0.89      0.94      0.92        35
+        LMCI       0.50      0.60      0.55        25
+        EMCI       0.72      0.59      0.65        39
+
+    accuracy                           0.72        99
+   macro avg       0.70      0.71      0.70        99
+weighted avg       0.72      0.72      0.72        99
+
+[[33  2  0]
+ [ 1 15  9]
+ [ 3 13 23]]
+count :  4  acc: 71.717172
+Heavy Edge Matching coarsening with Xavier version
+272
+              precision    recall  f1-score   support
+
+          NC       0.68      0.74      0.71        35
+        LMCI       0.41      0.44      0.42        25
+        EMCI       0.59      0.51      0.55        39
+
+    accuracy                           0.58        99
+   macro avg       0.56      0.57      0.56        99
+weighted avg       0.58      0.58      0.57        99
+
+[[26  3  6]
+ [ 6 11  8]
+ [ 6 13 20]]
+              precision    recall  f1-score   support
+
+          NC       0.91      0.86      0.88        35
+        LMCI       0.48      0.56      0.52        25
+        EMCI       0.65      0.62      0.63        39
+
+    accuracy                           0.69        99
+   macro avg       0.68      0.68      0.68        99
+weighted avg       0.70      0.69      0.69        99
+
+[[30  2  3]
+ [ 1 14 10]
+ [ 2 13 24]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.43      0.40      0.42        25
+        EMCI       0.65      0.67      0.66        39
+
+    accuracy                           0.71        99
+   macro avg       0.68      0.68      0.68        99
+weighted avg       0.70      0.71      0.70        99
+
+[[34  1  0]
+ [ 1 10 14]
+ [ 1 12 26]]
+Heavy Edge Matching coarsening with Xavier version
+272
+              precision    recall  f1-score   support
+
+          NC       0.86      0.51      0.64        35
+        LMCI       0.39      0.36      0.37        25
+        EMCI       0.49      0.69      0.57        39
+
+    accuracy                           0.55        99
+   macro avg       0.58      0.52      0.53        99
+weighted avg       0.60      0.55      0.55        99
+
+[[18  5 12]
+ [ 0  9 16]
+ [ 3  9 27]]
+              precision    recall  f1-score   support
+
+          NC       0.91      0.89      0.90        35
+        LMCI       0.45      0.60      0.52        25
+        EMCI       0.62      0.51      0.56        39
+
+    accuracy                           0.67        99
+   macro avg       0.66      0.67      0.66        99
+weighted avg       0.68      0.67      0.67        99
+
+[[31  1  3]
+ [ 1 15  9]
+ [ 2 17 20]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.43      0.36      0.39        25
+        EMCI       0.64      0.69      0.67        39
+
+    accuracy                           0.71        99
+   macro avg       0.67      0.67      0.67        99
+weighted avg       0.70      0.71      0.70        99
+
+[[34  1  0]
+ [ 1  9 15]
+ [ 1 11 27]]
+Heavy Edge Matching coarsening with Xavier version
+272
+              precision    recall  f1-score   support
+
+          NC       0.76      0.46      0.57        35
+        LMCI       0.42      0.60      0.49        25
+        EMCI       0.52      0.56      0.54        39
+
+    accuracy                           0.54        99
+   macro avg       0.57      0.54      0.54        99
+weighted avg       0.58      0.54      0.54        99
+
+[[16  9 10]
+ [ 0 15 10]
+ [ 5 12 22]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.89      0.91        35
+        LMCI       0.48      0.48      0.48        25
+        EMCI       0.63      0.67      0.65        39
+
+    accuracy                           0.70        99
+   macro avg       0.68      0.68      0.68        99
+weighted avg       0.70      0.70      0.70        99
+
+[[31  1  3]
+ [ 1 12 12]
+ [ 1 12 26]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.44      0.64      0.52        25
+        EMCI       0.70      0.49      0.58        39
+
+    accuracy                           0.70        99
+   macro avg       0.70      0.70      0.69        99
+weighted avg       0.72      0.70      0.70        99
+
+[[34  1  0]
+ [ 1 16  8]
+ [ 1 19 19]]
+count :  5  acc: 70.707071
+Heavy Edge Matching coarsening with Xavier version
+336
+              precision    recall  f1-score   support
+
+          NC       0.77      0.69      0.73        35
+        LMCI       0.44      0.16      0.24        25
+        EMCI       0.54      0.82      0.65        39
+
+    accuracy                           0.61        99
+   macro avg       0.59      0.56      0.54        99
+weighted avg       0.60      0.61      0.57        99
+
+[[24  2  9]
+ [ 3  4 18]
+ [ 4  3 32]]
+              precision    recall  f1-score   support
+
+          NC       0.91      0.91      0.91        35
+        LMCI       0.48      0.60      0.54        25
+        EMCI       0.73      0.62      0.67        39
+
+    accuracy                           0.72        99
+   macro avg       0.71      0.71      0.71        99
+weighted avg       0.73      0.72      0.72        99
+
+[[32  3  0]
+ [ 1 15  9]
+ [ 2 13 24]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.91      0.93        35
+        LMCI       0.52      0.52      0.52        25
+        EMCI       0.72      0.74      0.73        39
+
+    accuracy                           0.75        99
+   macro avg       0.73      0.73      0.73        99
+weighted avg       0.75      0.75      0.75        99
+
+[[32  3  0]
+ [ 1 13 11]
+ [ 1  9 29]]
+Heavy Edge Matching coarsening with Xavier version
+336
+              precision    recall  f1-score   support
+
+          NC       0.74      0.74      0.74        35
+        LMCI       0.46      0.48      0.47        25
+        EMCI       0.63      0.62      0.62        39
+
+    accuracy                           0.63        99
+   macro avg       0.61      0.61      0.61        99
+weighted avg       0.63      0.63      0.63        99
+
+[[26  5  4]
+ [ 3 12 10]
+ [ 6  9 24]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.91      0.93        35
+        LMCI       0.57      0.52      0.54        25
+        EMCI       0.74      0.79      0.77        39
+
+    accuracy                           0.77        99
+   macro avg       0.75      0.74      0.74        99
+weighted avg       0.77      0.77      0.77        99
+
+[[32  3  0]
+ [ 1 13 11]
+ [ 1  7 31]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.91      0.93        35
+        LMCI       0.52      0.52      0.52        25
+        EMCI       0.72      0.74      0.73        39
+
+    accuracy                           0.75        99
+   macro avg       0.73      0.73      0.73        99
+weighted avg       0.75      0.75      0.75        99
+
+[[32  3  0]
+ [ 1 13 11]
+ [ 1  9 29]]
+Heavy Edge Matching coarsening with Xavier version
+336
+              precision    recall  f1-score   support
+
+          NC       0.79      0.74      0.76        35
+        LMCI       0.46      0.48      0.47        25
+        EMCI       0.62      0.64      0.63        39
+
+    accuracy                           0.64        99
+   macro avg       0.62      0.62      0.62        99
+weighted avg       0.64      0.64      0.64        99
+
+[[26  5  4]
+ [ 2 12 11]
+ [ 5  9 25]]
+              precision    recall  f1-score   support
+
+          NC       0.92      0.97      0.94        35
+        LMCI       0.58      0.56      0.57        25
+        EMCI       0.74      0.72      0.73        39
+
+    accuracy                           0.77        99
+   macro avg       0.75      0.75      0.75        99
+weighted avg       0.76      0.77      0.76        99
+
+[[34  1  0]
+ [ 1 14 10]
+ [ 2  9 28]]
+              precision    recall  f1-score   support
+
+          NC       0.92      0.94      0.93        35
+        LMCI       0.46      0.52      0.49        25
+        EMCI       0.71      0.64      0.68        39
+
+    accuracy                           0.72        99
+   macro avg       0.70      0.70      0.70        99
+weighted avg       0.72      0.72      0.72        99
+
+[[33  2  0]
+ [ 2 13 10]
+ [ 1 13 25]]
+count :  6  acc: 74.747475
+Heavy Edge Matching coarsening with Xavier version
+384
+              precision    recall  f1-score   support
+
+          NC       0.78      0.20      0.32        35
+        LMCI       0.33      0.40      0.36        25
+        EMCI       0.43      0.67      0.53        39
+
+    accuracy                           0.43        99
+   macro avg       0.51      0.42      0.40        99
+weighted avg       0.53      0.43      0.41        99
+
+[[ 7  9 19]
+ [ 0 10 15]
+ [ 2 11 26]]
+              precision    recall  f1-score   support
+
+          NC       0.92      0.69      0.79        35
+        LMCI       0.44      0.64      0.52        25
+        EMCI       0.65      0.62      0.63        39
+
+    accuracy                           0.65        99
+   macro avg       0.67      0.65      0.65        99
+weighted avg       0.69      0.65      0.66        99
+
+[[24  7  4]
+ [ 0 16  9]
+ [ 2 13 24]]
+              precision    recall  f1-score   support
+
+          NC       0.89      0.89      0.89        35
+        LMCI       0.45      0.52      0.48        25
+        EMCI       0.66      0.59      0.62        39
+
+    accuracy                           0.68        99
+   macro avg       0.66      0.67      0.66        99
+weighted avg       0.69      0.68      0.68        99
+
+[[31  2  2]
+ [ 2 13 10]
+ [ 2 14 23]]
+Heavy Edge Matching coarsening with Xavier version
+384
+              precision    recall  f1-score   support
+
+          NC       1.00      0.09      0.16        35
+        LMCI       0.27      0.16      0.20        25
+        EMCI       0.42      0.87      0.57        39
+
+    accuracy                           0.41        99
+   macro avg       0.56      0.37      0.31        99
+weighted avg       0.59      0.41      0.33        99
+
+[[ 3  6 26]
+ [ 0  4 21]
+ [ 0  5 34]]
+              precision    recall  f1-score   support
+
+          NC       0.76      0.83      0.79        35
+        LMCI       0.48      0.48      0.48        25
+        EMCI       0.67      0.62      0.64        39
+
+    accuracy                           0.66        99
+   macro avg       0.64      0.64      0.64        99
+weighted avg       0.65      0.66      0.65        99
+
+[[29  3  3]
+ [ 4 12  9]
+ [ 5 10 24]]
+              precision    recall  f1-score   support
+
+          NC       0.91      0.91      0.91        35
+        LMCI       0.45      0.52      0.48        25
+        EMCI       0.66      0.59      0.62        39
+
+    accuracy                           0.69        99
+   macro avg       0.67      0.67      0.67        99
+weighted avg       0.70      0.69      0.69        99
+
+[[32  2  1]
+ [ 1 13 11]
+ [ 2 14 23]]
+Heavy Edge Matching coarsening with Xavier version
+384
+              precision    recall  f1-score   support
+
+          NC       0.75      0.77      0.76        35
+        LMCI       0.44      0.60      0.51        25
+        EMCI       0.66      0.49      0.56        39
+
+    accuracy                           0.62        99
+   macro avg       0.62      0.62      0.61        99
+weighted avg       0.63      0.62      0.62        99
+
+[[27  5  3]
+ [ 3 15  7]
+ [ 6 14 19]]
+              precision    recall  f1-score   support
+
+          NC       0.81      0.86      0.83        35
+        LMCI       0.43      0.36      0.39        25
+        EMCI       0.61      0.64      0.62        39
+
+    accuracy                           0.65        99
+   macro avg       0.62      0.62      0.62        99
+weighted avg       0.64      0.65      0.64        99
+
+[[30  2  3]
+ [ 3  9 13]
+ [ 4 10 25]]
+              precision    recall  f1-score   support
+
+          NC       0.87      0.94      0.90        35
+        LMCI       0.45      0.40      0.43        25
+        EMCI       0.64      0.64      0.64        39
+
+    accuracy                           0.69        99
+   macro avg       0.65      0.66      0.66        99
+weighted avg       0.67      0.69      0.68        99
+
+[[33  1  1]
+ [ 2 10 13]
+ [ 3 11 25]]
+count :  7  acc: 68.686869
+Heavy Edge Matching coarsening with Xavier version
+320
+              precision    recall  f1-score   support
+
+          NC       0.63      0.91      0.74        35
+        LMCI       0.45      0.36      0.40        25
+        EMCI       0.68      0.49      0.57        39
+
+    accuracy                           0.61        99
+   macro avg       0.59      0.59      0.57        99
+weighted avg       0.60      0.61      0.59        99
+
+[[32  1  2]
+ [ 9  9  7]
+ [10 10 19]]
+              precision    recall  f1-score   support
+
+          NC       0.82      0.80      0.81        35
+        LMCI       0.43      0.40      0.42        25
+        EMCI       0.62      0.67      0.64        39
+
+    accuracy                           0.65        99
+   macro avg       0.63      0.62      0.62        99
+weighted avg       0.64      0.65      0.65        99
+
+[[28  3  4]
+ [ 3 10 12]
+ [ 3 10 26]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.54      0.52      0.53        25
+        EMCI       0.72      0.72      0.72        39
+
+    accuracy                           0.76        99
+   macro avg       0.73      0.74      0.74        99
+weighted avg       0.75      0.76      0.76        99
+
+[[34  1  0]
+ [ 1 13 11]
+ [ 1 10 28]]
+Heavy Edge Matching coarsening with Xavier version
+320
+              precision    recall  f1-score   support
+
+          NC       0.72      0.80      0.76        35
+        LMCI       0.42      0.40      0.41        25
+        EMCI       0.53      0.49      0.51        39
+
+    accuracy                           0.58        99
+   macro avg       0.55      0.56      0.56        99
+weighted avg       0.57      0.58      0.57        99
+
+[[28  2  5]
+ [ 3 10 12]
+ [ 8 12 19]]
+              precision    recall  f1-score   support
+
+          NC       0.82      0.80      0.81        35
+        LMCI       0.45      0.40      0.43        25
+        EMCI       0.63      0.69      0.66        39
+
+    accuracy                           0.66        99
+   macro avg       0.64      0.63      0.63        99
+weighted avg       0.65      0.66      0.65        99
+
+[[28  3  4]
+ [ 3 10 12]
+ [ 3  9 27]]
+              precision    recall  f1-score   support
+
+          NC       0.97      0.91      0.94        35
+        LMCI       0.48      0.52      0.50        25
+        EMCI       0.69      0.69      0.69        39
+
+    accuracy                           0.73        99
+   macro avg       0.71      0.71      0.71        99
+weighted avg       0.74      0.73      0.73        99
+
+[[32  2  1]
+ [ 1 13 11]
+ [ 0 12 27]]
+Heavy Edge Matching coarsening with Xavier version
+320
+              precision    recall  f1-score   support
+
+          NC       1.00      0.31      0.48        35
+        LMCI       0.31      0.16      0.21        25
+        EMCI       0.47      0.90      0.61        39
+
+    accuracy                           0.51        99
+   macro avg       0.59      0.46      0.43        99
+weighted avg       0.62      0.51      0.46        99
+
+[[11  5 19]
+ [ 0  4 21]
+ [ 0  4 35]]
+              precision    recall  f1-score   support
+
+          NC       0.81      0.74      0.78        35
+        LMCI       0.38      0.40      0.39        25
+        EMCI       0.61      0.64      0.62        39
+
+    accuracy                           0.62        99
+   macro avg       0.60      0.59      0.60        99
+weighted avg       0.62      0.62      0.62        99
+
+[[26  5  4]
+ [ 3 10 12]
+ [ 3 11 25]]
+              precision    recall  f1-score   support
+
+          NC       0.89      0.94      0.92        35
+        LMCI       0.52      0.48      0.50        25
+        EMCI       0.69      0.69      0.69        39
+
+    accuracy                           0.73        99
+   macro avg       0.70      0.71      0.70        99
+weighted avg       0.72      0.73      0.72        99
+
+[[33  1  1]
+ [ 2 12 11]
+ [ 2 10 27]]
+count :  8  acc: 75.757576
+Heavy Edge Matching coarsening with Xavier version
+448
+              precision    recall  f1-score   support
+
+          NC       0.82      0.77      0.79        35
+        LMCI       0.39      0.36      0.37        25
+        EMCI       0.60      0.67      0.63        39
+
+    accuracy                           0.63        99
+   macro avg       0.60      0.60      0.60        99
+weighted avg       0.63      0.63      0.63        99
+
+[[27  4  4]
+ [ 3  9 13]
+ [ 3 10 26]]
+              precision    recall  f1-score   support
+
+          NC       0.86      0.86      0.86        35
+        LMCI       0.44      0.28      0.34        25
+        EMCI       0.60      0.74      0.67        39
+
+    accuracy                           0.67        99
+   macro avg       0.63      0.63      0.62        99
+weighted avg       0.65      0.67      0.65        99
+
+[[30  1  4]
+ [ 3  7 15]
+ [ 2  8 29]]
+              precision    recall  f1-score   support
+
+          NC       0.91      0.86      0.88        35
+        LMCI       0.50      0.40      0.44        25
+        EMCI       0.63      0.74      0.68        39
+
+    accuracy                           0.70        99
+   macro avg       0.68      0.67      0.67        99
+weighted avg       0.70      0.70      0.69        99
+
+[[30  1  4]
+ [ 2 10 13]
+ [ 1  9 29]]
+Heavy Edge Matching coarsening with Xavier version
+448
+              precision    recall  f1-score   support
+
+          NC       0.85      0.66      0.74        35
+        LMCI       0.43      0.48      0.45        25
+        EMCI       0.59      0.67      0.63        39
+
+    accuracy                           0.62        99
+   macro avg       0.62      0.60      0.61        99
+weighted avg       0.64      0.62      0.62        99
+
+[[23  6  6]
+ [ 1 12 12]
+ [ 3 10 26]]
+              precision    recall  f1-score   support
+
+          NC       0.91      0.83      0.87        35
+        LMCI       0.50      0.52      0.51        25
+        EMCI       0.66      0.69      0.68        39
+
+    accuracy                           0.70        99
+   macro avg       0.69      0.68      0.68        99
+weighted avg       0.71      0.70      0.70        99
+
+[[29  2  4]
+ [ 2 13 10]
+ [ 1 11 27]]
+              precision    recall  f1-score   support
+
+          NC       0.90      0.74      0.81        35
+        LMCI       0.43      0.36      0.39        25
+        EMCI       0.59      0.74      0.66        39
+
+    accuracy                           0.65        99
+   macro avg       0.64      0.62      0.62        99
+weighted avg       0.66      0.65      0.65        99
+
+[[26  3  6]
+ [ 2  9 14]
+ [ 1  9 29]]
+Heavy Edge Matching coarsening with Xavier version
+448
+              precision    recall  f1-score   support
+
+          NC       1.00      0.46      0.63        35
+        LMCI       0.35      0.28      0.31        25
+        EMCI       0.49      0.79      0.61        39
+
+    accuracy                           0.55        99
+   macro avg       0.61      0.51      0.52        99
+weighted avg       0.64      0.55      0.54        99
+
+[[16  5 14]
+ [ 0  7 18]
+ [ 0  8 31]]
+              precision    recall  f1-score   support
+
+          NC       0.90      0.80      0.85        35
+        LMCI       0.42      0.56      0.48        25
+        EMCI       0.63      0.56      0.59        39
+
+    accuracy                           0.65        99
+   macro avg       0.65      0.64      0.64        99
+weighted avg       0.67      0.65      0.66        99
+
+[[28  3  4]
+ [ 2 14  9]
+ [ 1 16 22]]
+              precision    recall  f1-score   support
+
+          NC       0.91      0.89      0.90        35
+        LMCI       0.50      0.44      0.47        25
+        EMCI       0.65      0.72      0.68        39
+
+    accuracy                           0.71        99
+   macro avg       0.69      0.68      0.68        99
+weighted avg       0.71      0.71      0.70        99
+
+[[31  1  3]
+ [ 2 11 12]
+ [ 1 10 28]]
+count :  9  acc: 70.707071
+Heavy Edge Matching coarsening with Xavier version
+352
+              precision    recall  f1-score   support
+
+          NC       0.81      0.60      0.69        35
+        LMCI       0.42      0.40      0.41        25
+        EMCI       0.51      0.64      0.57        39
+
+    accuracy                           0.57        99
+   macro avg       0.58      0.55      0.55        99
+weighted avg       0.59      0.57      0.57        99
+
+[[21  4 10]
+ [ 1 10 14]
+ [ 4 10 25]]
+              precision    recall  f1-score   support
+
+          NC       0.97      0.91      0.94        35
+        LMCI       0.47      0.32      0.38        25
+        EMCI       0.61      0.77      0.68        39
+
+    accuracy                           0.71        99
+   macro avg       0.68      0.67      0.67        99
+weighted avg       0.70      0.71      0.70        99
+
+[[32  1  2]
+ [ 0  8 17]
+ [ 1  8 30]]
+              precision    recall  f1-score   support
+
+          NC       1.00      0.94      0.97        35
+        LMCI       0.50      0.36      0.42        25
+        EMCI       0.65      0.79      0.71        39
+
+    accuracy                           0.74        99
+   macro avg       0.72      0.70      0.70        99
+weighted avg       0.73      0.74      0.73        99
+
+[[33  1  1]
+ [ 0  9 16]
+ [ 0  8 31]]
+Heavy Edge Matching coarsening with Xavier version
+352
+              precision    recall  f1-score   support
+
+          NC       0.91      0.57      0.70        35
+        LMCI       0.44      0.44      0.44        25
+        EMCI       0.52      0.69      0.59        39
+
+    accuracy                           0.59        99
+   macro avg       0.62      0.57      0.58        99
+weighted avg       0.64      0.59      0.59        99
+
+[[20  4 11]
+ [ 0 11 14]
+ [ 2 10 27]]
+              precision    recall  f1-score   support
+
+          NC       0.87      0.97      0.92        35
+        LMCI       0.50      0.60      0.55        25
+        EMCI       0.77      0.59      0.67        39
+
+    accuracy                           0.73        99
+   macro avg       0.71      0.72      0.71        99
+weighted avg       0.74      0.73      0.73        99
+
+[[34  1  0]
+ [ 3 15  7]
+ [ 2 14 23]]
+              precision    recall  f1-score   support
+
+          NC       1.00      0.94      0.97        35
+        LMCI       0.45      0.52      0.48        25
+        EMCI       0.68      0.64      0.66        39
+
+    accuracy                           0.72        99
+   macro avg       0.71      0.70      0.70        99
+weighted avg       0.73      0.72      0.72        99
+
+[[33  2  0]
+ [ 0 13 12]
+ [ 0 14 25]]
+Heavy Edge Matching coarsening with Xavier version
+352
+              precision    recall  f1-score   support
+
+          NC       0.82      0.66      0.73        35
+        LMCI       0.43      0.40      0.42        25
+        EMCI       0.52      0.64      0.57        39
+
+    accuracy                           0.59        99
+   macro avg       0.59      0.57      0.57        99
+weighted avg       0.61      0.59      0.59        99
+
+[[23  3  9]
+ [ 1 10 14]
+ [ 4 10 25]]
+              precision    recall  f1-score   support
+
+          NC       0.97      0.89      0.93        35
+        LMCI       0.52      0.56      0.54        25
+        EMCI       0.68      0.69      0.68        39
+
+    accuracy                           0.73        99
+   macro avg       0.72      0.71      0.72        99
+weighted avg       0.74      0.73      0.73        99
+
+[[31  2  2]
+ [ 0 14 11]
+ [ 1 11 27]]
+              precision    recall  f1-score   support
+
+          NC       1.00      0.91      0.96        35
+        LMCI       0.45      0.40      0.43        25
+        EMCI       0.67      0.77      0.71        39
+
+    accuracy                           0.73        99
+   macro avg       0.71      0.69      0.70        99
+weighted avg       0.73      0.73      0.73        99
+
+[[32  3  0]
+ [ 0 10 15]
+ [ 0  9 30]]
+count :  10  acc: 73.737374
+Heavy Edge Matching coarsening with Xavier version
+288
+              precision    recall  f1-score   support
+
+          NC       0.68      0.74      0.71        35
+        LMCI       0.55      0.24      0.33        25
+        EMCI       0.58      0.74      0.65        39
+
+    accuracy                           0.62        99
+   macro avg       0.60      0.58      0.57        99
+weighted avg       0.61      0.62      0.59        99
+
+[[26  2  7]
+ [ 5  6 14]
+ [ 7  3 29]]
+              precision    recall  f1-score   support
+
+          NC       0.92      0.94      0.93        35
+        LMCI       0.52      0.56      0.54        25
+        EMCI       0.69      0.64      0.67        39
+
+    accuracy                           0.73        99
+   macro avg       0.71      0.71      0.71        99
+weighted avg       0.73      0.73      0.73        99
+
+[[33  1  1]
+ [ 1 14 10]
+ [ 2 12 25]]
+              precision    recall  f1-score   support
+
+          NC       0.92      0.94      0.93        35
+        LMCI       0.50      0.36      0.42        25
+        EMCI       0.64      0.74      0.69        39
+
+    accuracy                           0.72        99
+   macro avg       0.69      0.68      0.68        99
+weighted avg       0.70      0.72      0.71        99
+
+[[33  1  1]
+ [ 1  9 15]
+ [ 2  8 29]]
+Heavy Edge Matching coarsening with Xavier version
+288
+              precision    recall  f1-score   support
+
+          NC       0.77      0.66      0.71        35
+        LMCI       0.41      0.36      0.38        25
+        EMCI       0.60      0.72      0.65        39
+
+    accuracy                           0.61        99
+   macro avg       0.59      0.58      0.58        99
+weighted avg       0.61      0.61      0.60        99
+
+[[23  6  6]
+ [ 3  9 13]
+ [ 4  7 28]]
+              precision    recall  f1-score   support
+
+          NC       0.89      0.94      0.92        35
+        LMCI       0.56      0.60      0.58        25
+        EMCI       0.74      0.67      0.70        39
+
+    accuracy                           0.75        99
+   macro avg       0.73      0.74      0.73        99
+weighted avg       0.75      0.75      0.75        99
+
+[[33  1  1]
+ [ 2 15  8]
+ [ 2 11 26]]
+              precision    recall  f1-score   support
+
+          NC       0.92      0.94      0.93        35
+        LMCI       0.44      0.60      0.51        25
+        EMCI       0.69      0.51      0.59        39
+
+    accuracy                           0.69        99
+   macro avg       0.68      0.69      0.68        99
+weighted avg       0.71      0.69      0.69        99
+
+[[33  2  0]
+ [ 1 15  9]
+ [ 2 17 20]]
+Heavy Edge Matching coarsening with Xavier version
+288
+              precision    recall  f1-score   support
+
+          NC       0.63      0.77      0.69        35
+        LMCI       0.56      0.20      0.29        25
+        EMCI       0.62      0.74      0.67        39
+
+    accuracy                           0.62        99
+   macro avg       0.60      0.57      0.55        99
+weighted avg       0.61      0.62      0.58        99
+
+[[27  2  6]
+ [ 8  5 12]
+ [ 8  2 29]]
+              precision    recall  f1-score   support
+
+          NC       0.93      0.77      0.84        35
+        LMCI       0.42      0.44      0.43        25
+        EMCI       0.66      0.74      0.70        39
+
+    accuracy                           0.68        99
+   macro avg       0.67      0.65      0.66        99
+weighted avg       0.70      0.68      0.68        99
+
+[[27  6  2]
+ [ 1 11 13]
+ [ 1  9 29]]
+              precision    recall  f1-score   support
+
+          NC       0.92      0.97      0.94        35
+        LMCI       0.48      0.52      0.50        25
+        EMCI       0.69      0.62      0.65        39
+
+    accuracy                           0.72        99
+   macro avg       0.70      0.70      0.70        99
+weighted avg       0.72      0.72      0.72        99
+
+[[34  1  0]
+ [ 1 13 11]
+ [ 2 13 24]]
+count :  11  acc: 71.717172
+Heavy Edge Matching coarsening with Xavier version
+432
+              precision    recall  f1-score   support
+
+          NC       0.82      0.51      0.63        35
+        LMCI       0.50      0.20      0.29        25
+        EMCI       0.49      0.85      0.62        39
+
+    accuracy                           0.57        99
+   macro avg       0.60      0.52      0.51        99
+weighted avg       0.61      0.57      0.54        99
+
+[[18  2 15]
+ [ 1  5 19]
+ [ 3  3 33]]
+              precision    recall  f1-score   support
+
+          NC       0.82      0.94      0.88        35
+        LMCI       0.48      0.44      0.46        25
+        EMCI       0.69      0.64      0.67        39
+
+    accuracy                           0.70        99
+   macro avg       0.67      0.67      0.67        99
+weighted avg       0.69      0.70      0.69        99
+
+[[33  2  0]
+ [ 3 11 11]
+ [ 4 10 25]]
+              precision    recall  f1-score   support
+
+          NC       0.92      0.97      0.94        35
+        LMCI       0.48      0.48      0.48        25
+        EMCI       0.68      0.64      0.66        39
+
+    accuracy                           0.72        99
+   macro avg       0.69      0.70      0.69        99
+weighted avg       0.71      0.72      0.71        99
+
+[[34  1  0]
+ [ 1 12 12]
+ [ 2 12 25]]
+Heavy Edge Matching coarsening with Xavier version
+432
+              precision    recall  f1-score   support
+
+          NC       0.63      0.89      0.74        35
+        LMCI       0.44      0.44      0.44        25
+        EMCI       0.72      0.46      0.56        39
+
+    accuracy                           0.61        99
+   macro avg       0.60      0.60      0.58        99
+weighted avg       0.62      0.61      0.59        99
+
+[[31  3  1]
+ [ 8 11  6]
+ [10 11 18]]
+              precision    recall  f1-score   support
+
+          NC       0.78      0.91      0.84        35
+        LMCI       0.46      0.44      0.45        25
+        EMCI       0.68      0.59      0.63        39
+
+    accuracy                           0.67        99
+   macro avg       0.64      0.65      0.64        99
+weighted avg       0.66      0.67      0.66        99
+
+[[32  2  1]
+ [ 4 11 10]
+ [ 5 11 23]]
+              precision    recall  f1-score   support
+
+          NC       0.91      0.86      0.88        35
+        LMCI       0.44      0.64      0.52        25
+        EMCI       0.70      0.54      0.61        39
+
+    accuracy                           0.68        99
+   macro avg       0.68      0.68      0.67        99
+weighted avg       0.71      0.68      0.68        99
+
+[[30  4  1]
+ [ 1 16  8]
+ [ 2 16 21]]
+Heavy Edge Matching coarsening with Xavier version
+432
+              precision    recall  f1-score   support
+
+          NC       0.88      0.43      0.58        35
+        LMCI       0.35      0.28      0.31        25
+        EMCI       0.50      0.79      0.61        39
+
+    accuracy                           0.54        99
+   macro avg       0.58      0.50      0.50        99
+weighted avg       0.60      0.54      0.52        99
+
+[[15  7 13]
+ [ 0  7 18]
+ [ 2  6 31]]
+              precision    recall  f1-score   support
+
+          NC       0.79      0.89      0.84        35
+        LMCI       0.44      0.28      0.34        25
+        EMCI       0.61      0.69      0.65        39
+
+    accuracy                           0.66        99
+   macro avg       0.62      0.62      0.61        99
+weighted avg       0.63      0.66      0.64        99
+
+[[31  1  3]
+ [ 4  7 14]
+ [ 4  8 27]]
+              precision    recall  f1-score   support
+
+          NC       0.92      0.97      0.94        35
+        LMCI       0.48      0.40      0.43        25
+        EMCI       0.66      0.69      0.68        39
+
+    accuracy                           0.72        99
+   macro avg       0.68      0.69      0.68        99
+weighted avg       0.70      0.72      0.71        99
+
+[[34  1  0]
+ [ 1 10 14]
+ [ 2 10 27]]
+count :  12  acc: 71.717172
+Heavy Edge Matching coarsening with Xavier version
+448
+              precision    recall  f1-score   support
+
+          NC       0.88      0.63      0.73        35
+        LMCI       0.44      0.44      0.44        25
+        EMCI       0.53      0.67      0.59        39
+
+    accuracy                           0.60        99
+   macro avg       0.62      0.58      0.59        99
+weighted avg       0.63      0.60      0.60        99
+
+[[22  4  9]
+ [ 0 11 14]
+ [ 3 10 26]]
+              precision    recall  f1-score   support
+
+          NC       0.86      0.86      0.86        35
+        LMCI       0.42      0.40      0.41        25
+        EMCI       0.65      0.67      0.66        39
+
+    accuracy                           0.67        99
+   macro avg       0.64      0.64      0.64        99
+weighted avg       0.66      0.67      0.67        99
+
+[[30  3  2]
+ [ 3 10 12]
+ [ 2 11 26]]
+              precision    recall  f1-score   support
+
+          NC       0.86      0.91      0.89        35
+        LMCI       0.44      0.56      0.49        25
+        EMCI       0.70      0.54      0.61        39
+
+    accuracy                           0.68        99
+   macro avg       0.67      0.67      0.66        99
+weighted avg       0.69      0.68      0.68        99
+
+[[32  2  1]
+ [ 3 14  8]
+ [ 2 16 21]]
+Heavy Edge Matching coarsening with Xavier version
+448
+              precision    recall  f1-score   support
+
+          NC       0.92      0.34      0.50        35
+        LMCI       0.31      0.36      0.33        25
+        EMCI       0.47      0.69      0.56        39
+
+    accuracy                           0.48        99
+   macro avg       0.57      0.47      0.47        99
+weighted avg       0.59      0.48      0.48        99
+
+[[12  9 14]
+ [ 0  9 16]
+ [ 1 11 27]]
+              precision    recall  f1-score   support
+
+          NC       0.84      0.91      0.88        35
+        LMCI       0.48      0.48      0.48        25
+        EMCI       0.67      0.62      0.64        39
+
+    accuracy                           0.69        99
+   macro avg       0.66      0.67      0.67        99
+weighted avg       0.68      0.69      0.68        99
+
+[[32  1  2]
+ [ 3 12 10]
+ [ 3 12 24]]
+              precision    recall  f1-score   support
+
+          NC       0.88      0.86      0.87        35
+        LMCI       0.37      0.40      0.38        25
+        EMCI       0.61      0.59      0.60        39
+
+    accuracy                           0.64        99
+   macro avg       0.62      0.62      0.62        99
+weighted avg       0.64      0.64      0.64        99
+
+[[30  2  3]
+ [ 3 10 12]
+ [ 1 15 23]]
+Heavy Edge Matching coarsening with Xavier version
+448
+              precision    recall  f1-score   support
+
+          NC       0.95      0.60      0.74        35
+        LMCI       0.44      0.44      0.44        25
+        EMCI       0.52      0.69      0.59        39
+
+    accuracy                           0.60        99
+   macro avg       0.64      0.58      0.59        99
+weighted avg       0.65      0.60      0.61        99
+
+[[21  3 11]
+ [ 0 11 14]
+ [ 1 11 27]]
+              precision    recall  f1-score   support
+
+          NC       0.84      0.89      0.86        35
+        LMCI       0.41      0.28      0.33        25
+        EMCI       0.60      0.69      0.64        39
+
+    accuracy                           0.66        99
+   macro avg       0.62      0.62      0.61        99
+weighted avg       0.64      0.66      0.64        99
+
+[[31  1  3]
+ [ 3  7 15]
+ [ 3  9 27]]
+              precision    recall  f1-score   support
+
+          NC       0.84      0.91      0.88        35
+        LMCI       0.42      0.40      0.41        25
+        EMCI       0.62      0.59      0.61        39
+
+    accuracy                           0.66        99
+   macro avg       0.63      0.63      0.63        99
+weighted avg       0.65      0.66      0.65        99
+
+[[32  1  2]
+ [ 3 10 12]
+ [ 3 13 23]]
+count :  13  acc: 67.676768
+Heavy Edge Matching coarsening with Xavier version
+496
+              precision    recall  f1-score   support
+
+          NC       0.92      0.34      0.50        35
+        LMCI       0.36      0.76      0.49        25
+        EMCI       0.64      0.54      0.58        39
+
+    accuracy                           0.53        99
+   macro avg       0.64      0.55      0.52        99
+weighted avg       0.67      0.53      0.53        99
+
+[[12 17  6]
+ [ 0 19  6]
+ [ 1 17 21]]
+              precision    recall  f1-score   support
+
+          NC       0.90      0.77      0.83        35
+        LMCI       0.45      0.52      0.48        25
+        EMCI       0.65      0.67      0.66        39
+
+    accuracy                           0.67        99
+   macro avg       0.67      0.65      0.66        99
+weighted avg       0.69      0.67      0.67        99
+
+[[27  5  3]
+ [ 1 13 11]
+ [ 2 11 26]]
+              precision    recall  f1-score   support
+
+          NC       0.91      0.86      0.88        35
+        LMCI       0.45      0.56      0.50        25
+        EMCI       0.69      0.62      0.65        39
+
+    accuracy                           0.69        99
+   macro avg       0.68      0.68      0.68        99
+weighted avg       0.71      0.69      0.69        99
+
+[[30  4  1]
+ [ 1 14 10]
+ [ 2 13 24]]
+Heavy Edge Matching coarsening with Xavier version
+496
+              precision    recall  f1-score   support
+
+          NC       0.80      0.69      0.74        35
+        LMCI       0.43      0.36      0.39        25
+        EMCI       0.54      0.67      0.60        39
+
+    accuracy                           0.60        99
+   macro avg       0.59      0.57      0.58        99
+weighted avg       0.60      0.60      0.60        99
+
+[[24  4  7]
+ [ 1  9 15]
+ [ 5  8 26]]
+              precision    recall  f1-score   support
+
+          NC       0.83      0.83      0.83        35
+        LMCI       0.45      0.56      0.50        25
+        EMCI       0.70      0.59      0.64        39
+
+    accuracy                           0.67        99
+   macro avg       0.66      0.66      0.66        99
+weighted avg       0.68      0.67      0.67        99
+
+[[29  5  1]
+ [ 2 14  9]
+ [ 4 12 23]]
+              precision    recall  f1-score   support
+
+          NC       0.83      0.97      0.89        35
+        LMCI       0.45      0.40      0.43        25
+        EMCI       0.67      0.62      0.64        39
+
+    accuracy                           0.69        99
+   macro avg       0.65      0.66      0.65        99
+weighted avg       0.67      0.69      0.68        99
+
+[[34  1  0]
+ [ 3 10 12]
+ [ 4 11 24]]
+Heavy Edge Matching coarsening with Xavier version
+496
+              precision    recall  f1-score   support
+
+          NC       0.94      0.43      0.59        35
+        LMCI       0.35      0.32      0.33        25
+        EMCI       0.48      0.74      0.59        39
+
+    accuracy                           0.53        99
+   macro avg       0.59      0.50      0.50        99
+weighted avg       0.61      0.53      0.52        99
+
+[[15  6 14]
+ [ 0  8 17]
+ [ 1  9 29]]
+              precision    recall  f1-score   support
+
+          NC       0.76      0.91      0.83        35
+        LMCI       0.48      0.44      0.46        25
+        EMCI       0.71      0.62      0.66        39
+
+    accuracy                           0.68        99
+   macro avg       0.65      0.66      0.65        99
+weighted avg       0.67      0.68      0.67        99
+
+[[32  2  1]
+ [ 5 11  9]
+ [ 5 10 24]]
+              precision    recall  f1-score   support
+
+          NC       0.91      0.86      0.88        35
+        LMCI       0.46      0.48      0.47        25
+        EMCI       0.68      0.69      0.68        39
+
+    accuracy                           0.70        99
+   macro avg       0.68      0.68      0.68        99
+weighted avg       0.70      0.70      0.70        99
+
+[[30  4  1]
+ [ 1 12 12]
+ [ 2 10 27]]
+count :  14  acc: 69.696970
+Heavy Edge Matching coarsening with Xavier version
+384
+              precision    recall  f1-score   support
+
+          NC       0.71      0.69      0.70        35
+        LMCI       0.38      0.24      0.29        25
+        EMCI       0.55      0.69      0.61        39
+
+    accuracy                           0.58        99
+   macro avg       0.54      0.54      0.53        99
+weighted avg       0.56      0.58      0.56        99
+
+[[24  2  9]
+ [ 6  6 13]
+ [ 4  8 27]]
+              precision    recall  f1-score   support
+
+          NC       0.93      0.80      0.86        35
+        LMCI       0.45      0.52      0.48        25
+        EMCI       0.68      0.69      0.68        39
+
+    accuracy                           0.69        99
+   macro avg       0.69      0.67      0.68        99
+weighted avg       0.71      0.69      0.70        99
+
+[[28  5  2]
+ [ 1 13 11]
+ [ 1 11 27]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.94      0.94        35
+        LMCI       0.50      0.28      0.36        25
+        EMCI       0.62      0.79      0.70        39
+
+    accuracy                           0.72        99
+   macro avg       0.69      0.67      0.67        99
+weighted avg       0.70      0.72      0.70        99
+
+[[33  0  2]
+ [ 1  7 17]
+ [ 1  7 31]]
+Heavy Edge Matching coarsening with Xavier version
+384
+              precision    recall  f1-score   support
+
+          NC       0.91      0.29      0.43        35
+        LMCI       0.37      0.40      0.38        25
+        EMCI       0.51      0.79      0.62        39
+
+    accuracy                           0.52        99
+   macro avg       0.60      0.49      0.48        99
+weighted avg       0.62      0.52      0.50        99
+
+[[10 10 15]
+ [ 0 10 15]
+ [ 1  7 31]]
+              precision    recall  f1-score   support
+
+          NC       0.88      0.86      0.87        35
+        LMCI       0.46      0.48      0.47        25
+        EMCI       0.69      0.69      0.69        39
+
+    accuracy                           0.70        99
+   macro avg       0.68      0.68      0.68        99
+weighted avg       0.70      0.70      0.70        99
+
+[[30  4  1]
+ [ 2 12 11]
+ [ 2 10 27]]
+              precision    recall  f1-score   support
+
+          NC       0.92      0.94      0.93        35
+        LMCI       0.46      0.44      0.45        25
+        EMCI       0.64      0.64      0.64        39
+
+    accuracy                           0.70        99
+   macro avg       0.67      0.67      0.67        99
+weighted avg       0.69      0.70      0.69        99
+
+[[33  1  1]
+ [ 1 11 13]
+ [ 2 12 25]]
+Heavy Edge Matching coarsening with Xavier version
+384
+              precision    recall  f1-score   support
+
+          NC       0.68      0.71      0.69        35
+        LMCI       0.35      0.36      0.35        25
+        EMCI       0.58      0.54      0.56        39
+
+    accuracy                           0.56        99
+   macro avg       0.54      0.54      0.54        99
+weighted avg       0.56      0.56      0.56        99
+
+[[25  5  5]
+ [ 6  9 10]
+ [ 6 12 21]]
+              precision    recall  f1-score   support
+
+          NC       0.93      0.77      0.84        35
+        LMCI       0.44      0.44      0.44        25
+        EMCI       0.64      0.74      0.69        39
+
+    accuracy                           0.68        99
+   macro avg       0.67      0.65      0.66        99
+weighted avg       0.69      0.68      0.68        99
+
+[[27  5  3]
+ [ 1 11 13]
+ [ 1  9 29]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.91      0.93        35
+        LMCI       0.57      0.48      0.52        25
+        EMCI       0.68      0.77      0.72        39
+
+    accuracy                           0.75        99
+   macro avg       0.73      0.72      0.72        99
+weighted avg       0.75      0.75      0.74        99
+
+[[32  1  2]
+ [ 1 12 12]
+ [ 1  8 30]]
+count :  15  acc: 74.747475
+Heavy Edge Matching coarsening with Xavier version
+400
+              precision    recall  f1-score   support
+
+          NC       0.88      0.66      0.75        35
+        LMCI       0.30      0.12      0.17        25
+        EMCI       0.51      0.82      0.63        39
+
+    accuracy                           0.59        99
+   macro avg       0.56      0.53      0.52        99
+weighted avg       0.59      0.59      0.56        99
+
+[[23  1 11]
+ [ 2  3 20]
+ [ 1  6 32]]
+              precision    recall  f1-score   support
+
+          NC       0.93      0.77      0.84        35
+        LMCI       0.38      0.40      0.39        25
+        EMCI       0.57      0.64      0.60        39
+
+    accuracy                           0.63        99
+   macro avg       0.63      0.60      0.61        99
+weighted avg       0.65      0.63      0.63        99
+
+[[27  3  5]
+ [ 1 10 14]
+ [ 1 13 25]]
+              precision    recall  f1-score   support
+
+          NC       0.80      0.94      0.87        35
+        LMCI       0.43      0.40      0.42        25
+        EMCI       0.63      0.56      0.59        39
+
+    accuracy                           0.66        99
+   macro avg       0.62      0.64      0.63        99
+weighted avg       0.64      0.66      0.65        99
+
+[[33  1  1]
+ [ 3 10 12]
+ [ 5 12 22]]
+Heavy Edge Matching coarsening with Xavier version
+400
+              precision    recall  f1-score   support
+
+          NC       0.81      0.74      0.78        35
+        LMCI       0.40      0.24      0.30        25
+        EMCI       0.54      0.72      0.62        39
+
+    accuracy                           0.61        99
+   macro avg       0.58      0.57      0.56        99
+weighted avg       0.60      0.61      0.59        99
+
+[[26  2  7]
+ [ 2  6 17]
+ [ 4  7 28]]
+              precision    recall  f1-score   support
+
+          NC       0.93      0.77      0.84        35
+        LMCI       0.39      0.28      0.33        25
+        EMCI       0.58      0.77      0.66        39
+
+    accuracy                           0.65        99
+   macro avg       0.63      0.61      0.61        99
+weighted avg       0.65      0.65      0.64        99
+
+[[27  3  5]
+ [ 1  7 17]
+ [ 1  8 30]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.86      0.90        35
+        LMCI       0.43      0.60      0.50        25
+        EMCI       0.69      0.56      0.62        39
+
+    accuracy                           0.68        99
+   macro avg       0.68      0.67      0.67        99
+weighted avg       0.71      0.68      0.69        99
+
+[[30  4  1]
+ [ 1 15  9]
+ [ 1 16 22]]
+Heavy Edge Matching coarsening with Xavier version
+400
+              precision    recall  f1-score   support
+
+          NC       0.96      0.63      0.76        35
+        LMCI       0.43      0.40      0.42        25
+        EMCI       0.53      0.72      0.61        39
+
+    accuracy                           0.61        99
+   macro avg       0.64      0.58      0.59        99
+weighted avg       0.66      0.61      0.61        99
+
+[[22  3 10]
+ [ 0 10 15]
+ [ 1 10 28]]
+              precision    recall  f1-score   support
+
+          NC       0.91      0.86      0.88        35
+        LMCI       0.48      0.60      0.54        25
+        EMCI       0.66      0.59      0.62        39
+
+    accuracy                           0.69        99
+   macro avg       0.68      0.68      0.68        99
+weighted avg       0.70      0.69      0.69        99
+
+[[30  2  3]
+ [ 1 15  9]
+ [ 2 14 23]]
+              precision    recall  f1-score   support
+
+          NC       0.93      0.80      0.86        35
+        LMCI       0.47      0.32      0.38        25
+        EMCI       0.62      0.82      0.70        39
+
+    accuracy                           0.69        99
+   macro avg       0.67      0.65      0.65        99
+weighted avg       0.69      0.69      0.68        99
+
+[[28  3  4]
+ [ 1  8 16]
+ [ 1  6 32]]
+count :  16  acc: 68.686869
+Heavy Edge Matching coarsening with Xavier version
+384
+              precision    recall  f1-score   support
+
+          NC       0.73      0.54      0.62        35
+        LMCI       0.43      0.36      0.39        25
+        EMCI       0.50      0.67      0.57        39
+
+    accuracy                           0.55        99
+   macro avg       0.55      0.52      0.53        99
+weighted avg       0.56      0.55      0.54        99
+
+[[19  4 12]
+ [ 2  9 14]
+ [ 5  8 26]]
+              precision    recall  f1-score   support
+
+          NC       0.86      0.91      0.89        35
+        LMCI       0.54      0.52      0.53        25
+        EMCI       0.71      0.69      0.70        39
+
+    accuracy                           0.73        99
+   macro avg       0.71      0.71      0.71        99
+weighted avg       0.72      0.73      0.72        99
+
+[[32  2  1]
+ [ 2 13 10]
+ [ 3  9 27]]
+              precision    recall  f1-score   support
+
+          NC       0.97      0.89      0.93        35
+        LMCI       0.44      0.60      0.51        25
+        EMCI       0.67      0.56      0.61        39
+
+    accuracy                           0.69        99
+   macro avg       0.69      0.68      0.68        99
+weighted avg       0.72      0.69      0.70        99
+
+[[31  3  1]
+ [ 0 15 10]
+ [ 1 16 22]]
+Heavy Edge Matching coarsening with Xavier version
+384
+              precision    recall  f1-score   support
+
+          NC       0.72      0.37      0.49        35
+        LMCI       0.39      0.48      0.43        25
+        EMCI       0.52      0.67      0.58        39
+
+    accuracy                           0.52        99
+   macro avg       0.54      0.51      0.50        99
+weighted avg       0.56      0.52      0.51        99
+
+[[13 10 12]
+ [ 1 12 12]
+ [ 4  9 26]]
+              precision    recall  f1-score   support
+
+          NC       0.86      0.89      0.87        35
+        LMCI       0.38      0.24      0.29        25
+        EMCI       0.62      0.74      0.67        39
+
+    accuracy                           0.67        99
+   macro avg       0.62      0.62      0.61        99
+weighted avg       0.64      0.67      0.65        99
+
+[[31  3  1]
+ [ 2  6 17]
+ [ 3  7 29]]
+              precision    recall  f1-score   support
+
+          NC       0.91      0.89      0.90        35
+        LMCI       0.50      0.40      0.44        25
+        EMCI       0.67      0.77      0.71        39
+
+    accuracy                           0.72        99
+   macro avg       0.69      0.68      0.69        99
+weighted avg       0.71      0.72      0.71        99
+
+[[31  3  1]
+ [ 1 10 14]
+ [ 2  7 30]]
+Heavy Edge Matching coarsening with Xavier version
+384
+              precision    recall  f1-score   support
+
+          NC       0.71      0.49      0.58        35
+        LMCI       0.40      0.56      0.47        25
+        EMCI       0.60      0.62      0.61        39
+
+    accuracy                           0.56        99
+   macro avg       0.57      0.55      0.55        99
+weighted avg       0.59      0.56      0.56        99
+
+[[17 11  7]
+ [ 2 14  9]
+ [ 5 10 24]]
+              precision    recall  f1-score   support
+
+          NC       0.81      0.97      0.88        35
+        LMCI       0.36      0.16      0.22        25
+        EMCI       0.63      0.74      0.68        39
+
+    accuracy                           0.68        99
+   macro avg       0.60      0.63      0.60        99
+weighted avg       0.63      0.68      0.64        99
+
+[[34  1  0]
+ [ 4  4 17]
+ [ 4  6 29]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.89      0.91        35
+        LMCI       0.43      0.60      0.50        25
+        EMCI       0.68      0.54      0.60        39
+
+    accuracy                           0.68        99
+   macro avg       0.68      0.67      0.67        99
+weighted avg       0.71      0.68      0.68        99
+
+[[31  3  1]
+ [ 1 15  9]
+ [ 1 17 21]]
+count :  17  acc: 71.717172
+Heavy Edge Matching coarsening with Xavier version
+400
+              precision    recall  f1-score   support
+
+          NC       1.00      0.11      0.21        35
+        LMCI       0.30      0.64      0.41        25
+        EMCI       0.61      0.64      0.62        39
+
+    accuracy                           0.45        99
+   macro avg       0.64      0.47      0.41        99
+weighted avg       0.67      0.45      0.42        99
+
+[[ 4 24  7]
+ [ 0 16  9]
+ [ 0 14 25]]
+              precision    recall  f1-score   support
+
+          NC       0.77      0.94      0.85        35
+        LMCI       0.52      0.52      0.52        25
+        EMCI       0.65      0.51      0.57        39
+
+    accuracy                           0.67        99
+   macro avg       0.64      0.66      0.65        99
+weighted avg       0.66      0.67      0.66        99
+
+[[33  1  1]
+ [ 2 13 10]
+ [ 8 11 20]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.86      0.90        35
+        LMCI       0.42      0.68      0.52        25
+        EMCI       0.67      0.46      0.55        39
+
+    accuracy                           0.66        99
+   macro avg       0.68      0.67      0.65        99
+weighted avg       0.70      0.66      0.66        99
+
+[[30  3  2]
+ [ 1 17  7]
+ [ 1 20 18]]
+Heavy Edge Matching coarsening with Xavier version
+400
+              precision    recall  f1-score   support
+
+          NC       0.81      0.71      0.76        35
+        LMCI       0.43      0.64      0.52        25
+        EMCI       0.61      0.49      0.54        39
+
+    accuracy                           0.61        99
+   macro avg       0.62      0.61      0.61        99
+weighted avg       0.64      0.61      0.61        99
+
+[[25  6  4]
+ [ 1 16  8]
+ [ 5 15 19]]
+              precision    recall  f1-score   support
+
+          NC       0.85      0.80      0.82        35
+        LMCI       0.38      0.20      0.26        25
+        EMCI       0.58      0.79      0.67        39
+
+    accuracy                           0.65        99
+   macro avg       0.61      0.60      0.59        99
+weighted avg       0.63      0.65      0.62        99
+
+[[28  3  4]
+ [ 2  5 18]
+ [ 3  5 31]]
+              precision    recall  f1-score   support
+
+          NC       0.82      0.91      0.86        35
+        LMCI       0.53      0.36      0.43        25
+        EMCI       0.60      0.67      0.63        39
+
+    accuracy                           0.68        99
+   macro avg       0.65      0.65      0.64        99
+weighted avg       0.66      0.68      0.66        99
+
+[[32  0  3]
+ [ 2  9 14]
+ [ 5  8 26]]
+Heavy Edge Matching coarsening with Xavier version
+400
+              precision    recall  f1-score   support
+
+          NC       0.88      0.63      0.73        35
+        LMCI       0.38      0.32      0.35        25
+        EMCI       0.53      0.72      0.61        39
+
+    accuracy                           0.59        99
+   macro avg       0.60      0.56      0.56        99
+weighted avg       0.62      0.59      0.59        99
+
+[[22  4  9]
+ [ 1  8 16]
+ [ 2  9 28]]
+              precision    recall  f1-score   support
+
+          NC       0.95      0.57      0.71        35
+        LMCI       0.43      0.60      0.50        25
+        EMCI       0.63      0.69      0.66        39
+
+    accuracy                           0.63        99
+   macro avg       0.67      0.62      0.62        99
+weighted avg       0.69      0.63      0.64        99
+
+[[20  9  6]
+ [ 0 15 10]
+ [ 1 11 27]]
+              precision    recall  f1-score   support
+
+          NC       0.96      0.74      0.84        35
+        LMCI       0.39      0.36      0.37        25
+        EMCI       0.61      0.77      0.68        39
+
+    accuracy                           0.66        99
+   macro avg       0.66      0.62      0.63        99
+weighted avg       0.68      0.66      0.66        99
+
+[[26  6  3]
+ [ 0  9 16]
+ [ 1  8 30]]
+count :  18  acc: 67.676768
+Heavy Edge Matching coarsening with Xavier version
+432
+              precision    recall  f1-score   support
+
+          NC       0.81      0.60      0.69        35
+        LMCI       0.40      0.56      0.47        25
+        EMCI       0.58      0.56      0.57        39
+
+    accuracy                           0.58        99
+   macro avg       0.60      0.57      0.58        99
+weighted avg       0.61      0.58      0.59        99
+
+[[21  8  6]
+ [ 1 14 10]
+ [ 4 13 22]]
+              precision    recall  f1-score   support
+
+          NC       0.89      0.94      0.92        35
+        LMCI       0.44      0.44      0.44        25
+        EMCI       0.65      0.62      0.63        39
+
+    accuracy                           0.69        99
+   macro avg       0.66      0.67      0.66        99
+weighted avg       0.68      0.69      0.68        99
+
+[[33  1  1]
+ [ 2 11 12]
+ [ 2 13 24]]
+              precision    recall  f1-score   support
+
+          NC       0.91      0.89      0.90        35
+        LMCI       0.30      0.24      0.27        25
+        EMCI       0.58      0.67      0.62        39
+
+    accuracy                           0.64        99
+   macro avg       0.60      0.60      0.59        99
+weighted avg       0.63      0.64      0.63        99
+
+[[31  2  2]
+ [ 2  6 17]
+ [ 1 12 26]]
+Heavy Edge Matching coarsening with Xavier version
+432
+              precision    recall  f1-score   support
+
+          NC       0.56      0.91      0.70        35
+        LMCI       0.32      0.28      0.30        25
+        EMCI       0.65      0.33      0.44        39
+
+    accuracy                           0.53        99
+   macro avg       0.51      0.51      0.48        99
+weighted avg       0.53      0.53      0.49        99
+
+[[32  2  1]
+ [12  7  6]
+ [13 13 13]]
+              precision    recall  f1-score   support
+
+          NC       0.88      0.83      0.85        35
+        LMCI       0.38      0.36      0.37        25
+        EMCI       0.60      0.64      0.62        39
+
+    accuracy                           0.64        99
+   macro avg       0.62      0.61      0.61        99
+weighted avg       0.64      0.64      0.64        99
+
+[[29  3  3]
+ [ 2  9 14]
+ [ 2 12 25]]
+              precision    recall  f1-score   support
+
+          NC       0.91      0.86      0.88        35
+        LMCI       0.36      0.40      0.38        25
+        EMCI       0.61      0.59      0.60        39
+
+    accuracy                           0.64        99
+   macro avg       0.62      0.62      0.62        99
+weighted avg       0.65      0.64      0.64        99
+
+[[30  3  2]
+ [ 2 10 13]
+ [ 1 15 23]]
+Heavy Edge Matching coarsening with Xavier version
+432
+              precision    recall  f1-score   support
+
+          NC       0.86      0.34      0.49        35
+        LMCI       0.35      0.32      0.33        25
+        EMCI       0.45      0.72      0.55        39
+
+    accuracy                           0.48        99
+   macro avg       0.55      0.46      0.46        99
+weighted avg       0.57      0.48      0.48        99
+
+[[12  6 17]
+ [ 0  8 17]
+ [ 2  9 28]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.83      0.88        35
+        LMCI       0.39      0.44      0.42        25
+        EMCI       0.60      0.62      0.61        39
+
+    accuracy                           0.65        99
+   macro avg       0.64      0.63      0.63        99
+weighted avg       0.67      0.65      0.65        99
+
+[[29  3  3]
+ [ 1 11 13]
+ [ 1 14 24]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.86      0.90        35
+        LMCI       0.41      0.68      0.52        25
+        EMCI       0.73      0.49      0.58        39
+
+    accuracy                           0.67        99
+   macro avg       0.69      0.67      0.67        99
+weighted avg       0.72      0.67      0.68        99
+
+[[30  5  0]
+ [ 1 17  7]
+ [ 1 19 19]]
+count :  19  acc: 66.666667
+Heavy Edge Matching coarsening with Xavier version
+336
+              precision    recall  f1-score   support
+
+          NC       1.00      0.46      0.63        35
+        LMCI       0.38      0.44      0.41        25
+        EMCI       0.52      0.72      0.60        39
+
+    accuracy                           0.56        99
+   macro avg       0.63      0.54      0.55        99
+weighted avg       0.65      0.56      0.56        99
+
+[[16  7 12]
+ [ 0 11 14]
+ [ 0 11 28]]
+              precision    recall  f1-score   support
+
+          NC       1.00      0.86      0.92        35
+        LMCI       0.47      0.28      0.35        25
+        EMCI       0.59      0.82      0.69        39
+
+    accuracy                           0.70        99
+   macro avg       0.69      0.65      0.65        99
+weighted avg       0.70      0.70      0.69        99
+
+[[30  1  4]
+ [ 0  7 18]
+ [ 0  7 32]]
+              precision    recall  f1-score   support
+
+          NC       1.00      0.86      0.92        35
+        LMCI       0.47      0.56      0.51        25
+        EMCI       0.67      0.67      0.67        39
+
+    accuracy                           0.71        99
+   macro avg       0.71      0.69      0.70        99
+weighted avg       0.73      0.71      0.72        99
+
+[[30  3  2]
+ [ 0 14 11]
+ [ 0 13 26]]
+Heavy Edge Matching coarsening with Xavier version
+336
+              precision    recall  f1-score   support
+
+          NC       0.72      0.80      0.76        35
+        LMCI       0.43      0.52      0.47        25
+        EMCI       0.67      0.51      0.58        39
+
+    accuracy                           0.62        99
+   macro avg       0.61      0.61      0.60        99
+weighted avg       0.63      0.62      0.62        99
+
+[[28  4  3]
+ [ 5 13  7]
+ [ 6 13 20]]
+              precision    recall  f1-score   support
+
+          NC       0.97      0.89      0.93        35
+        LMCI       0.57      0.64      0.60        25
+        EMCI       0.72      0.72      0.72        39
+
+    accuracy                           0.76        99
+   macro avg       0.75      0.75      0.75        99
+weighted avg       0.77      0.76      0.76        99
+
+[[31  2  2]
+ [ 0 16  9]
+ [ 1 10 28]]
+              precision    recall  f1-score   support
+
+          NC       1.00      0.86      0.92        35
+        LMCI       0.45      0.52      0.48        25
+        EMCI       0.65      0.67      0.66        39
+
+    accuracy                           0.70        99
+   macro avg       0.70      0.68      0.69        99
+weighted avg       0.72      0.70      0.71        99
+
+[[30  3  2]
+ [ 0 13 12]
+ [ 0 13 26]]
+Heavy Edge Matching coarsening with Xavier version
+336
+              precision    recall  f1-score   support
+
+          NC       0.83      0.71      0.77        35
+        LMCI       0.46      0.44      0.45        25
+        EMCI       0.56      0.64      0.60        39
+
+    accuracy                           0.62        99
+   macro avg       0.62      0.60      0.60        99
+weighted avg       0.63      0.62      0.62        99
+
+[[25  3  7]
+ [ 1 11 13]
+ [ 4 10 25]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.89      0.91        35
+        LMCI       0.56      0.60      0.58        25
+        EMCI       0.72      0.72      0.72        39
+
+    accuracy                           0.75        99
+   macro avg       0.74      0.73      0.74        99
+weighted avg       0.76      0.75      0.75        99
+
+[[31  2  2]
+ [ 1 15  9]
+ [ 1 10 28]]
+              precision    recall  f1-score   support
+
+          NC       1.00      0.86      0.92        35
+        LMCI       0.43      0.36      0.39        25
+        EMCI       0.62      0.77      0.69        39
+
+    accuracy                           0.70        99
+   macro avg       0.68      0.66      0.67        99
+weighted avg       0.71      0.70      0.70        99
+
+[[30  3  2]
+ [ 0  9 16]
+ [ 0  9 30]]
+count :  20  acc: 70.707071
+75.75757575757575
+[[11, 66], [12, 35], [9, 69], [1, 15], [9, 54], [36, 61], [4, 69], [7, 89], [3, 36], [3, 15], [1, 2], [55, 60], [47, 82], [33, 70], [0, 5], [77, 93], [55, 88], [4, 49], [34, 89], [18, 84], [2, 38], [36, 64], [23, 27], [46, 54], [35, 36], [109, 118], [5, 65], [2, 34], [20, 27], [22, 28], [20, 22], [36, 82], [6, 7], [42, 90], [77, 79], [40, 42], [14, 65], [9, 36], [88, 93], [48, 89], [10, 17], [3, 9], [2, 88], [77, 85], [67, 83], [15, 63], [29, 34], [83, 87], [4, 36], [43, 85], [46, 48], [28, 90], [19, 89], [6, 77], [36, 62], [98, 101], [7, 10], [35, 88], [18, 61], [102, 114], [36, 76], [3, 21], [34, 67], [5, 18], [38, 43], [9, 10], [97, 105], [32, 48], [60, 62], [15, 19], [39, 41], [8, 53], [15, 70], [68, 71], [11, 26], [8, 84], [17, 22], [36, 54], [5, 61], [33, 93], [60, 63], [2, 21], [61, 65], [36, 77], [2, 61], [53, 71], [34, 83], [12, 84], [2, 68], [7, 13], [61, 88], [54, 66], [0, 63], [66, 71], [60, 65], [38, 70], [10, 92], [17, 71], [33, 69], [3, 66], [8, 89], [24, 30], [100, 103], [52, 63], [20, 37], [46, 66], [22, 27], [49, 70], [48, 68], [55, 61], [1, 67], [0, 1], [6, 47], [36, 73], [0, 61], [14, 18], [35, 86], [0, 14], [77, 89], [39, 40], [8, 47], [19, 60], [9, 38], [66, 76], [7, 83], [9, 64], [43, 47], [21, 25], [108, 119], [28, 76], [24, 29], [46, 47], [80, 81], [3, 72], [3, 61], [4, 67], [4, 10], [103, 115], [9, 18], [18, 60], [10, 77], [63, 64], [42, 86], [53, 84], [10, 37], [21, 71], [69, 73], [40, 45], [4, 65], [10, 19], [40, 74], [55, 67], [30, 31], [66, 68], [68, 76], [65, 88], [34, 76], [15, 84], [34, 85], [3, 62], [9, 93], [23, 32], [104, 106], [57, 59], [43, 45], [6, 66], [67, 68], [32, 43], [1, 73], [71, 73], [32, 34], [34, 86], [53, 65], [47, 59], [110, 111], [32, 47], [52, 65], [11, 67], [1, 18], [14, 61], [7, 21], [32, 70], [60, 85], [7, 36], [70, 73], [45, 76], [37, 84], [61, 73], [35, 38], [38, 71], [67, 76], [9, 70], [8, 77], [55, 66], [18, 65], [37, 67], [51, 56], [13, 77], [2, 10], [108, 118], [36, 70], [6, 67], [6, 32], [25, 28], [11, 20], [3, 63], [77, 88], [10, 68], [26, 30], [0, 89], [64, 89], [19, 61], [48, 61], [36, 66], [5, 68], [8, 60], [32, 37], [34, 77], [50, 51], [82, 83], [46, 88], [54, 89], [77, 82], [23, 26], [0, 3], [24, 28], [24, 32], [2, 55], [32, 49], [0, 69], [28, 29], [5, 15], [36, 63], [95, 96], [20, 35], [21, 35], [52, 60], [8, 38], [2, 73], [5, 62], [20, 77], [47, 54], [76, 84], [35, 82], [35, 66], [36, 52], [11, 77], [68, 70], [6, 23], [35, 85], [10, 35], [21, 26], [38, 46], [6, 69], [10, 36], [12, 58], [35, 69], [55, 76], [33, 36], [35, 45], [46, 89], [9, 62], [4, 61], [77, 84], [66, 84], [4, 70], [9, 61], [35, 76], [38, 69], [36, 85], [33, 66], [34, 84], [21, 23], [18, 63], [94, 96], [59, 92], [74, 75], [10, 69], [4, 34], [27, 29], [70, 84], [7, 11], [117, 118], [20, 25], [6, 55], [54, 88], [112, 113], [64, 65], [2, 71], [2, 49], [5, 70], [11, 89], [38, 89], [101, 113], [6, 85], [67, 93], [47, 48], [5, 14], [59, 93], [3, 73]]
+found a new graph, the rest of candidate:  965
+saved the new graph
+Heavy Edge Matching coarsening with Xavier version
+160
+              precision    recall  f1-score   support
+
+          NC       0.72      0.83      0.77        35
+        LMCI       0.43      0.48      0.45        25
+        EMCI       0.61      0.49      0.54        39
+
+    accuracy                           0.61        99
+   macro avg       0.59      0.60      0.59        99
+weighted avg       0.61      0.61      0.60        99
+
+[[29  2  4]
+ [ 5 12  8]
+ [ 6 14 19]]
+              precision    recall  f1-score   support
+
+          NC       0.91      0.91      0.91        35
+        LMCI       0.52      0.60      0.56        25
+        EMCI       0.69      0.62      0.65        39
+
+    accuracy                           0.72        99
+   macro avg       0.71      0.71      0.71        99
+weighted avg       0.72      0.72      0.72        99
+
+[[32  1  2]
+ [ 1 15  9]
+ [ 2 13 24]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.94      0.94        35
+        LMCI       0.47      0.60      0.53        25
+        EMCI       0.72      0.59      0.65        39
+
+    accuracy                           0.72        99
+   macro avg       0.71      0.71      0.71        99
+weighted avg       0.73      0.72      0.72        99
+
+[[33  2  0]
+ [ 1 15  9]
+ [ 1 15 23]]
+Heavy Edge Matching coarsening with Xavier version
+160
+              precision    recall  f1-score   support
+
+          NC       0.72      0.83      0.77        35
+        LMCI       0.44      0.44      0.44        25
+        EMCI       0.62      0.54      0.58        39
+
+    accuracy                           0.62        99
+   macro avg       0.59      0.60      0.60        99
+weighted avg       0.61      0.62      0.61        99
+
+[[29  2  4]
+ [ 5 11  9]
+ [ 6 12 21]]
+              precision    recall  f1-score   support
+
+          NC       0.86      0.89      0.87        35
+        LMCI       0.52      0.56      0.54        25
+        EMCI       0.67      0.62      0.64        39
+
+    accuracy                           0.70        99
+   macro avg       0.68      0.69      0.68        99
+weighted avg       0.70      0.70      0.70        99
+
+[[31  1  3]
+ [ 2 14  9]
+ [ 3 12 24]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.92      0.94      0.93        35
+        LMCI       0.46      0.64      0.53        25
+        EMCI       0.75      0.54      0.63        39
+
+    accuracy                           0.71        99
+   macro avg       0.71      0.71      0.70        99
+weighted avg       0.73      0.71      0.71        99
+
+[[33  2  0]
+ [ 2 16  7]
+ [ 1 17 21]]
+Heavy Edge Matching coarsening with Xavier version
+160
+              precision    recall  f1-score   support
+
+          NC       0.84      0.60      0.70        35
+        LMCI       0.43      0.40      0.42        25
+        EMCI       0.53      0.69      0.60        39
+
+    accuracy                           0.59        99
+   macro avg       0.60      0.56      0.57        99
+weighted avg       0.62      0.59      0.59        99
+
+[[21  4 10]
+ [ 1 10 14]
+ [ 3  9 27]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.91      0.93        35
+        LMCI       0.48      0.56      0.52        25
+        EMCI       0.67      0.62      0.64        39
+
+    accuracy                           0.71        99
+   macro avg       0.70      0.70      0.70        99
+weighted avg       0.72      0.71      0.71        99
+
+[[32  1  2]
+ [ 1 14 10]
+ [ 1 14 24]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.94      0.94        35
+        LMCI       0.47      0.60      0.53        25
+        EMCI       0.72      0.59      0.65        39
+
+    accuracy                           0.72        99
+   macro avg       0.71      0.71      0.71        99
+weighted avg       0.73      0.72      0.72        99
+
+[[33  2  0]
+ [ 1 15  9]
+ [ 1 15 23]]
+count :  21  acc: 71.717172
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.74      0.97      0.84        35
+        LMCI       0.42      0.64      0.51        25
+        EMCI       0.80      0.31      0.44        39
+
+    accuracy                           0.63        99
+   macro avg       0.65      0.64      0.60        99
+weighted avg       0.68      0.63      0.60        99
+
+[[34  1  0]
+ [ 6 16  3]
+ [ 6 21 12]]
+              precision    recall  f1-score   support
+
+          NC       0.89      0.97      0.93        35
+        LMCI       0.45      0.68      0.54        25
+        EMCI       0.74      0.44      0.55        39
+
+    accuracy                           0.69        99
+   macro avg       0.69      0.70      0.67        99
+weighted avg       0.72      0.69      0.68        99
+
+[[34  1  0]
+ [ 2 17  6]
+ [ 2 20 17]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.50      0.52      0.51        25
+        EMCI       0.70      0.67      0.68        39
+
+    accuracy                           0.74        99
+   macro avg       0.72      0.72      0.72        99
+weighted avg       0.74      0.74      0.74        99
+
+[[34  1  0]
+ [ 1 13 11]
+ [ 1 12 26]]
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.91      0.57      0.70        35
+        LMCI       0.38      0.32      0.35        25
+        EMCI       0.48      0.69      0.57        39
+
+    accuracy                           0.56        99
+   macro avg       0.59      0.53      0.54        99
+weighted avg       0.61      0.56      0.56        99
+
+[[20  3 12]
+ [ 0  8 17]
+ [ 2 10 27]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.47      0.60      0.53        25
+        EMCI       0.71      0.56      0.63        39
+
+    accuracy                           0.72        99
+   macro avg       0.71      0.71      0.70        99
+weighted avg       0.73      0.72      0.72        99
+
+[[34  1  0]
+ [ 1 15  9]
+ [ 1 16 22]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.46      0.44      0.45        25
+        EMCI       0.67      0.67      0.67        39
+
+    accuracy                           0.72        99
+   macro avg       0.69      0.69      0.69        99
+weighted avg       0.71      0.72      0.71        99
+
+[[34  1  0]
+ [ 1 11 13]
+ [ 1 12 26]]
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.85      0.80      0.82        35
+        LMCI       0.40      0.48      0.44        25
+        EMCI       0.58      0.54      0.56        39
+
+    accuracy                           0.62        99
+   macro avg       0.61      0.61      0.61        99
+weighted avg       0.63      0.62      0.62        99
+
+[[28  2  5]
+ [ 3 12 10]
+ [ 2 16 21]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.48      0.56      0.52        25
+        EMCI       0.71      0.62      0.66        39
+
+    accuracy                           0.73        99
+   macro avg       0.71      0.72      0.71        99
+weighted avg       0.73      0.73      0.73        99
+
+[[34  1  0]
+ [ 1 14 10]
+ [ 1 14 24]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.50      0.64      0.56        25
+        EMCI       0.74      0.59      0.66        39
+
+    accuracy                           0.74        99
+   macro avg       0.73      0.73      0.73        99
+weighted avg       0.75      0.74      0.74        99
+
+[[34  1  0]
+ [ 1 16  8]
+ [ 1 15 23]]
+count :  22  acc: 73.737374
+Heavy Edge Matching coarsening with Xavier version
+176
+              precision    recall  f1-score   support
+
+          NC       0.85      0.63      0.72        35
+        LMCI       0.44      0.44      0.44        25
+        EMCI       0.54      0.67      0.60        39
+
+    accuracy                           0.60        99
+   macro avg       0.61      0.58      0.59        99
+weighted avg       0.62      0.60      0.60        99
+
+[[22  4  9]
+ [ 1 11 13]
+ [ 3 10 26]]
+              precision    recall  f1-score   support
+
+          NC       0.87      0.94      0.90        35
+        LMCI       0.52      0.64      0.57        25
+        EMCI       0.73      0.56      0.64        39
+
+    accuracy                           0.72        99
+   macro avg       0.71      0.72      0.70        99
+weighted avg       0.73      0.72      0.72        99
+
+[[33  1  1]
+ [ 2 16  7]
+ [ 3 14 22]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.91      0.93        35
+        LMCI       0.47      0.56      0.51        25
+        EMCI       0.69      0.62      0.65        39
+
+    accuracy                           0.71        99
+   macro avg       0.70      0.70      0.70        99
+weighted avg       0.72      0.71      0.71        99
+
+[[32  2  1]
+ [ 1 14 10]
+ [ 1 14 24]]
+Heavy Edge Matching coarsening with Xavier version
+176
+              precision    recall  f1-score   support
+
+          NC       0.69      0.83      0.75        35
+        LMCI       0.43      0.40      0.42        25
+        EMCI       0.62      0.54      0.58        39
+
+    accuracy                           0.61        99
+   macro avg       0.58      0.59      0.58        99
+weighted avg       0.60      0.61      0.60        99
+
+[[29  2  4]
+ [ 6 10  9]
+ [ 7 11 21]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.89      0.91        35
+        LMCI       0.52      0.56      0.54        25
+        EMCI       0.67      0.67      0.67        39
+
+    accuracy                           0.72        99
+   macro avg       0.71      0.70      0.71        99
+weighted avg       0.73      0.72      0.72        99
+
+[[31  1  3]
+ [ 1 14 10]
+ [ 1 12 26]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.89      0.91      0.90        35
+        LMCI       0.50      0.60      0.55        25
+        EMCI       0.70      0.59      0.64        39
+
+    accuracy                           0.71        99
+   macro avg       0.70      0.70      0.70        99
+weighted avg       0.72      0.71      0.71        99
+
+[[32  2  1]
+ [ 1 15  9]
+ [ 3 13 23]]
+Heavy Edge Matching coarsening with Xavier version
+176
+              precision    recall  f1-score   support
+
+          NC       0.85      0.63      0.72        35
+        LMCI       0.43      0.52      0.47        25
+        EMCI       0.56      0.62      0.59        39
+
+    accuracy                           0.60        99
+   macro avg       0.61      0.59      0.59        99
+weighted avg       0.63      0.60      0.60        99
+
+[[22  5  8]
+ [ 1 13 11]
+ [ 3 12 24]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.91      0.93        35
+        LMCI       0.50      0.44      0.47        25
+        EMCI       0.65      0.72      0.68        39
+
+    accuracy                           0.72        99
+   macro avg       0.70      0.69      0.69        99
+weighted avg       0.72      0.72      0.72        99
+
+[[32  1  2]
+ [ 1 11 13]
+ [ 1 10 28]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.91      0.91      0.91        35
+        LMCI       0.48      0.56      0.52        25
+        EMCI       0.69      0.62      0.65        39
+
+    accuracy                           0.71        99
+   macro avg       0.69      0.70      0.69        99
+weighted avg       0.72      0.71      0.71        99
+
+[[32  2  1]
+ [ 1 14 10]
+ [ 2 13 24]]
+count :  23  acc: 70.707071
+Heavy Edge Matching coarsening with Xavier version
+160
+              precision    recall  f1-score   support
+
+          NC       0.84      0.60      0.70        35
+        LMCI       0.43      0.52      0.47        25
+        EMCI       0.57      0.64      0.60        39
+
+    accuracy                           0.60        99
+   macro avg       0.61      0.59      0.59        99
+weighted avg       0.63      0.60      0.60        99
+
+[[21  6  8]
+ [ 1 13 11]
+ [ 3 11 25]]
+              precision    recall  f1-score   support
+
+          NC       0.92      0.94      0.93        35
+        LMCI       0.50      0.56      0.53        25
+        EMCI       0.71      0.64      0.68        39
+
+    accuracy                           0.73        99
+   macro avg       0.71      0.71      0.71        99
+weighted avg       0.73      0.73      0.73        99
+
+[[33  2  0]
+ [ 1 14 10]
+ [ 2 12 25]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.92      0.94      0.93        35
+        LMCI       0.50      0.60      0.55        25
+        EMCI       0.73      0.62      0.67        39
+
+    accuracy                           0.73        99
+   macro avg       0.71      0.72      0.71        99
+weighted avg       0.74      0.73      0.73        99
+
+[[33  2  0]
+ [ 1 15  9]
+ [ 2 13 24]]
+Heavy Edge Matching coarsening with Xavier version
+160
+              precision    recall  f1-score   support
+
+          NC       0.86      0.51      0.64        35
+        LMCI       0.35      0.24      0.29        25
+        EMCI       0.49      0.77      0.60        39
+
+    accuracy                           0.55        99
+   macro avg       0.57      0.51      0.51        99
+weighted avg       0.59      0.55      0.54        99
+
+[[18  4 13]
+ [ 1  6 18]
+ [ 2  7 30]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.83      0.88        35
+        LMCI       0.38      0.24      0.29        25
+        EMCI       0.58      0.77      0.66        39
+
+    accuracy                           0.66        99
+   macro avg       0.63      0.61      0.61        99
+weighted avg       0.65      0.66      0.64        99
+
+[[29  2  4]
+ [ 1  6 18]
+ [ 1  8 30]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.92      0.97      0.94        35
+        LMCI       0.54      0.60      0.57        25
+        EMCI       0.74      0.64      0.68        39
+
+    accuracy                           0.75        99
+   macro avg       0.73      0.74      0.73        99
+weighted avg       0.75      0.75      0.75        99
+
+[[34  1  0]
+ [ 1 15  9]
+ [ 2 12 25]]
+Heavy Edge Matching coarsening with Xavier version
+160
+              precision    recall  f1-score   support
+
+          NC       0.86      0.71      0.78        35
+        LMCI       0.45      0.56      0.50        25
+        EMCI       0.56      0.56      0.56        39
+
+    accuracy                           0.62        99
+   macro avg       0.63      0.61      0.62        99
+weighted avg       0.64      0.62      0.62        99
+
+[[25  3  7]
+ [ 1 14 10]
+ [ 3 14 22]]
+              precision    recall  f1-score   support
+
+          NC       0.89      0.97      0.93        35
+        LMCI       0.48      0.64      0.55        25
+        EMCI       0.75      0.54      0.63        39
+
+    accuracy                           0.72        99
+   macro avg       0.71      0.72      0.70        99
+weighted avg       0.73      0.72      0.72        99
+
+[[34  1  0]
+ [ 2 16  7]
+ [ 2 16 21]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.92      0.97      0.94        35
+        LMCI       0.50      0.64      0.56        25
+        EMCI       0.73      0.56      0.64        39
+
+    accuracy                           0.73        99
+   macro avg       0.72      0.73      0.71        99
+weighted avg       0.74      0.73      0.73        99
+
+[[34  1  0]
+ [ 1 16  8]
+ [ 2 15 22]]
+count :  24  acc: 74.747475
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.86      0.71      0.78        35
+        LMCI       0.50      0.64      0.56        25
+        EMCI       0.61      0.59      0.60        39
+
+    accuracy                           0.65        99
+   macro avg       0.66      0.65      0.65        99
+weighted avg       0.67      0.65      0.65        99
+
+[[25  3  7]
+ [ 1 16  8]
+ [ 3 13 23]]
+              precision    recall  f1-score   support
+
+          NC       0.89      0.94      0.92        35
+        LMCI       0.48      0.48      0.48        25
+        EMCI       0.68      0.64      0.66        39
+
+    accuracy                           0.71        99
+   macro avg       0.68      0.69      0.68        99
+weighted avg       0.70      0.71      0.70        99
+
+[[33  1  1]
+ [ 2 12 11]
+ [ 2 12 25]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.92      0.94      0.93        35
+        LMCI       0.41      0.36      0.38        25
+        EMCI       0.66      0.69      0.68        39
+
+    accuracy                           0.70        99
+   macro avg       0.66      0.67      0.66        99
+weighted avg       0.69      0.70      0.69        99
+
+[[33  2  0]
+ [ 2  9 14]
+ [ 1 11 27]]
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.91      0.57      0.70        35
+        LMCI       0.41      0.28      0.33        25
+        EMCI       0.50      0.77      0.61        39
+
+    accuracy                           0.58        99
+   macro avg       0.61      0.54      0.55        99
+weighted avg       0.62      0.58      0.57        99
+
+[[20  3 12]
+ [ 0  7 18]
+ [ 2  7 30]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.94      0.94        35
+        LMCI       0.47      0.32      0.38        25
+        EMCI       0.64      0.77      0.70        39
+
+    accuracy                           0.72        99
+   macro avg       0.68      0.68      0.67        99
+weighted avg       0.70      0.72      0.70        99
+
+[[33  1  1]
+ [ 1  8 16]
+ [ 1  8 30]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.94      0.94        35
+        LMCI       0.45      0.60      0.52        25
+        EMCI       0.71      0.56      0.63        39
+
+    accuracy                           0.71        99
+   macro avg       0.70      0.70      0.70        99
+weighted avg       0.73      0.71      0.71        99
+
+[[33  2  0]
+ [ 1 15  9]
+ [ 1 16 22]]
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.90      0.51      0.65        35
+        LMCI       0.40      0.48      0.44        25
+        EMCI       0.53      0.67      0.59        39
+
+    accuracy                           0.57        99
+   macro avg       0.61      0.55      0.56        99
+weighted avg       0.63      0.57      0.57        99
+
+[[18  7 10]
+ [ 0 12 13]
+ [ 2 11 26]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.94      0.94        35
+        LMCI       0.50      0.40      0.44        25
+        EMCI       0.66      0.74      0.70        39
+
+    accuracy                           0.73        99
+   macro avg       0.70      0.70      0.70        99
+weighted avg       0.72      0.73      0.72        99
+
+[[33  1  1]
+ [ 1 10 14]
+ [ 1  9 29]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.89      0.94      0.92        35
+        LMCI       0.46      0.48      0.47        25
+        EMCI       0.69      0.64      0.67        39
+
+    accuracy                           0.71        99
+   macro avg       0.68      0.69      0.68        99
+weighted avg       0.71      0.71      0.71        99
+
+[[33  2  0]
+ [ 2 12 11]
+ [ 2 12 25]]
+count :  25  acc: 70.707071
+Heavy Edge Matching coarsening with Xavier version
+160
+              precision    recall  f1-score   support
+
+          NC       0.88      0.63      0.73        35
+        LMCI       0.44      0.32      0.37        25
+        EMCI       0.52      0.74      0.61        39
+
+    accuracy                           0.60        99
+   macro avg       0.61      0.56      0.57        99
+weighted avg       0.63      0.60      0.59        99
+
+[[22  3 10]
+ [ 0  8 17]
+ [ 3  7 29]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.52      0.68      0.59        25
+        EMCI       0.77      0.59      0.67        39
+
+    accuracy                           0.75        99
+   macro avg       0.74      0.75      0.74        99
+weighted avg       0.77      0.75      0.75        99
+
+[[34  1  0]
+ [ 1 17  7]
+ [ 1 15 23]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.50      0.60      0.55        25
+        EMCI       0.73      0.62      0.67        39
+
+    accuracy                           0.74        99
+   macro avg       0.72      0.73      0.72        99
+weighted avg       0.75      0.74      0.74        99
+
+[[34  1  0]
+ [ 1 15  9]
+ [ 1 14 24]]
+Heavy Edge Matching coarsening with Xavier version
+160
+              precision    recall  f1-score   support
+
+          NC       0.82      0.77      0.79        35
+        LMCI       0.47      0.56      0.51        25
+        EMCI       0.58      0.54      0.56        39
+
+    accuracy                           0.63        99
+   macro avg       0.62      0.62      0.62        99
+weighted avg       0.64      0.63      0.63        99
+
+[[27  2  6]
+ [ 2 14  9]
+ [ 4 14 21]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.50      0.72      0.59        25
+        EMCI       0.78      0.54      0.64        39
+
+    accuracy                           0.74        99
+   macro avg       0.74      0.74      0.73        99
+weighted avg       0.77      0.74      0.74        99
+
+[[34  1  0]
+ [ 1 18  6]
+ [ 1 17 21]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.50      0.56      0.53        25
+        EMCI       0.71      0.64      0.68        39
+
+    accuracy                           0.74        99
+   macro avg       0.72      0.72      0.72        99
+weighted avg       0.74      0.74      0.74        99
+
+[[34  1  0]
+ [ 1 14 10]
+ [ 1 13 25]]
+Heavy Edge Matching coarsening with Xavier version
+160
+              precision    recall  f1-score   support
+
+          NC       0.85      0.66      0.74        35
+        LMCI       0.45      0.60      0.52        25
+        EMCI       0.56      0.56      0.56        39
+
+    accuracy                           0.61        99
+   macro avg       0.62      0.61      0.61        99
+weighted avg       0.64      0.61      0.62        99
+
+[[23  4  8]
+ [ 1 15  9]
+ [ 3 14 22]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.91      0.93        35
+        LMCI       0.47      0.32      0.38        25
+        EMCI       0.62      0.77      0.69        39
+
+    accuracy                           0.71        99
+   macro avg       0.68      0.67      0.67        99
+weighted avg       0.70      0.71      0.70        99
+
+[[32  1  2]
+ [ 1  8 16]
+ [ 1  8 30]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.52      0.60      0.56        25
+        EMCI       0.74      0.64      0.68        39
+
+    accuracy                           0.75        99
+   macro avg       0.73      0.74      0.73        99
+weighted avg       0.75      0.75      0.75        99
+
+[[34  1  0]
+ [ 1 15  9]
+ [ 1 13 25]]
+count :  26  acc: 74.747475
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.79      0.89      0.84        35
+        LMCI       0.41      0.36      0.38        25
+        EMCI       0.61      0.59      0.60        39
+
+    accuracy                           0.64        99
+   macro avg       0.60      0.61      0.61        99
+weighted avg       0.62      0.64      0.63        99
+
+[[31  1  3]
+ [ 4  9 12]
+ [ 4 12 23]]
+              precision    recall  f1-score   support
+
+          NC       0.92      0.97      0.94        35
+        LMCI       0.50      0.64      0.56        25
+        EMCI       0.73      0.56      0.64        39
+
+    accuracy                           0.73        99
+   macro avg       0.72      0.73      0.71        99
+weighted avg       0.74      0.73      0.73        99
+
+[[34  1  0]
+ [ 1 16  8]
+ [ 2 15 22]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.92      0.97      0.94        35
+        LMCI       0.54      0.56      0.55        25
+        EMCI       0.72      0.67      0.69        39
+
+    accuracy                           0.75        99
+   macro avg       0.73      0.73      0.73        99
+weighted avg       0.75      0.75      0.75        99
+
+[[34  1  0]
+ [ 1 14 10]
+ [ 2 11 26]]
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.89      0.89      0.89        35
+        LMCI       0.45      0.52      0.48        25
+        EMCI       0.63      0.56      0.59        39
+
+    accuracy                           0.67        99
+   macro avg       0.65      0.66      0.65        99
+weighted avg       0.67      0.67      0.67        99
+
+[[31  1  3]
+ [ 2 13 10]
+ [ 2 15 22]]
+              precision    recall  f1-score   support
+
+          NC       0.91      0.91      0.91        35
+        LMCI       0.56      0.56      0.56        25
+        EMCI       0.69      0.69      0.69        39
+
+    accuracy                           0.74        99
+   macro avg       0.72      0.72      0.72        99
+weighted avg       0.74      0.74      0.74        99
+
+[[32  1  2]
+ [ 1 14 10]
+ [ 2 10 27]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.91      0.91      0.91        35
+        LMCI       0.48      0.56      0.52        25
+        EMCI       0.71      0.64      0.68        39
+
+    accuracy                           0.72        99
+   macro avg       0.70      0.71      0.70        99
+weighted avg       0.73      0.72      0.72        99
+
+[[32  3  0]
+ [ 1 14 10]
+ [ 2 12 25]]
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.93      0.74      0.83        35
+        LMCI       0.45      0.52      0.48        25
+        EMCI       0.57      0.62      0.59        39
+
+    accuracy                           0.64        99
+   macro avg       0.65      0.63      0.63        99
+weighted avg       0.67      0.64      0.65        99
+
+[[26  3  6]
+ [ 0 13 12]
+ [ 2 13 24]]
+              precision    recall  f1-score   support
+
+          NC       0.92      0.94      0.93        35
+        LMCI       0.52      0.52      0.52        25
+        EMCI       0.68      0.67      0.68        39
+
+    accuracy                           0.73        99
+   macro avg       0.71      0.71      0.71        99
+weighted avg       0.72      0.73      0.73        99
+
+[[33  1  1]
+ [ 1 13 11]
+ [ 2 11 26]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.91      0.91      0.91        35
+        LMCI       0.46      0.44      0.45        25
+        EMCI       0.68      0.69      0.68        39
+
+    accuracy                           0.71        99
+   macro avg       0.68      0.68      0.68        99
+weighted avg       0.70      0.71      0.71        99
+
+[[32  3  0]
+ [ 1 11 13]
+ [ 2 10 27]]
+count :  27  acc: 74.747475
+Heavy Edge Matching coarsening with Xavier version
+160
+              precision    recall  f1-score   support
+
+          NC       0.71      0.69      0.70        35
+        LMCI       0.43      0.40      0.42        25
+        EMCI       0.60      0.64      0.62        39
+
+    accuracy                           0.60        99
+   macro avg       0.58      0.58      0.58        99
+weighted avg       0.59      0.60      0.59        99
+
+[[24  4  7]
+ [ 5 10 10]
+ [ 5  9 25]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.54      0.60      0.57        25
+        EMCI       0.74      0.67      0.70        39
+
+    accuracy                           0.76        99
+   macro avg       0.74      0.75      0.74        99
+weighted avg       0.76      0.76      0.76        99
+
+[[34  1  0]
+ [ 1 15  9]
+ [ 1 12 26]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.47      0.60      0.53        25
+        EMCI       0.71      0.56      0.63        39
+
+    accuracy                           0.72        99
+   macro avg       0.71      0.71      0.70        99
+weighted avg       0.73      0.72      0.72        99
+
+[[34  1  0]
+ [ 1 15  9]
+ [ 1 16 22]]
+Heavy Edge Matching coarsening with Xavier version
+160
+              precision    recall  f1-score   support
+
+          NC       0.85      0.63      0.72        35
+        LMCI       0.46      0.48      0.47        25
+        EMCI       0.55      0.67      0.60        39
+
+    accuracy                           0.61        99
+   macro avg       0.62      0.59      0.60        99
+weighted avg       0.63      0.61      0.61        99
+
+[[22  4  9]
+ [ 1 12 12]
+ [ 3 10 26]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.54      0.60      0.57        25
+        EMCI       0.74      0.67      0.70        39
+
+    accuracy                           0.76        99
+   macro avg       0.74      0.75      0.74        99
+weighted avg       0.76      0.76      0.76        99
+
+[[34  1  0]
+ [ 1 15  9]
+ [ 1 12 26]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.45      0.36      0.40        25
+        EMCI       0.65      0.72      0.68        39
+
+    accuracy                           0.72        99
+   macro avg       0.68      0.68      0.68        99
+weighted avg       0.70      0.72      0.71        99
+
+[[34  1  0]
+ [ 1  9 15]
+ [ 1 10 28]]
+Heavy Edge Matching coarsening with Xavier version
+160
+              precision    recall  f1-score   support
+
+          NC       0.85      0.63      0.72        35
+        LMCI       0.48      0.52      0.50        25
+        EMCI       0.57      0.67      0.61        39
+
+    accuracy                           0.62        99
+   macro avg       0.63      0.61      0.61        99
+weighted avg       0.64      0.62      0.62        99
+
+[[22  4  9]
+ [ 1 13 11]
+ [ 3 10 26]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.91      0.93        35
+        LMCI       0.54      0.56      0.55        25
+        EMCI       0.69      0.69      0.69        39
+
+    accuracy                           0.74        99
+   macro avg       0.72      0.72      0.72        99
+weighted avg       0.74      0.74      0.74        99
+
+[[32  1  2]
+ [ 1 14 10]
+ [ 1 11 27]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.47      0.60      0.53        25
+        EMCI       0.71      0.56      0.63        39
+
+    accuracy                           0.72        99
+   macro avg       0.71      0.71      0.70        99
+weighted avg       0.73      0.72      0.72        99
+
+[[34  1  0]
+ [ 1 15  9]
+ [ 1 16 22]]
+count :  28  acc: 71.717172
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.69      0.97      0.81        35
+        LMCI       0.50      0.52      0.51        25
+        EMCI       0.79      0.49      0.60        39
+
+    accuracy                           0.67        99
+   macro avg       0.66      0.66      0.64        99
+weighted avg       0.68      0.67      0.65        99
+
+[[34  1  0]
+ [ 7 13  5]
+ [ 8 12 19]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.94      0.94        35
+        LMCI       0.50      0.56      0.53        25
+        EMCI       0.69      0.64      0.67        39
+
+    accuracy                           0.73        99
+   macro avg       0.71      0.71      0.71        99
+weighted avg       0.73      0.73      0.73        99
+
+[[33  1  1]
+ [ 1 14 10]
+ [ 1 13 25]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.92      0.97      0.94        35
+        LMCI       0.48      0.56      0.52        25
+        EMCI       0.70      0.59      0.64        39
+
+    accuracy                           0.72        99
+   macro avg       0.70      0.71      0.70        99
+weighted avg       0.72      0.72      0.72        99
+
+[[34  1  0]
+ [ 1 14 10]
+ [ 2 14 23]]
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.74      0.91      0.82        35
+        LMCI       0.48      0.48      0.48        25
+        EMCI       0.71      0.56      0.63        39
+
+    accuracy                           0.67        99
+   macro avg       0.64      0.65      0.64        99
+weighted avg       0.66      0.67      0.66        99
+
+[[32  1  2]
+ [ 6 12  7]
+ [ 5 12 22]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.94      0.94        35
+        LMCI       0.43      0.40      0.42        25
+        EMCI       0.63      0.67      0.65        39
+
+    accuracy                           0.70        99
+   macro avg       0.67      0.67      0.67        99
+weighted avg       0.69      0.70      0.69        99
+
+[[33  1  1]
+ [ 1 10 14]
+ [ 1 12 26]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.94      0.94        35
+        LMCI       0.50      0.52      0.51        25
+        EMCI       0.71      0.69      0.70        39
+
+    accuracy                           0.74        99
+   macro avg       0.72      0.72      0.72        99
+weighted avg       0.74      0.74      0.74        99
+
+[[33  2  0]
+ [ 1 13 11]
+ [ 1 11 27]]
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.65      0.97      0.78        35
+        LMCI       0.48      0.56      0.52        25
+        EMCI       0.78      0.36      0.49        39
+
+    accuracy                           0.63        99
+   macro avg       0.64      0.63      0.60        99
+weighted avg       0.66      0.63      0.60        99
+
+[[34  1  0]
+ [ 7 14  4]
+ [11 14 14]]
+              precision    recall  f1-score   support
+
+          NC       0.89      0.97      0.93        35
+        LMCI       0.52      0.56      0.54        25
+        EMCI       0.71      0.62      0.66        39
+
+    accuracy                           0.73        99
+   macro avg       0.71      0.72      0.71        99
+weighted avg       0.73      0.73      0.72        99
+
+[[34  1  0]
+ [ 1 14 10]
+ [ 3 12 24]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.92      0.97      0.94        35
+        LMCI       0.54      0.56      0.55        25
+        EMCI       0.72      0.67      0.69        39
+
+    accuracy                           0.75        99
+   macro avg       0.73      0.73      0.73        99
+weighted avg       0.75      0.75      0.75        99
+
+[[34  1  0]
+ [ 1 14 10]
+ [ 2 11 26]]
+count :  29  acc: 74.747475
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.85      0.66      0.74        35
+        LMCI       0.42      0.52      0.46        25
+        EMCI       0.59      0.62      0.60        39
+
+    accuracy                           0.61        99
+   macro avg       0.62      0.60      0.60        99
+weighted avg       0.64      0.61      0.62        99
+
+[[23  6  6]
+ [ 1 13 11]
+ [ 3 12 24]]
+              precision    recall  f1-score   support
+
+          NC       0.89      0.94      0.92        35
+        LMCI       0.52      0.68      0.59        25
+        EMCI       0.76      0.56      0.65        39
+
+    accuracy                           0.73        99
+   macro avg       0.72      0.73      0.72        99
+weighted avg       0.74      0.73      0.73        99
+
+[[33  2  0]
+ [ 1 17  7]
+ [ 3 14 22]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.95      1.00      0.97        35
+        LMCI       0.48      0.56      0.52        25
+        EMCI       0.70      0.59      0.64        39
+
+    accuracy                           0.73        99
+   macro avg       0.71      0.72      0.71        99
+weighted avg       0.73      0.73      0.73        99
+
+[[35  0  0]
+ [ 1 14 10]
+ [ 1 15 23]]
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.88      0.63      0.73        35
+        LMCI       0.41      0.72      0.52        25
+        EMCI       0.63      0.49      0.55        39
+
+    accuracy                           0.60        99
+   macro avg       0.64      0.61      0.60        99
+weighted avg       0.66      0.60      0.61        99
+
+[[22  9  4]
+ [ 0 18  7]
+ [ 3 17 19]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.89      0.91        35
+        LMCI       0.42      0.40      0.41        25
+        EMCI       0.62      0.67      0.64        39
+
+    accuracy                           0.68        99
+   macro avg       0.66      0.65      0.65        99
+weighted avg       0.68      0.68      0.68        99
+
+[[31  2  2]
+ [ 1 10 14]
+ [ 1 12 26]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.48      0.44      0.46        25
+        EMCI       0.68      0.69      0.68        39
+
+    accuracy                           0.73        99
+   macro avg       0.70      0.70      0.70        99
+weighted avg       0.72      0.73      0.72        99
+
+[[34  1  0]
+ [ 1 11 13]
+ [ 1 11 27]]
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.73      0.94      0.83        35
+        LMCI       0.47      0.64      0.54        25
+        EMCI       0.75      0.38      0.51        39
+
+    accuracy                           0.65        99
+   macro avg       0.65      0.66      0.63        99
+weighted avg       0.67      0.65      0.63        99
+
+[[33  1  1]
+ [ 5 16  4]
+ [ 7 17 15]]
+              precision    recall  f1-score   support
+
+          NC       0.89      0.94      0.92        35
+        LMCI       0.53      0.40      0.45        25
+        EMCI       0.65      0.72      0.68        39
+
+    accuracy                           0.72        99
+   macro avg       0.69      0.69      0.68        99
+weighted avg       0.70      0.72      0.71        99
+
+[[33  1  1]
+ [ 1 10 14]
+ [ 3  8 28]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.95      1.00      0.97        35
+        LMCI       0.46      0.52      0.49        25
+        EMCI       0.68      0.59      0.63        39
+
+    accuracy                           0.72        99
+   macro avg       0.70      0.70      0.70        99
+weighted avg       0.72      0.72      0.72        99
+
+[[35  0  0]
+ [ 1 13 11]
+ [ 1 15 23]]
+count :  30  acc: 72.727273
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.91      0.60      0.72        35
+        LMCI       0.40      0.48      0.44        25
+        EMCI       0.54      0.64      0.59        39
+
+    accuracy                           0.59        99
+   macro avg       0.62      0.57      0.58        99
+weighted avg       0.64      0.59      0.60        99
+
+[[21  6  8]
+ [ 0 12 13]
+ [ 2 12 25]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.91      0.93        35
+        LMCI       0.43      0.48      0.45        25
+        EMCI       0.65      0.62      0.63        39
+
+    accuracy                           0.69        99
+   macro avg       0.67      0.67      0.67        99
+weighted avg       0.70      0.69      0.69        99
+
+[[32  2  1]
+ [ 1 12 12]
+ [ 1 14 24]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.94      0.94        35
+        LMCI       0.46      0.48      0.47        25
+        EMCI       0.68      0.67      0.68        39
+
+    accuracy                           0.72        99
+   macro avg       0.70      0.70      0.70        99
+weighted avg       0.72      0.72      0.72        99
+
+[[33  2  0]
+ [ 1 12 12]
+ [ 1 12 26]]
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.73      0.91      0.81        35
+        LMCI       0.44      0.44      0.44        25
+        EMCI       0.67      0.51      0.58        39
+
+    accuracy                           0.64        99
+   macro avg       0.61      0.62      0.61        99
+weighted avg       0.63      0.64      0.63        99
+
+[[32  1  2]
+ [ 6 11  8]
+ [ 6 13 20]]
+              precision    recall  f1-score   support
+
+          NC       0.92      0.94      0.93        35
+        LMCI       0.45      0.56      0.50        25
+        EMCI       0.72      0.59      0.65        39
+
+    accuracy                           0.71        99
+   macro avg       0.70      0.70      0.69        99
+weighted avg       0.72      0.71      0.71        99
+
+[[33  2  0]
+ [ 2 14  9]
+ [ 1 15 23]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.91      0.93        35
+        LMCI       0.39      0.36      0.37        25
+        EMCI       0.64      0.69      0.67        39
+
+    accuracy                           0.69        99
+   macro avg       0.66      0.66      0.66        99
+weighted avg       0.68      0.69      0.69        99
+
+[[32  3  0]
+ [ 1  9 15]
+ [ 1 11 27]]
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.81      0.83      0.82        35
+        LMCI       0.52      0.52      0.52        25
+        EMCI       0.63      0.62      0.62        39
+
+    accuracy                           0.67        99
+   macro avg       0.65      0.65      0.65        99
+weighted avg       0.66      0.67      0.67        99
+
+[[29  1  5]
+ [ 3 13  9]
+ [ 4 11 24]]
+              precision    recall  f1-score   support
+
+          NC       0.91      0.91      0.91        35
+        LMCI       0.44      0.56      0.49        25
+        EMCI       0.72      0.59      0.65        39
+
+    accuracy                           0.70        99
+   macro avg       0.69      0.69      0.68        99
+weighted avg       0.72      0.70      0.70        99
+
+[[32  3  0]
+ [ 2 14  9]
+ [ 1 15 23]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.91      0.93        35
+        LMCI       0.46      0.44      0.45        25
+        EMCI       0.68      0.72      0.70        39
+
+    accuracy                           0.72        99
+   macro avg       0.69      0.69      0.69        99
+weighted avg       0.72      0.72      0.72        99
+
+[[32  3  0]
+ [ 1 11 13]
+ [ 1 10 28]]
+count :  31  acc: 71.717172
+Heavy Edge Matching coarsening with Xavier version
+176
+              precision    recall  f1-score   support
+
+          NC       0.71      0.57      0.63        35
+        LMCI       0.40      0.48      0.44        25
+        EMCI       0.54      0.56      0.55        39
+
+    accuracy                           0.55        99
+   macro avg       0.55      0.54      0.54        99
+weighted avg       0.56      0.55      0.55        99
+
+[[20  5 10]
+ [ 4 12  9]
+ [ 4 13 22]]
+              precision    recall  f1-score   support
+
+          NC       0.89      0.91      0.90        35
+        LMCI       0.45      0.60      0.52        25
+        EMCI       0.67      0.51      0.58        39
+
+    accuracy                           0.68        99
+   macro avg       0.67      0.68      0.67        99
+weighted avg       0.69      0.68      0.68        99
+
+[[32  1  2]
+ [ 2 15  8]
+ [ 2 17 20]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.91      0.93        35
+        LMCI       0.48      0.60      0.54        25
+        EMCI       0.71      0.62      0.66        39
+
+    accuracy                           0.72        99
+   macro avg       0.71      0.71      0.71        99
+weighted avg       0.73      0.72      0.72        99
+
+[[32  2  1]
+ [ 1 15  9]
+ [ 1 14 24]]
+Heavy Edge Matching coarsening with Xavier version
+176
+              precision    recall  f1-score   support
+
+          NC       0.75      0.60      0.67        35
+        LMCI       0.41      0.68      0.52        25
+        EMCI       0.57      0.44      0.49        39
+
+    accuracy                           0.56        99
+   macro avg       0.58      0.57      0.56        99
+weighted avg       0.59      0.56      0.56        99
+
+[[21  6  8]
+ [ 3 17  5]
+ [ 4 18 17]]
+              precision    recall  f1-score   support
+
+          NC       0.91      0.91      0.91        35
+        LMCI       0.50      0.64      0.56        25
+        EMCI       0.69      0.56      0.62        39
+
+    accuracy                           0.71        99
+   macro avg       0.70      0.71      0.70        99
+weighted avg       0.72      0.71      0.71        99
+
+[[32  1  2]
+ [ 1 16  8]
+ [ 2 15 22]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.91      0.93        35
+        LMCI       0.47      0.64      0.54        25
+        EMCI       0.74      0.59      0.66        39
+
+    accuracy                           0.72        99
+   macro avg       0.72      0.71      0.71        99
+weighted avg       0.74      0.72      0.72        99
+
+[[32  3  0]
+ [ 1 16  8]
+ [ 1 15 23]]
+Heavy Edge Matching coarsening with Xavier version
+176
+              precision    recall  f1-score   support
+
+          NC       0.67      0.80      0.73        35
+        LMCI       0.41      0.48      0.44        25
+        EMCI       0.61      0.44      0.51        39
+
+    accuracy                           0.58        99
+   macro avg       0.56      0.57      0.56        99
+weighted avg       0.58      0.58      0.57        99
+
+[[28  2  5]
+ [ 7 12  6]
+ [ 7 15 17]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.83      0.88        35
+        LMCI       0.46      0.48      0.47        25
+        EMCI       0.62      0.67      0.64        39
+
+    accuracy                           0.68        99
+   macro avg       0.67      0.66      0.66        99
+weighted avg       0.69      0.68      0.68        99
+
+[[29  2  4]
+ [ 1 12 12]
+ [ 1 12 26]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.94      0.94        35
+        LMCI       0.50      0.64      0.56        25
+        EMCI       0.72      0.59      0.65        39
+
+    accuracy                           0.73        99
+   macro avg       0.72      0.72      0.72        99
+weighted avg       0.74      0.73      0.73        99
+
+[[33  1  1]
+ [ 1 16  8]
+ [ 1 15 23]]
+count :  32  acc: 72.727273
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.79      0.63      0.70        35
+        LMCI       0.47      0.56      0.51        25
+        EMCI       0.63      0.67      0.65        39
+
+    accuracy                           0.63        99
+   macro avg       0.63      0.62      0.62        99
+weighted avg       0.65      0.63      0.63        99
+
+[[22  6  7]
+ [ 3 14  8]
+ [ 3 10 26]]
+              precision    recall  f1-score   support
+
+          NC       0.89      0.89      0.89        35
+        LMCI       0.45      0.40      0.43        25
+        EMCI       0.62      0.67      0.64        39
+
+    accuracy                           0.68        99
+   macro avg       0.65      0.65      0.65        99
+weighted avg       0.67      0.68      0.67        99
+
+[[31  1  3]
+ [ 2 10 13]
+ [ 2 11 26]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.89      0.97      0.93        35
+        LMCI       0.50      0.60      0.55        25
+        EMCI       0.74      0.59      0.66        39
+
+    accuracy                           0.73        99
+   macro avg       0.71      0.72      0.71        99
+weighted avg       0.73      0.73      0.73        99
+
+[[34  1  0]
+ [ 2 15  8]
+ [ 2 14 23]]
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.83      0.69      0.75        35
+        LMCI       0.42      0.60      0.49        25
+        EMCI       0.59      0.51      0.55        39
+
+    accuracy                           0.60        99
+   macro avg       0.61      0.60      0.60        99
+weighted avg       0.63      0.60      0.61        99
+
+[[24  5  6]
+ [ 2 15  8]
+ [ 3 16 20]]
+              precision    recall  f1-score   support
+
+          NC       0.85      0.97      0.91        35
+        LMCI       0.45      0.56      0.50        25
+        EMCI       0.71      0.51      0.60        39
+
+    accuracy                           0.69        99
+   macro avg       0.67      0.68      0.67        99
+weighted avg       0.70      0.69      0.68        99
+
+[[34  1  0]
+ [ 3 14  8]
+ [ 3 16 20]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.89      0.94      0.92        35
+        LMCI       0.43      0.64      0.52        25
+        EMCI       0.72      0.46      0.56        39
+
+    accuracy                           0.68        99
+   macro avg       0.68      0.68      0.67        99
+weighted avg       0.71      0.68      0.68        99
+
+[[33  2  0]
+ [ 2 16  7]
+ [ 2 19 18]]
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.81      0.63      0.71        35
+        LMCI       0.42      0.44      0.43        25
+        EMCI       0.57      0.67      0.61        39
+
+    accuracy                           0.60        99
+   macro avg       0.60      0.58      0.58        99
+weighted avg       0.62      0.60      0.60        99
+
+[[22  5  8]
+ [ 2 11 12]
+ [ 3 10 26]]
+              precision    recall  f1-score   support
+
+          NC       0.91      0.86      0.88        35
+        LMCI       0.45      0.40      0.43        25
+        EMCI       0.61      0.69      0.65        39
+
+    accuracy                           0.68        99
+   macro avg       0.66      0.65      0.65        99
+weighted avg       0.68      0.68      0.68        99
+
+[[30  2  3]
+ [ 1 10 14]
+ [ 2 10 27]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.89      0.94      0.92        35
+        LMCI       0.43      0.48      0.45        25
+        EMCI       0.68      0.59      0.63        39
+
+    accuracy                           0.69        99
+   macro avg       0.67      0.67      0.67        99
+weighted avg       0.69      0.69      0.69        99
+
+[[33  2  0]
+ [ 2 12 11]
+ [ 2 14 23]]
+count :  33  acc: 72.727273
+Heavy Edge Matching coarsening with Xavier version
+176
+              precision    recall  f1-score   support
+
+          NC       0.82      0.80      0.81        35
+        LMCI       0.53      0.64      0.58        25
+        EMCI       0.66      0.59      0.62        39
+
+    accuracy                           0.68        99
+   macro avg       0.67      0.68      0.67        99
+weighted avg       0.68      0.68      0.68        99
+
+[[28  2  5]
+ [ 2 16  7]
+ [ 4 12 23]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.94      0.94        35
+        LMCI       0.50      0.48      0.49        25
+        EMCI       0.70      0.72      0.71        39
+
+    accuracy                           0.74        99
+   macro avg       0.71      0.71      0.71        99
+weighted avg       0.74      0.74      0.74        99
+
+[[33  2  0]
+ [ 1 12 12]
+ [ 1 10 28]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.92      0.97      0.94        35
+        LMCI       0.48      0.64      0.55        25
+        EMCI       0.72      0.54      0.62        39
+
+    accuracy                           0.72        99
+   macro avg       0.71      0.72      0.70        99
+weighted avg       0.73      0.72      0.72        99
+
+[[34  1  0]
+ [ 1 16  8]
+ [ 2 16 21]]
+Heavy Edge Matching coarsening with Xavier version
+176
+              precision    recall  f1-score   support
+
+          NC       0.82      0.77      0.79        35
+        LMCI       0.46      0.64      0.53        25
+        EMCI       0.61      0.49      0.54        39
+
+    accuracy                           0.63        99
+   macro avg       0.63      0.63      0.62        99
+weighted avg       0.65      0.63      0.63        99
+
+[[27  3  5]
+ [ 2 16  7]
+ [ 4 16 19]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.91      0.93        35
+        LMCI       0.54      0.60      0.57        25
+        EMCI       0.73      0.69      0.71        39
+
+    accuracy                           0.75        99
+   macro avg       0.74      0.74      0.73        99
+weighted avg       0.76      0.75      0.75        99
+
+[[32  2  1]
+ [ 1 15  9]
+ [ 1 11 27]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.97      0.94      0.96        35
+        LMCI       0.48      0.48      0.48        25
+        EMCI       0.68      0.69      0.68        39
+
+    accuracy                           0.73        99
+   macro avg       0.71      0.71      0.71        99
+weighted avg       0.73      0.73      0.73        99
+
+[[33  2  0]
+ [ 0 12 13]
+ [ 1 11 27]]
+Heavy Edge Matching coarsening with Xavier version
+176
+              precision    recall  f1-score   support
+
+          NC       0.76      0.83      0.79        35
+        LMCI       0.50      0.56      0.53        25
+        EMCI       0.70      0.59      0.64        39
+
+    accuracy                           0.67        99
+   macro avg       0.65      0.66      0.65        99
+weighted avg       0.67      0.67      0.67        99
+
+[[29  3  3]
+ [ 4 14  7]
+ [ 5 11 23]]
+              precision    recall  f1-score   support
+
+          NC       0.87      0.97      0.92        35
+        LMCI       0.52      0.68      0.59        25
+        EMCI       0.78      0.54      0.64        39
+
+    accuracy                           0.73        99
+   macro avg       0.72      0.73      0.71        99
+weighted avg       0.74      0.73      0.72        99
+
+[[34  1  0]
+ [ 2 17  6]
+ [ 3 15 21]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.97      0.94      0.96        35
+        LMCI       0.46      0.52      0.49        25
+        EMCI       0.68      0.64      0.66        39
+
+    accuracy                           0.72        99
+   macro avg       0.70      0.70      0.70        99
+weighted avg       0.73      0.72      0.72        99
+
+[[33  2  0]
+ [ 0 13 12]
+ [ 1 13 25]]
+count :  34  acc: 72.727273
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.84      0.77      0.81        35
+        LMCI       0.47      0.60      0.53        25
+        EMCI       0.60      0.54      0.57        39
+
+    accuracy                           0.64        99
+   macro avg       0.64      0.64      0.63        99
+weighted avg       0.65      0.64      0.64        99
+
+[[27  2  6]
+ [ 2 15  8]
+ [ 3 15 21]]
+              precision    recall  f1-score   support
+
+          NC       0.89      0.97      0.93        35
+        LMCI       0.44      0.60      0.51        25
+        EMCI       0.70      0.49      0.58        39
+
+    accuracy                           0.69        99
+   macro avg       0.68      0.69      0.67        99
+weighted avg       0.70      0.69      0.68        99
+
+[[34  1  0]
+ [ 2 15  8]
+ [ 2 18 19]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.89      0.91        35
+        LMCI       0.45      0.36      0.40        25
+        EMCI       0.65      0.77      0.71        39
+
+    accuracy                           0.71        99
+   macro avg       0.68      0.67      0.67        99
+weighted avg       0.70      0.71      0.70        99
+
+[[31  3  1]
+ [ 1  9 15]
+ [ 1  8 30]]
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.67      0.94      0.79        35
+        LMCI       0.42      0.52      0.46        25
+        EMCI       0.74      0.36      0.48        39
+
+    accuracy                           0.61        99
+   macro avg       0.61      0.61      0.58        99
+weighted avg       0.63      0.61      0.59        99
+
+[[33  1  1]
+ [ 8 13  4]
+ [ 8 17 14]]
+              precision    recall  f1-score   support
+
+          NC       0.92      0.97      0.94        35
+        LMCI       0.52      0.60      0.56        25
+        EMCI       0.76      0.64      0.69        39
+
+    accuracy                           0.75        99
+   macro avg       0.73      0.74      0.73        99
+weighted avg       0.75      0.75      0.75        99
+
+[[34  1  0]
+ [ 2 15  8]
+ [ 1 13 25]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.50      0.48      0.49        25
+        EMCI       0.69      0.69      0.69        39
+
+    accuracy                           0.74        99
+   macro avg       0.71      0.71      0.71        99
+weighted avg       0.73      0.74      0.74        99
+
+[[34  1  0]
+ [ 1 12 12]
+ [ 1 11 27]]
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.87      0.74      0.80        35
+        LMCI       0.50      0.52      0.51        25
+        EMCI       0.58      0.64      0.61        39
+
+    accuracy                           0.65        99
+   macro avg       0.65      0.63      0.64        99
+weighted avg       0.66      0.65      0.65        99
+
+[[26  2  7]
+ [ 1 13 11]
+ [ 3 11 25]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.94      0.94        35
+        LMCI       0.54      0.56      0.55        25
+        EMCI       0.71      0.69      0.70        39
+
+    accuracy                           0.75        99
+   macro avg       0.73      0.73      0.73        99
+weighted avg       0.75      0.75      0.75        99
+
+[[33  1  1]
+ [ 1 14 10]
+ [ 1 11 27]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.47      0.56      0.51        25
+        EMCI       0.70      0.59      0.64        39
+
+    accuracy                           0.72        99
+   macro avg       0.70      0.71      0.70        99
+weighted avg       0.73      0.72      0.72        99
+
+[[34  1  0]
+ [ 1 14 10]
+ [ 1 15 23]]
+count :  35  acc: 73.737374
+Heavy Edge Matching coarsening with Xavier version
+176
+              precision    recall  f1-score   support
+
+          NC       0.67      0.86      0.75        35
+        LMCI       0.43      0.48      0.45        25
+        EMCI       0.69      0.46      0.55        39
+
+    accuracy                           0.61        99
+   macro avg       0.60      0.60      0.59        99
+weighted avg       0.62      0.61      0.60        99
+
+[[30  2  3]
+ [ 8 12  5]
+ [ 7 14 18]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.89      0.91        35
+        LMCI       0.48      0.48      0.48        25
+        EMCI       0.63      0.67      0.65        39
+
+    accuracy                           0.70        99
+   macro avg       0.68      0.68      0.68        99
+weighted avg       0.70      0.70      0.70        99
+
+[[31  1  3]
+ [ 1 12 12]
+ [ 1 12 26]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.94      0.94        35
+        LMCI       0.42      0.68      0.52        25
+        EMCI       0.71      0.44      0.54        39
+
+    accuracy                           0.68        99
+   macro avg       0.69      0.69      0.67        99
+weighted avg       0.72      0.68      0.68        99
+
+[[33  2  0]
+ [ 1 17  7]
+ [ 1 21 17]]
+Heavy Edge Matching coarsening with Xavier version
+176
+              precision    recall  f1-score   support
+
+          NC       0.74      0.71      0.72        35
+        LMCI       0.50      0.56      0.53        25
+        EMCI       0.59      0.56      0.58        39
+
+    accuracy                           0.62        99
+   macro avg       0.61      0.61      0.61        99
+weighted avg       0.62      0.62      0.62        99
+
+[[25  3  7]
+ [ 3 14  8]
+ [ 6 11 22]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.89      0.91        35
+        LMCI       0.45      0.60      0.52        25
+        EMCI       0.67      0.56      0.61        39
+
+    accuracy                           0.69        99
+   macro avg       0.69      0.68      0.68        99
+weighted avg       0.71      0.69      0.69        99
+
+[[31  2  2]
+ [ 1 15  9]
+ [ 1 16 22]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.94      0.94        35
+        LMCI       0.48      0.64      0.55        25
+        EMCI       0.71      0.56      0.63        39
+
+    accuracy                           0.72        99
+   macro avg       0.71      0.72      0.71        99
+weighted avg       0.74      0.72      0.72        99
+
+[[33  1  1]
+ [ 1 16  8]
+ [ 1 16 22]]
+Heavy Edge Matching coarsening with Xavier version
+176
+              precision    recall  f1-score   support
+
+          NC       0.72      0.80      0.76        35
+        LMCI       0.44      0.48      0.46        25
+        EMCI       0.61      0.51      0.56        39
+
+    accuracy                           0.61        99
+   macro avg       0.59      0.60      0.59        99
+weighted avg       0.60      0.61      0.60        99
+
+[[28  2  5]
+ [ 5 12  8]
+ [ 6 13 20]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.91      0.93        35
+        LMCI       0.54      0.60      0.57        25
+        EMCI       0.70      0.67      0.68        39
+
+    accuracy                           0.74        99
+   macro avg       0.73      0.73      0.73        99
+weighted avg       0.74      0.74      0.74        99
+
+[[32  1  2]
+ [ 1 15  9]
+ [ 1 12 26]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.94      0.94        35
+        LMCI       0.53      0.64      0.58        25
+        EMCI       0.74      0.64      0.68        39
+
+    accuracy                           0.75        99
+   macro avg       0.74      0.74      0.74        99
+weighted avg       0.76      0.75      0.75        99
+
+[[33  1  1]
+ [ 1 16  8]
+ [ 1 13 25]]
+count :  36  acc: 74.747475
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.71      0.97      0.82        35
+        LMCI       0.52      0.56      0.54        25
+        EMCI       0.79      0.49      0.60        39
+
+    accuracy                           0.68        99
+   macro avg       0.67      0.67      0.65        99
+weighted avg       0.69      0.68      0.66        99
+
+[[34  1  0]
+ [ 6 14  5]
+ [ 8 12 19]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.91      0.93        35
+        LMCI       0.45      0.56      0.50        25
+        EMCI       0.68      0.59      0.63        39
+
+    accuracy                           0.70        99
+   macro avg       0.69      0.69      0.69        99
+weighted avg       0.71      0.70      0.70        99
+
+[[32  2  1]
+ [ 1 14 10]
+ [ 1 15 23]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.94      0.94        35
+        LMCI       0.45      0.60      0.52        25
+        EMCI       0.71      0.56      0.63        39
+
+    accuracy                           0.71        99
+   macro avg       0.70      0.70      0.70        99
+weighted avg       0.73      0.71      0.71        99
+
+[[33  2  0]
+ [ 1 15  9]
+ [ 1 16 22]]
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.82      0.80      0.81        35
+        LMCI       0.48      0.48      0.48        25
+        EMCI       0.60      0.62      0.61        39
+
+    accuracy                           0.65        99
+   macro avg       0.63      0.63      0.63        99
+weighted avg       0.65      0.65      0.65        99
+
+[[28  1  6]
+ [ 3 12 10]
+ [ 3 12 24]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.94      0.94        35
+        LMCI       0.47      0.60      0.53        25
+        EMCI       0.72      0.59      0.65        39
+
+    accuracy                           0.72        99
+   macro avg       0.71      0.71      0.71        99
+weighted avg       0.73      0.72      0.72        99
+
+[[33  2  0]
+ [ 1 15  9]
+ [ 1 15 23]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.94      0.94        35
+        LMCI       0.47      0.32      0.38        25
+        EMCI       0.66      0.79      0.72        39
+
+    accuracy                           0.73        99
+   macro avg       0.69      0.69      0.68        99
+weighted avg       0.71      0.73      0.71        99
+
+[[33  2  0]
+ [ 1  8 16]
+ [ 1  7 31]]
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.79      0.77      0.78        35
+        LMCI       0.41      0.28      0.33        25
+        EMCI       0.56      0.69      0.62        39
+
+    accuracy                           0.62        99
+   macro avg       0.59      0.58      0.58        99
+weighted avg       0.61      0.62      0.61        99
+
+[[27  1  7]
+ [ 4  7 14]
+ [ 3  9 27]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.91      0.93        35
+        LMCI       0.45      0.40      0.43        25
+        EMCI       0.65      0.72      0.68        39
+
+    accuracy                           0.71        99
+   macro avg       0.68      0.68      0.68        99
+weighted avg       0.70      0.71      0.70        99
+
+[[32  2  1]
+ [ 1 10 14]
+ [ 1 10 28]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.94      0.94        35
+        LMCI       0.44      0.60      0.51        25
+        EMCI       0.70      0.54      0.61        39
+
+    accuracy                           0.70        99
+   macro avg       0.69      0.69      0.69        99
+weighted avg       0.72      0.70      0.70        99
+
+[[33  2  0]
+ [ 1 15  9]
+ [ 1 17 21]]
+count :  37  acc: 72.727273
+Heavy Edge Matching coarsening with Xavier version
+160
+              precision    recall  f1-score   support
+
+          NC       0.74      0.83      0.78        35
+        LMCI       0.42      0.56      0.48        25
+        EMCI       0.63      0.44      0.52        39
+
+    accuracy                           0.61        99
+   macro avg       0.60      0.61      0.59        99
+weighted avg       0.62      0.61      0.60        99
+
+[[29  3  3]
+ [ 4 14  7]
+ [ 6 16 17]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.89      0.91        35
+        LMCI       0.48      0.60      0.54        25
+        EMCI       0.66      0.59      0.62        39
+
+    accuracy                           0.70        99
+   macro avg       0.69      0.69      0.69        99
+weighted avg       0.71      0.70      0.70        99
+
+[[31  1  3]
+ [ 1 15  9]
+ [ 1 15 23]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.92      0.94      0.93        35
+        LMCI       0.50      0.80      0.62        25
+        EMCI       0.83      0.49      0.61        39
+
+    accuracy                           0.73        99
+   macro avg       0.75      0.74      0.72        99
+weighted avg       0.78      0.73      0.73        99
+
+[[33  2  0]
+ [ 1 20  4]
+ [ 2 18 19]]
+Heavy Edge Matching coarsening with Xavier version
+160
+              precision    recall  f1-score   support
+
+          NC       0.85      0.63      0.72        35
+        LMCI       0.44      0.48      0.46        25
+        EMCI       0.57      0.67      0.61        39
+
+    accuracy                           0.61        99
+   macro avg       0.62      0.59      0.60        99
+weighted avg       0.63      0.61      0.61        99
+
+[[22  5  8]
+ [ 1 12 12]
+ [ 3 10 26]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.89      0.91        35
+        LMCI       0.50      0.64      0.56        25
+        EMCI       0.68      0.59      0.63        39
+
+    accuracy                           0.71        99
+   macro avg       0.71      0.71      0.70        99
+weighted avg       0.72      0.71      0.71        99
+
+[[31  1  3]
+ [ 1 16  8]
+ [ 1 15 23]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.94      0.94        35
+        LMCI       0.48      0.64      0.55        25
+        EMCI       0.74      0.59      0.66        39
+
+    accuracy                           0.73        99
+   macro avg       0.72      0.72      0.72        99
+weighted avg       0.75      0.73      0.73        99
+
+[[33  2  0]
+ [ 1 16  8]
+ [ 1 15 23]]
+Heavy Edge Matching coarsening with Xavier version
+160
+              precision    recall  f1-score   support
+
+          NC       0.74      0.80      0.77        35
+        LMCI       0.48      0.56      0.52        25
+        EMCI       0.66      0.54      0.59        39
+
+    accuracy                           0.64        99
+   macro avg       0.63      0.63      0.63        99
+weighted avg       0.64      0.64      0.64        99
+
+[[28  3  4]
+ [ 4 14  7]
+ [ 6 12 21]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.91      0.93        35
+        LMCI       0.50      0.64      0.56        25
+        EMCI       0.70      0.59      0.64        39
+
+    accuracy                           0.72        99
+   macro avg       0.71      0.71      0.71        99
+weighted avg       0.73      0.72      0.72        99
+
+[[32  1  2]
+ [ 1 16  8]
+ [ 1 15 23]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.94      0.94        35
+        LMCI       0.46      0.48      0.47        25
+        EMCI       0.68      0.67      0.68        39
+
+    accuracy                           0.72        99
+   macro avg       0.70      0.70      0.70        99
+weighted avg       0.72      0.72      0.72        99
+
+[[33  2  0]
+ [ 1 12 12]
+ [ 1 12 26]]
+count :  38  acc: 72.727273
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.95      0.60      0.74        35
+        LMCI       0.39      0.44      0.42        25
+        EMCI       0.53      0.67      0.59        39
+
+    accuracy                           0.59        99
+   macro avg       0.63      0.57      0.58        99
+weighted avg       0.65      0.59      0.60        99
+
+[[21  5  9]
+ [ 0 11 14]
+ [ 1 12 26]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.49      0.76      0.59        25
+        EMCI       0.79      0.49      0.60        39
+
+    accuracy                           0.73        99
+   macro avg       0.74      0.74      0.72        99
+weighted avg       0.77      0.73      0.73        99
+
+[[34  1  0]
+ [ 1 19  5]
+ [ 1 19 19]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.52      0.52      0.52        25
+        EMCI       0.71      0.69      0.70        39
+
+    accuracy                           0.75        99
+   macro avg       0.72      0.73      0.73        99
+weighted avg       0.75      0.75      0.75        99
+
+[[34  1  0]
+ [ 1 13 11]
+ [ 1 11 27]]
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.94      0.83      0.88        35
+        LMCI       0.47      0.60      0.53        25
+        EMCI       0.61      0.56      0.59        39
+
+    accuracy                           0.67        99
+   macro avg       0.67      0.66      0.66        99
+weighted avg       0.69      0.67      0.67        99
+
+[[29  2  4]
+ [ 0 15 10]
+ [ 2 15 22]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.50      0.56      0.53        25
+        EMCI       0.71      0.64      0.68        39
+
+    accuracy                           0.74        99
+   macro avg       0.72      0.72      0.72        99
+weighted avg       0.74      0.74      0.74        99
+
+[[34  1  0]
+ [ 1 14 10]
+ [ 1 13 25]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.52      0.64      0.57        25
+        EMCI       0.75      0.62      0.68        39
+
+    accuracy                           0.75        99
+   macro avg       0.74      0.74      0.74        99
+weighted avg       0.76      0.75      0.75        99
+
+[[34  1  0]
+ [ 1 16  8]
+ [ 1 14 24]]
+Heavy Edge Matching coarsening with Xavier version
+144
+              precision    recall  f1-score   support
+
+          NC       0.78      0.89      0.83        35
+        LMCI       0.50      0.52      0.51        25
+        EMCI       0.64      0.54      0.58        39
+
+    accuracy                           0.66        99
+   macro avg       0.64      0.65      0.64        99
+weighted avg       0.65      0.66      0.65        99
+
+[[31  1  3]
+ [ 3 13  9]
+ [ 6 12 21]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.47      0.60      0.53        25
+        EMCI       0.71      0.56      0.63        39
+
+    accuracy                           0.72        99
+   macro avg       0.71      0.71      0.70        99
+weighted avg       0.73      0.72      0.72        99
+
+[[34  1  0]
+ [ 1 15  9]
+ [ 1 16 22]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.50      0.64      0.56        25
+        EMCI       0.74      0.59      0.66        39
+
+    accuracy                           0.74        99
+   macro avg       0.73      0.73      0.73        99
+weighted avg       0.75      0.74      0.74        99
+
+[[34  1  0]
+ [ 1 16  8]
+ [ 1 15 23]]
+count :  39  acc: 74.747475
+Heavy Edge Matching coarsening with Xavier version
+160
+              precision    recall  f1-score   support
+
+          NC       0.83      0.86      0.85        35
+        LMCI       0.58      0.60      0.59        25
+        EMCI       0.70      0.67      0.68        39
+
+    accuracy                           0.72        99
+   macro avg       0.70      0.71      0.71        99
+weighted avg       0.72      0.72      0.72        99
+
+[[30  2  3]
+ [ 2 15  8]
+ [ 4  9 26]]
+              precision    recall  f1-score   support
+
+          NC       0.89      0.97      0.93        35
+        LMCI       0.45      0.68      0.54        25
+        EMCI       0.74      0.44      0.55        39
+
+    accuracy                           0.69        99
+   macro avg       0.69      0.70      0.67        99
+weighted avg       0.72      0.69      0.68        99
+
+[[34  1  0]
+ [ 2 17  6]
+ [ 2 20 17]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.48      0.56      0.52        25
+        EMCI       0.71      0.62      0.66        39
+
+    accuracy                           0.73        99
+   macro avg       0.71      0.72      0.71        99
+weighted avg       0.73      0.73      0.73        99
+
+[[34  1  0]
+ [ 1 14 10]
+ [ 1 14 24]]
+Heavy Edge Matching coarsening with Xavier version
+160
+              precision    recall  f1-score   support
+
+          NC       0.84      0.89      0.86        35
+        LMCI       0.56      0.56      0.56        25
+        EMCI       0.73      0.69      0.71        39
+
+    accuracy                           0.73        99
+   macro avg       0.71      0.71      0.71        99
+weighted avg       0.73      0.73      0.73        99
+
+[[31  2  2]
+ [ 3 14  8]
+ [ 3  9 27]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.91      0.93        35
+        LMCI       0.50      0.40      0.44        25
+        EMCI       0.64      0.74      0.69        39
+
+    accuracy                           0.72        99
+   macro avg       0.70      0.69      0.69        99
+weighted avg       0.71      0.72      0.71        99
+
+[[32  1  2]
+ [ 1 10 14]
+ [ 1  9 29]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.92      0.97      0.94        35
+        LMCI       0.43      0.52      0.47        25
+        EMCI       0.69      0.56      0.62        39
+
+    accuracy                           0.70        99
+   macro avg       0.68      0.69      0.68        99
+weighted avg       0.71      0.70      0.70        99
+
+[[34  1  0]
+ [ 2 13 10]
+ [ 1 16 22]]
+Heavy Edge Matching coarsening with Xavier version
+160
+              precision    recall  f1-score   support
+
+          NC       0.71      0.97      0.82        35
+        LMCI       0.39      0.56      0.46        25
+        EMCI       0.73      0.28      0.41        39
+
+    accuracy                           0.60        99
+   macro avg       0.61      0.60      0.56        99
+weighted avg       0.64      0.60      0.57        99
+
+[[34  1  0]
+ [ 7 14  4]
+ [ 7 21 11]]
+              precision    recall  f1-score   support
+
+          NC       0.94      0.97      0.96        35
+        LMCI       0.47      0.56      0.51        25
+        EMCI       0.70      0.59      0.64        39
+
+    accuracy                           0.72        99
+   macro avg       0.70      0.71      0.70        99
+weighted avg       0.73      0.72      0.72        99
+
+[[34  1  0]
+ [ 1 14 10]
+ [ 1 15 23]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.94      0.94      0.94        35
+        LMCI       0.46      0.48      0.47        25
+        EMCI       0.68      0.67      0.68        39
+
+    accuracy                           0.72        99
+   macro avg       0.70      0.70      0.70        99
+weighted avg       0.72      0.72      0.72        99
+
+[[33  2  0]
+ [ 1 12 12]
+ [ 1 12 26]]
+count :  40  acc: 72.727273

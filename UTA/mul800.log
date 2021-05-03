@@ -1,0 +1,2610 @@
+(419, 120)
+(419,)
+11310
+candidate number:  1265
+(228, 120)
+(99, 120)
+1248
+              precision    recall  f1-score   support
+
+          NC       0.69      0.61      0.65        33
+        LMCI       0.00      0.00      0.00        28
+        EMCI       0.51      0.95      0.67        38
+
+    accuracy                           0.57        99
+   macro avg       0.40      0.52      0.44        99
+weighted avg       0.43      0.57      0.47        99
+
+[[20  0 13]
+ [ 7  0 21]
+ [ 2  0 36]]
+              precision    recall  f1-score   support
+
+          NC       0.43      0.85      0.57        33
+        LMCI       0.00      0.00      0.00        28
+        EMCI       0.73      0.63      0.68        38
+
+    accuracy                           0.53        99
+   macro avg       0.39      0.49      0.42        99
+weighted avg       0.42      0.53      0.45        99
+
+[[28  1  4]
+ [23  0  5]
+ [14  0 24]]
+              precision    recall  f1-score   support
+
+          NC       0.65      0.67      0.66        33
+        LMCI       0.25      0.07      0.11        28
+        EMCI       0.54      0.82      0.65        38
+
+    accuracy                           0.56        99
+   macro avg       0.48      0.52      0.47        99
+weighted avg       0.50      0.56      0.50        99
+
+[[22  4  7]
+ [ 7  2 19]
+ [ 5  2 31]]
+1248
+              precision    recall  f1-score   support
+
+          NC       1.00      0.06      0.11        33
+        LMCI       0.00      0.00      0.00        28
+        EMCI       0.39      1.00      0.56        38
+
+    accuracy                           0.40        99
+   macro avg       0.46      0.35      0.23        99
+weighted avg       0.48      0.40      0.25        99
+
+[[ 2  0 31]
+ [ 0  0 28]
+ [ 0  0 38]]
+              precision    recall  f1-score   support
+
+          NC       0.63      0.58      0.60        33
+        LMCI       0.00      0.00      0.00        28
+        EMCI       0.51      0.89      0.65        38
+
+    accuracy                           0.54        99
+   macro avg       0.38      0.49      0.42        99
+weighted avg       0.41      0.54      0.45        99
+
+[[19  2 12]
+ [ 7  0 21]
+ [ 4  0 34]]
+              precision    recall  f1-score   support
+
+          NC       0.63      0.67      0.65        33
+        LMCI       0.38      0.11      0.17        28
+        EMCI       0.55      0.82      0.66        38
+
+    accuracy                           0.57        99
+   macro avg       0.52      0.53      0.49        99
+weighted avg       0.53      0.57      0.52        99
+
+[[22  4  7]
+ [ 7  3 18]
+ [ 6  1 31]]
+1248
+              precision    recall  f1-score   support
+
+          NC       0.77      0.70      0.73        33
+        LMCI       0.00      0.00      0.00        28
+        EMCI       0.54      0.97      0.69        38
+
+    accuracy                           0.61        99
+   macro avg       0.43      0.56      0.47        99
+weighted avg       0.46      0.61      0.51        99
+
+[[23  0 10]
+ [ 6  0 22]
+ [ 1  0 37]]
+              precision    recall  f1-score   support
+
+          NC       0.80      0.48      0.60        33
+        LMCI       0.00      0.00      0.00        28
+        EMCI       0.49      0.95      0.64        38
+
+    accuracy                           0.53        99
+   macro avg       0.43      0.48      0.42        99
+weighted avg       0.45      0.53      0.45        99
+
+[[16  3 14]
+ [ 4  0 24]
+ [ 0  2 36]]
+              precision    recall  f1-score   support
+
+          NC       0.54      0.85      0.66        33
+        LMCI       0.43      0.46      0.45        28
+        EMCI       0.82      0.37      0.51        38
+
+    accuracy                           0.56        99
+   macro avg       0.60      0.56      0.54        99
+weighted avg       0.62      0.56      0.54        99
+
+[[28  3  2]
+ [14 13  1]
+ [10 14 14]]
+max_acc : 56.566
+144
+              precision    recall  f1-score   support
+
+          NC       0.73      0.67      0.70        33
+        LMCI       0.44      0.25      0.32        28
+        EMCI       0.58      0.82      0.68        38
+
+    accuracy                           0.61        99
+   macro avg       0.59      0.58      0.57        99
+weighted avg       0.59      0.61      0.58        99
+
+[[22  3  8]
+ [ 7  7 14]
+ [ 1  6 31]]
+              precision    recall  f1-score   support
+
+          NC       0.84      0.82      0.83        33
+        LMCI       0.57      0.43      0.49        28
+        EMCI       0.67      0.82      0.74        38
+
+    accuracy                           0.71        99
+   macro avg       0.70      0.69      0.69        99
+weighted avg       0.70      0.71      0.70        99
+
+[[27  2  4]
+ [ 5 12 11]
+ [ 0  7 31]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.84      0.79      0.81        33
+        LMCI       0.54      0.25      0.34        28
+        EMCI       0.62      0.89      0.73        38
+
+    accuracy                           0.68        99
+   macro avg       0.67      0.64      0.63        99
+weighted avg       0.67      0.68      0.65        99
+
+[[26  2  5]
+ [ 5  7 16]
+ [ 0  4 34]]
+144
+              precision    recall  f1-score   support
+
+          NC       0.53      0.73      0.62        33
+        LMCI       0.57      0.43      0.49        28
+        EMCI       0.70      0.61      0.65        38
+
+    accuracy                           0.60        99
+   macro avg       0.60      0.59      0.58        99
+weighted avg       0.61      0.60      0.59        99
+
+[[24  4  5]
+ [11 12  5]
+ [10  5 23]]
+              precision    recall  f1-score   support
+
+          NC       0.78      0.85      0.81        33
+        LMCI       0.62      0.64      0.63        28
+        EMCI       0.79      0.71      0.75        38
+
+    accuracy                           0.74        99
+   macro avg       0.73      0.73      0.73        99
+weighted avg       0.74      0.74      0.74        99
+
+[[28  2  3]
+ [ 6 18  4]
+ [ 2  9 27]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.84      0.82      0.83        33
+        LMCI       0.57      0.43      0.49        28
+        EMCI       0.65      0.79      0.71        38
+
+    accuracy                           0.70        99
+   macro avg       0.69      0.68      0.68        99
+weighted avg       0.69      0.70      0.69        99
+
+[[27  2  4]
+ [ 4 12 12]
+ [ 1  7 30]]
+144
+              precision    recall  f1-score   support
+
+          NC       0.57      0.79      0.66        33
+        LMCI       0.57      0.46      0.51        28
+        EMCI       0.73      0.58      0.65        38
+
+    accuracy                           0.62        99
+   macro avg       0.62      0.61      0.61        99
+weighted avg       0.63      0.62      0.61        99
+
+[[26  4  3]
+ [10 13  5]
+ [10  6 22]]
+              precision    recall  f1-score   support
+
+          NC       0.77      0.82      0.79        33
+        LMCI       0.43      0.21      0.29        28
+        EMCI       0.60      0.79      0.68        38
+
+    accuracy                           0.64        99
+   macro avg       0.60      0.61      0.59        99
+weighted avg       0.61      0.64      0.61        99
+
+[[27  2  4]
+ [ 6  6 16]
+ [ 2  6 30]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.82      0.82      0.82        33
+        LMCI       0.61      0.61      0.61        28
+        EMCI       0.76      0.76      0.76        38
+
+    accuracy                           0.74        99
+   macro avg       0.73      0.73      0.73        99
+weighted avg       0.74      0.74      0.74        99
+
+[[27  3  3]
+ [ 5 17  6]
+ [ 1  8 29]]
+count :  1  acc: 73.737374
+better edges.
+160
+              precision    recall  f1-score   support
+
+          NC       0.68      0.79      0.73        33
+        LMCI       0.50      0.50      0.50        28
+        EMCI       0.73      0.63      0.68        38
+
+    accuracy                           0.65        99
+   macro avg       0.64      0.64      0.64        99
+weighted avg       0.65      0.65      0.65        99
+
+[[26  4  3]
+ [ 8 14  6]
+ [ 4 10 24]]
+              precision    recall  f1-score   support
+
+          NC       0.96      0.79      0.87        33
+        LMCI       0.55      0.39      0.46        28
+        EMCI       0.60      0.82      0.69        38
+
+    accuracy                           0.69        99
+   macro avg       0.70      0.67      0.67        99
+weighted avg       0.71      0.69      0.68        99
+
+[[26  2  5]
+ [ 1 11 16]
+ [ 0  7 31]]
+              precision    recall  f1-score   support
+
+          NC       0.93      0.79      0.85        33
+        LMCI       0.61      0.50      0.55        28
+        EMCI       0.62      0.79      0.70        38
+
+    accuracy                           0.71        99
+   macro avg       0.72      0.69      0.70        99
+weighted avg       0.72      0.71      0.71        99
+
+[[26  1  6]
+ [ 2 14 12]
+ [ 0  8 30]]
+160
+              precision    recall  f1-score   support
+
+          NC       0.74      0.61      0.67        33
+        LMCI       0.00      0.00      0.00        28
+        EMCI       0.50      0.89      0.64        38
+
+    accuracy                           0.55        99
+   macro avg       0.41      0.50      0.44        99
+weighted avg       0.44      0.55      0.47        99
+
+[[20  2 11]
+ [ 5  0 23]
+ [ 2  2 34]]
+              precision    recall  f1-score   support
+
+          NC       0.81      0.79      0.80        33
+        LMCI       0.58      0.50      0.54        28
+        EMCI       0.70      0.79      0.74        38
+
+    accuracy                           0.71        99
+   macro avg       0.70      0.69      0.69        99
+weighted avg       0.70      0.71      0.70        99
+
+[[26  2  5]
+ [ 6 14  8]
+ [ 0  8 30]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.82      0.85      0.84        33
+        LMCI       0.52      0.43      0.47        28
+        EMCI       0.71      0.79      0.75        38
+
+    accuracy                           0.71        99
+   macro avg       0.69      0.69      0.69        99
+weighted avg       0.70      0.71      0.70        99
+
+[[28  3  2]
+ [ 6 12 10]
+ [ 0  8 30]]
+160
+              precision    recall  f1-score   support
+
+          NC       0.65      0.79      0.71        33
+        LMCI       0.53      0.32      0.40        28
+        EMCI       0.67      0.74      0.70        38
+
+    accuracy                           0.64        99
+   macro avg       0.62      0.62      0.60        99
+weighted avg       0.62      0.64      0.62        99
+
+[[26  2  5]
+ [10  9  9]
+ [ 4  6 28]]
+              precision    recall  f1-score   support
+
+          NC       0.83      0.76      0.79        33
+        LMCI       0.47      0.29      0.36        28
+        EMCI       0.60      0.82      0.69        38
+
+    accuracy                           0.65        99
+   macro avg       0.63      0.62      0.61        99
+weighted avg       0.64      0.65      0.63        99
+
+[[25  2  6]
+ [ 5  8 15]
+ [ 0  7 31]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.83      0.76      0.79        33
+        LMCI       0.50      0.36      0.42        28
+        EMCI       0.63      0.82      0.71        38
+
+    accuracy                           0.67        99
+   macro avg       0.66      0.64      0.64        99
+weighted avg       0.66      0.67      0.66        99
+
+[[25  3  5]
+ [ 5 10 13]
+ [ 0  7 31]]
+count :  2  acc: 70.707071
+192
+              precision    recall  f1-score   support
+
+          NC       0.50      0.42      0.46        33
+        LMCI       0.32      0.25      0.28        28
+        EMCI       0.53      0.68      0.60        38
+
+    accuracy                           0.47        99
+   macro avg       0.45      0.45      0.45        99
+weighted avg       0.46      0.47      0.46        99
+
+[[14  9 10]
+ [ 8  7 13]
+ [ 6  6 26]]
+              precision    recall  f1-score   support
+
+          NC       0.81      0.76      0.78        33
+        LMCI       0.57      0.46      0.51        28
+        EMCI       0.64      0.76      0.70        38
+
+    accuracy                           0.68        99
+   macro avg       0.67      0.66      0.66        99
+weighted avg       0.68      0.68      0.67        99
+
+[[25  2  6]
+ [ 5 13 10]
+ [ 1  8 29]]
+              precision    recall  f1-score   support
+
+          NC       0.89      0.76      0.82        33
+        LMCI       0.53      0.32      0.40        28
+        EMCI       0.59      0.84      0.70        38
+
+    accuracy                           0.67        99
+   macro avg       0.67      0.64      0.64        99
+weighted avg       0.67      0.67      0.65        99
+
+[[25  2  6]
+ [ 3  9 16]
+ [ 0  6 32]]
+192
+              precision    recall  f1-score   support
+
+          NC       0.68      0.64      0.66        33
+        LMCI       0.43      0.21      0.29        28
+        EMCI       0.56      0.79      0.65        38
+
+    accuracy                           0.58        99
+   macro avg       0.55      0.55      0.53        99
+weighted avg       0.56      0.58      0.55        99
+
+[[21  3  9]
+ [ 7  6 15]
+ [ 3  5 30]]
+              precision    recall  f1-score   support
+
+          NC       0.80      0.73      0.76        33
+        LMCI       0.64      0.50      0.56        28
+        EMCI       0.64      0.79      0.71        38
+
+    accuracy                           0.69        99
+   macro avg       0.69      0.67      0.68        99
+weighted avg       0.69      0.69      0.68        99
+
+[[24  2  7]
+ [ 4 14 10]
+ [ 2  6 30]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.93      0.76      0.83        33
+        LMCI       0.62      0.46      0.53        28
+        EMCI       0.63      0.84      0.72        38
+
+    accuracy                           0.71        99
+   macro avg       0.72      0.69      0.69        99
+weighted avg       0.72      0.71      0.70        99
+
+[[25  2  6]
+ [ 2 13 13]
+ [ 0  6 32]]
+192
+              precision    recall  f1-score   support
+
+          NC       0.61      0.70      0.65        33
+        LMCI       0.40      0.14      0.21        28
+        EMCI       0.53      0.71      0.61        38
+
+    accuracy                           0.55        99
+   macro avg       0.51      0.52      0.49        99
+weighted avg       0.52      0.55      0.51        99
+
+[[23  2  8]
+ [ 8  4 16]
+ [ 7  4 27]]
+              precision    recall  f1-score   support
+
+          NC       0.88      0.70      0.78        33
+        LMCI       0.57      0.46      0.51        28
+        EMCI       0.62      0.82      0.70        38
+
+    accuracy                           0.68        99
+   macro avg       0.69      0.66      0.66        99
+weighted avg       0.69      0.68      0.67        99
+
+[[23  3  7]
+ [ 3 13 12]
+ [ 0  7 31]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.89      0.76      0.82        33
+        LMCI       0.56      0.50      0.53        28
+        EMCI       0.67      0.82      0.74        38
+
+    accuracy                           0.71        99
+   macro avg       0.71      0.69      0.70        99
+weighted avg       0.71      0.71      0.71        99
+
+[[25  4  4]
+ [ 3 14 11]
+ [ 0  7 31]]
+count :  3  acc: 70.707071
+160
+              precision    recall  f1-score   support
+
+          NC       0.73      0.73      0.73        33
+        LMCI       0.42      0.29      0.34        28
+        EMCI       0.60      0.74      0.66        38
+
+    accuracy                           0.61        99
+   macro avg       0.58      0.58      0.58        99
+weighted avg       0.59      0.61      0.59        99
+
+[[24  4  5]
+ [ 6  8 14]
+ [ 3  7 28]]
+              precision    recall  f1-score   support
+
+          NC       0.89      0.76      0.82        33
+        LMCI       0.50      0.36      0.42        28
+        EMCI       0.63      0.84      0.72        38
+
+    accuracy                           0.68        99
+   macro avg       0.67      0.65      0.65        99
+weighted avg       0.68      0.68      0.67        99
+
+[[25  4  4]
+ [ 3 10 15]
+ [ 0  6 32]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.87      0.82      0.84        33
+        LMCI       0.50      0.32      0.39        28
+        EMCI       0.60      0.79      0.68        38
+
+    accuracy                           0.67        99
+   macro avg       0.66      0.64      0.64        99
+weighted avg       0.66      0.67      0.65        99
+
+[[27  2  4]
+ [ 3  9 16]
+ [ 1  7 30]]
+160
+              precision    recall  f1-score   support
+
+          NC       0.75      0.73      0.74        33
+        LMCI       0.47      0.29      0.36        28
+        EMCI       0.60      0.79      0.68        38
+
+    accuracy                           0.63        99
+   macro avg       0.61      0.60      0.59        99
+weighted avg       0.61      0.63      0.61        99
+
+[[24  3  6]
+ [ 6  8 14]
+ [ 2  6 30]]
+              precision    recall  f1-score   support
+
+          NC       0.85      0.85      0.85        33
+        LMCI       0.43      0.21      0.29        28
+        EMCI       0.60      0.82      0.69        38
+
+    accuracy                           0.66        99
+   macro avg       0.62      0.63      0.61        99
+weighted avg       0.63      0.66      0.63        99
+
+[[28  2  3]
+ [ 4  6 18]
+ [ 1  6 31]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.85      0.88      0.87        33
+        LMCI       0.50      0.43      0.46        28
+        EMCI       0.68      0.74      0.71        38
+
+    accuracy                           0.70        99
+   macro avg       0.68      0.68      0.68        99
+weighted avg       0.69      0.70      0.69        99
+
+[[29  2  2]
+ [ 5 12 11]
+ [ 0 10 28]]
+160
+              precision    recall  f1-score   support
+
+          NC       0.76      0.79      0.78        33
+        LMCI       0.50      0.25      0.33        28
+        EMCI       0.61      0.82      0.70        38
+
+    accuracy                           0.65        99
+   macro avg       0.62      0.62      0.60        99
+weighted avg       0.63      0.65      0.62        99
+
+[[26  2  5]
+ [ 6  7 15]
+ [ 2  5 31]]
+              precision    recall  f1-score   support
+
+          NC       0.81      0.88      0.84        33
+        LMCI       0.55      0.39      0.46        28
+        EMCI       0.65      0.74      0.69        38
+
+    accuracy                           0.69        99
+   macro avg       0.67      0.67      0.66        99
+weighted avg       0.67      0.69      0.68        99
+
+[[29  2  2]
+ [ 4 11 13]
+ [ 3  7 28]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.87      0.82      0.84        33
+        LMCI       0.50      0.29      0.36        28
+        EMCI       0.58      0.79      0.67        38
+
+    accuracy                           0.66        99
+   macro avg       0.65      0.63      0.62        99
+weighted avg       0.65      0.66      0.64        99
+
+[[27  1  5]
+ [ 3  8 17]
+ [ 1  7 30]]
+count :  4  acc: 69.696970
+160
+              precision    recall  f1-score   support
+
+          NC       0.71      0.73      0.72        33
+        LMCI       0.38      0.18      0.24        28
+        EMCI       0.58      0.79      0.67        38
+
+    accuracy                           0.60        99
+   macro avg       0.56      0.57      0.54        99
+weighted avg       0.57      0.60      0.56        99
+
+[[24  4  5]
+ [ 6  5 17]
+ [ 4  4 30]]
+              precision    recall  f1-score   support
+
+          NC       0.83      0.76      0.79        33
+        LMCI       0.29      0.07      0.11        28
+        EMCI       0.56      0.92      0.70        38
+
+    accuracy                           0.63        99
+   macro avg       0.56      0.58      0.54        99
+weighted avg       0.58      0.63      0.57        99
+
+[[25  2  6]
+ [ 5  2 21]
+ [ 0  3 35]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.77      0.73      0.75        33
+        LMCI       0.50      0.29      0.36        28
+        EMCI       0.58      0.79      0.67        38
+
+    accuracy                           0.63        99
+   macro avg       0.62      0.60      0.59        99
+weighted avg       0.62      0.63      0.61        99
+
+[[24  2  7]
+ [ 5  8 15]
+ [ 2  6 30]]
+160
+              precision    recall  f1-score   support
+
+          NC       0.63      0.67      0.65        33
+        LMCI       0.36      0.18      0.24        28
+        EMCI       0.56      0.74      0.64        38
+
+    accuracy                           0.56        99
+   macro avg       0.52      0.53      0.51        99
+weighted avg       0.53      0.56      0.53        99
+
+[[22  4  7]
+ [ 8  5 15]
+ [ 5  5 28]]
+              precision    recall  f1-score   support
+
+          NC       0.78      0.85      0.81        33
+        LMCI       0.47      0.25      0.33        28
+        EMCI       0.60      0.76      0.67        38
+
+    accuracy                           0.65        99
+   macro avg       0.62      0.62      0.60        99
+weighted avg       0.62      0.65      0.62        99
+
+[[28  2  3]
+ [ 5  7 16]
+ [ 3  6 29]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.81      0.79      0.80        33
+        LMCI       0.48      0.39      0.43        28
+        EMCI       0.61      0.71      0.66        38
+
+    accuracy                           0.65        99
+   macro avg       0.63      0.63      0.63        99
+weighted avg       0.64      0.65      0.64        99
+
+[[26  2  5]
+ [ 5 11 12]
+ [ 1 10 27]]
+160
+              precision    recall  f1-score   support
+
+          NC       0.65      0.73      0.69        33
+        LMCI       0.38      0.18      0.24        28
+        EMCI       0.59      0.76      0.67        38
+
+    accuracy                           0.59        99
+   macro avg       0.54      0.56      0.53        99
+weighted avg       0.55      0.59      0.55        99
+
+[[24  4  5]
+ [ 8  5 15]
+ [ 5  4 29]]
+              precision    recall  f1-score   support
+
+          NC       0.77      0.82      0.79        33
+        LMCI       0.47      0.29      0.36        28
+        EMCI       0.64      0.79      0.71        38
+
+    accuracy                           0.66        99
+   macro avg       0.63      0.63      0.62        99
+weighted avg       0.64      0.66      0.64        99
+
+[[27  3  3]
+ [ 6  8 14]
+ [ 2  6 30]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.83      0.73      0.77        33
+        LMCI       0.44      0.29      0.35        28
+        EMCI       0.60      0.82      0.69        38
+
+    accuracy                           0.64        99
+   macro avg       0.62      0.61      0.60        99
+weighted avg       0.63      0.64      0.62        99
+
+[[24  3  6]
+ [ 5  8 15]
+ [ 0  7 31]]
+count :  5  acc: 64.646465
+160
+              precision    recall  f1-score   support
+
+          NC       0.69      0.67      0.68        33
+        LMCI       0.46      0.21      0.29        28
+        EMCI       0.57      0.82      0.67        38
+
+    accuracy                           0.60        99
+   macro avg       0.57      0.57      0.55        99
+weighted avg       0.58      0.60      0.57        99
+
+[[22  3  8]
+ [ 7  6 15]
+ [ 3  4 31]]
+              precision    recall  f1-score   support
+
+          NC       0.87      0.82      0.84        33
+        LMCI       0.56      0.32      0.41        28
+        EMCI       0.63      0.87      0.73        38
+
+    accuracy                           0.70        99
+   macro avg       0.69      0.67      0.66        99
+weighted avg       0.69      0.70      0.68        99
+
+[[27  2  4]
+ [ 4  9 15]
+ [ 0  5 33]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.90      0.82      0.86        33
+        LMCI       0.53      0.32      0.40        28
+        EMCI       0.62      0.84      0.71        38
+
+    accuracy                           0.69        99
+   macro avg       0.68      0.66      0.66        99
+weighted avg       0.69      0.69      0.67        99
+
+[[27  2  4]
+ [ 3  9 16]
+ [ 0  6 32]]
+160
+              precision    recall  f1-score   support
+
+          NC       0.70      0.70      0.70        33
+        LMCI       0.50      0.21      0.30        28
+        EMCI       0.57      0.82      0.67        38
+
+    accuracy                           0.61        99
+   macro avg       0.59      0.58      0.56        99
+weighted avg       0.59      0.61      0.58        99
+
+[[23  2  8]
+ [ 7  6 15]
+ [ 3  4 31]]
+              precision    recall  f1-score   support
+
+          NC       0.89      0.76      0.82        33
+        LMCI       0.52      0.57      0.54        28
+        EMCI       0.65      0.68      0.67        38
+
+    accuracy                           0.68        99
+   macro avg       0.69      0.67      0.68        99
+weighted avg       0.69      0.68      0.68        99
+
+[[25  3  5]
+ [ 3 16  9]
+ [ 0 12 26]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.87      0.79      0.83        33
+        LMCI       0.38      0.21      0.27        28
+        EMCI       0.58      0.82      0.68        38
+
+    accuracy                           0.64        99
+   macro avg       0.61      0.61      0.59        99
+weighted avg       0.62      0.64      0.61        99
+
+[[26  3  4]
+ [ 4  6 18]
+ [ 0  7 31]]
+160
+              precision    recall  f1-score   support
+
+          NC       0.74      0.52      0.61        33
+        LMCI       0.46      0.39      0.42        28
+        EMCI       0.60      0.82      0.69        38
+
+    accuracy                           0.60        99
+   macro avg       0.60      0.57      0.57        99
+weighted avg       0.60      0.60      0.59        99
+
+[[17  7  9]
+ [ 5 11 12]
+ [ 1  6 31]]
+              precision    recall  f1-score   support
+
+          NC       0.84      0.79      0.81        33
+        LMCI       0.50      0.25      0.33        28
+        EMCI       0.59      0.84      0.70        38
+
+    accuracy                           0.66        99
+   macro avg       0.64      0.63      0.61        99
+weighted avg       0.65      0.66      0.63        99
+
+[[26  2  5]
+ [ 4  7 17]
+ [ 1  5 32]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.86      0.76      0.81        33
+        LMCI       0.56      0.36      0.43        28
+        EMCI       0.62      0.84      0.71        38
+
+    accuracy                           0.68        99
+   macro avg       0.68      0.65      0.65        99
+weighted avg       0.68      0.68      0.66        99
+
+[[25  3  5]
+ [ 3 10 15]
+ [ 1  5 32]]
+count :  6  acc: 68.686869
+144
+              precision    recall  f1-score   support
+
+          NC       0.62      0.73      0.67        33
+        LMCI       0.50      0.18      0.26        28
+        EMCI       0.58      0.76      0.66        38
+
+    accuracy                           0.59        99
+   macro avg       0.57      0.56      0.53        99
+weighted avg       0.57      0.59      0.55        99
+
+[[24  2  7]
+ [ 9  5 14]
+ [ 6  3 29]]
+              precision    recall  f1-score   support
+
+          NC       0.82      0.82      0.82        33
+        LMCI       0.59      0.46      0.52        28
+        EMCI       0.66      0.76      0.71        38
+
+    accuracy                           0.70        99
+   macro avg       0.69      0.68      0.68        99
+weighted avg       0.69      0.70      0.69        99
+
+[[27  1  5]
+ [ 5 13 10]
+ [ 1  8 29]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.84      0.79      0.81        33
+        LMCI       0.60      0.32      0.42        28
+        EMCI       0.62      0.87      0.73        38
+
+    accuracy                           0.69        99
+   macro avg       0.69      0.66      0.65        99
+weighted avg       0.69      0.69      0.67        99
+
+[[26  1  6]
+ [ 5  9 14]
+ [ 0  5 33]]
+144
+              precision    recall  f1-score   support
+
+          NC       0.63      0.52      0.57        33
+        LMCI       0.36      0.14      0.21        28
+        EMCI       0.51      0.82      0.63        38
+
+    accuracy                           0.53        99
+   macro avg       0.50      0.49      0.47        99
+weighted avg       0.51      0.53      0.49        99
+
+[[17  3 13]
+ [ 7  4 17]
+ [ 3  4 31]]
+              precision    recall  f1-score   support
+
+          NC       0.87      0.79      0.83        33
+        LMCI       0.50      0.21      0.30        28
+        EMCI       0.56      0.84      0.67        38
+
+    accuracy                           0.65        99
+   macro avg       0.64      0.61      0.60        99
+weighted avg       0.65      0.65      0.62        99
+
+[[26  0  7]
+ [ 4  6 18]
+ [ 0  6 32]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.86      0.76      0.81        33
+        LMCI       0.50      0.21      0.30        28
+        EMCI       0.57      0.87      0.69        38
+
+    accuracy                           0.65        99
+   macro avg       0.64      0.61      0.60        99
+weighted avg       0.65      0.65      0.62        99
+
+[[25  1  7]
+ [ 4  6 18]
+ [ 0  5 33]]
+144
+              precision    recall  f1-score   support
+
+          NC       0.68      0.58      0.62        33
+        LMCI       0.47      0.29      0.36        28
+        EMCI       0.54      0.76      0.63        38
+
+    accuracy                           0.57        99
+   macro avg       0.56      0.54      0.54        99
+weighted avg       0.57      0.57      0.55        99
+
+[[19  4 10]
+ [ 5  8 15]
+ [ 4  5 29]]
+              precision    recall  f1-score   support
+
+          NC       0.84      0.79      0.81        33
+        LMCI       0.57      0.43      0.49        28
+        EMCI       0.64      0.79      0.71        38
+
+    accuracy                           0.69        99
+   macro avg       0.68      0.67      0.67        99
+weighted avg       0.69      0.69      0.68        99
+
+[[26  1  6]
+ [ 5 12 11]
+ [ 0  8 30]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.84      0.79      0.81        33
+        LMCI       0.45      0.18      0.26        28
+        EMCI       0.58      0.87      0.69        38
+
+    accuracy                           0.65        99
+   macro avg       0.62      0.61      0.59        99
+weighted avg       0.63      0.65      0.61        99
+
+[[26  1  6]
+ [ 5  5 18]
+ [ 0  5 33]]
+count :  7  acc: 68.686869
+192
+              precision    recall  f1-score   support
+
+          NC       0.74      0.76      0.75        33
+        LMCI       0.46      0.21      0.29        28
+        EMCI       0.62      0.84      0.71        38
+
+    accuracy                           0.64        99
+   macro avg       0.60      0.60      0.58        99
+weighted avg       0.61      0.64      0.60        99
+
+[[25  3  5]
+ [ 7  6 15]
+ [ 2  4 32]]
+              precision    recall  f1-score   support
+
+          NC       0.81      0.76      0.78        33
+        LMCI       0.52      0.50      0.51        28
+        EMCI       0.63      0.68      0.66        38
+
+    accuracy                           0.66        99
+   macro avg       0.65      0.65      0.65        99
+weighted avg       0.66      0.66      0.66        99
+
+[[25  2  6]
+ [ 5 14  9]
+ [ 1 11 26]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.86      0.76      0.81        33
+        LMCI       0.47      0.29      0.36        28
+        EMCI       0.58      0.82      0.68        38
+
+    accuracy                           0.65        99
+   macro avg       0.64      0.62      0.61        99
+weighted avg       0.64      0.65      0.63        99
+
+[[25  2  6]
+ [ 4  8 16]
+ [ 0  7 31]]
+192
+              precision    recall  f1-score   support
+
+          NC       0.56      0.73      0.63        33
+        LMCI       0.38      0.29      0.33        28
+        EMCI       0.66      0.61      0.63        38
+
+    accuracy                           0.56        99
+   macro avg       0.53      0.54      0.53        99
+weighted avg       0.55      0.56      0.54        99
+
+[[24  6  3]
+ [11  8  9]
+ [ 8  7 23]]
+              precision    recall  f1-score   support
+
+          NC       0.86      0.76      0.81        33
+        LMCI       0.53      0.29      0.37        28
+        EMCI       0.58      0.84      0.69        38
+
+    accuracy                           0.66        99
+   macro avg       0.66      0.63      0.62        99
+weighted avg       0.66      0.66      0.64        99
+
+[[25  1  7]
+ [ 4  8 16]
+ [ 0  6 32]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.83      0.76      0.79        33
+        LMCI       0.59      0.36      0.44        28
+        EMCI       0.62      0.84      0.71        38
+
+    accuracy                           0.68        99
+   macro avg       0.68      0.65      0.65        99
+weighted avg       0.68      0.68      0.66        99
+
+[[25  2  6]
+ [ 4 10 14]
+ [ 1  5 32]]
+192
+              precision    recall  f1-score   support
+
+          NC       0.57      0.70      0.63        33
+        LMCI       0.43      0.32      0.37        28
+        EMCI       0.61      0.61      0.61        38
+
+    accuracy                           0.56        99
+   macro avg       0.54      0.54      0.53        99
+weighted avg       0.55      0.56      0.55        99
+
+[[23  6  4]
+ [ 8  9 11]
+ [ 9  6 23]]
+              precision    recall  f1-score   support
+
+          NC       0.83      0.76      0.79        33
+        LMCI       0.40      0.14      0.21        28
+        EMCI       0.56      0.87      0.68        38
+
+    accuracy                           0.63        99
+   macro avg       0.60      0.59      0.56        99
+weighted avg       0.61      0.63      0.59        99
+
+[[25  1  7]
+ [ 5  4 19]
+ [ 0  5 33]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.83      0.76      0.79        33
+        LMCI       0.55      0.39      0.46        28
+        EMCI       0.63      0.82      0.71        38
+
+    accuracy                           0.68        99
+   macro avg       0.67      0.66      0.65        99
+weighted avg       0.68      0.68      0.67        99
+
+[[25  2  6]
+ [ 5 11 12]
+ [ 0  7 31]]
+count :  8  acc: 67.676768
+160
+              precision    recall  f1-score   support
+
+          NC       0.71      0.52      0.60        33
+        LMCI       0.38      0.18      0.24        28
+        EMCI       0.52      0.84      0.64        38
+
+    accuracy                           0.55        99
+   macro avg       0.54      0.51      0.49        99
+weighted avg       0.54      0.55      0.51        99
+
+[[17  4 12]
+ [ 5  5 18]
+ [ 2  4 32]]
+              precision    recall  f1-score   support
+
+          NC       0.85      0.85      0.85        33
+        LMCI       0.57      0.43      0.49        28
+        EMCI       0.67      0.79      0.72        38
+
+    accuracy                           0.71        99
+   macro avg       0.70      0.69      0.69        99
+weighted avg       0.70      0.71      0.70        99
+
+[[28  1  4]
+ [ 5 12 11]
+ [ 0  8 30]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.87      0.82      0.84        33
+        LMCI       0.60      0.32      0.42        28
+        EMCI       0.62      0.87      0.73        38
+
+    accuracy                           0.70        99
+   macro avg       0.70      0.67      0.66        99
+weighted avg       0.70      0.70      0.68        99
+
+[[27  1  5]
+ [ 4  9 15]
+ [ 0  5 33]]
+160
+              precision    recall  f1-score   support
+
+          NC       0.79      0.70      0.74        33
+        LMCI       0.40      0.21      0.28        28
+        EMCI       0.56      0.82      0.67        38
+
+    accuracy                           0.61        99
+   macro avg       0.59      0.58      0.56        99
+weighted avg       0.59      0.61      0.58        99
+
+[[23  3  7]
+ [ 5  6 17]
+ [ 1  6 31]]
+              precision    recall  f1-score   support
+
+          NC       0.82      0.85      0.84        33
+        LMCI       0.50      0.32      0.39        28
+        EMCI       0.64      0.79      0.71        38
+
+    accuracy                           0.68        99
+   macro avg       0.65      0.65      0.64        99
+weighted avg       0.66      0.68      0.66        99
+
+[[28  1  4]
+ [ 6  9 13]
+ [ 0  8 30]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.87      0.82      0.84        33
+        LMCI       0.55      0.39      0.46        28
+        EMCI       0.65      0.82      0.72        38
+
+    accuracy                           0.70        99
+   macro avg       0.69      0.68      0.67        99
+weighted avg       0.69      0.70      0.69        99
+
+[[27  2  4]
+ [ 4 11 13]
+ [ 0  7 31]]
+160
+              precision    recall  f1-score   support
+
+          NC       0.63      0.88      0.73        33
+        LMCI       0.53      0.32      0.40        28
+        EMCI       0.67      0.63      0.65        38
+
+    accuracy                           0.63        99
+   macro avg       0.61      0.61      0.59        99
+weighted avg       0.62      0.63      0.61        99
+
+[[29  1  3]
+ [10  9  9]
+ [ 7  7 24]]
+              precision    recall  f1-score   support
+
+          NC       0.83      0.91      0.87        33
+        LMCI       0.52      0.39      0.45        28
+        EMCI       0.69      0.76      0.72        38
+
+    accuracy                           0.71        99
+   macro avg       0.68      0.69      0.68        99
+weighted avg       0.69      0.71      0.70        99
+
+[[30  1  2]
+ [ 6 11 11]
+ [ 0  9 29]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.88      0.85      0.86        33
+        LMCI       0.47      0.29      0.36        28
+        EMCI       0.62      0.82      0.70        38
+
+    accuracy                           0.68        99
+   macro avg       0.66      0.65      0.64        99
+weighted avg       0.66      0.68      0.66        99
+
+[[28  2  3]
+ [ 4  8 16]
+ [ 0  7 31]]
+count :  9  acc: 69.696970
+144
+              precision    recall  f1-score   support
+
+          NC       0.63      0.79      0.70        33
+        LMCI       0.52      0.46      0.49        28
+        EMCI       0.64      0.55      0.59        38
+
+    accuracy                           0.61        99
+   macro avg       0.60      0.60      0.59        99
+weighted avg       0.60      0.61      0.60        99
+
+[[26  3  4]
+ [ 7 13  8]
+ [ 8  9 21]]
+              precision    recall  f1-score   support
+
+          NC       0.82      0.82      0.82        33
+        LMCI       0.48      0.43      0.45        28
+        EMCI       0.63      0.68      0.66        38
+
+    accuracy                           0.66        99
+   macro avg       0.64      0.64      0.64        99
+weighted avg       0.65      0.66      0.65        99
+
+[[27  3  3]
+ [ 4 12 12]
+ [ 2 10 26]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.84      0.79      0.81        33
+        LMCI       0.44      0.43      0.44        28
+        EMCI       0.63      0.68      0.66        38
+
+    accuracy                           0.65        99
+   macro avg       0.64      0.63      0.64        99
+weighted avg       0.65      0.65      0.65        99
+
+[[26  4  3]
+ [ 4 12 12]
+ [ 1 11 26]]
+144
+              precision    recall  f1-score   support
+
+          NC       0.74      0.76      0.75        33
+        LMCI       0.55      0.39      0.46        28
+        EMCI       0.64      0.76      0.70        38
+
+    accuracy                           0.66        99
+   macro avg       0.64      0.64      0.63        99
+weighted avg       0.65      0.66      0.65        99
+
+[[25  3  5]
+ [ 6 11 11]
+ [ 3  6 29]]
+              precision    recall  f1-score   support
+
+          NC       0.86      0.73      0.79        33
+        LMCI       0.36      0.14      0.21        28
+        EMCI       0.55      0.87      0.67        38
+
+    accuracy                           0.62        99
+   macro avg       0.59      0.58      0.56        99
+weighted avg       0.60      0.62      0.58        99
+
+[[24  2  7]
+ [ 4  4 20]
+ [ 0  5 33]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.89      0.76      0.82        33
+        LMCI       0.44      0.25      0.32        28
+        EMCI       0.56      0.82      0.67        38
+
+    accuracy                           0.64        99
+   macro avg       0.63      0.61      0.60        99
+weighted avg       0.64      0.64      0.62        99
+
+[[25  2  6]
+ [ 3  7 18]
+ [ 0  7 31]]
+144
+              precision    recall  f1-score   support
+
+          NC       0.73      0.82      0.77        33
+        LMCI       0.55      0.21      0.31        28
+        EMCI       0.61      0.82      0.70        38
+
+    accuracy                           0.65        99
+   macro avg       0.63      0.62      0.59        99
+weighted avg       0.63      0.65      0.61        99
+
+[[27  2  4]
+ [ 6  6 16]
+ [ 4  3 31]]
+              precision    recall  f1-score   support
+
+          NC       0.85      0.85      0.85        33
+        LMCI       0.50      0.36      0.42        28
+        EMCI       0.63      0.76      0.69        38
+
+    accuracy                           0.68        99
+   macro avg       0.66      0.66      0.65        99
+weighted avg       0.67      0.68      0.67        99
+
+[[28  2  3]
+ [ 4 10 14]
+ [ 1  8 29]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.82      0.82      0.82        33
+        LMCI       0.56      0.36      0.43        28
+        EMCI       0.67      0.84      0.74        38
+
+    accuracy                           0.70        99
+   macro avg       0.68      0.67      0.67        99
+weighted avg       0.69      0.70      0.68        99
+
+[[27  3  3]
+ [ 5 10 13]
+ [ 1  5 32]]
+count :  10  acc: 69.696970
+144
+              precision    recall  f1-score   support
+
+          NC       0.55      0.82      0.66        33
+        LMCI       0.56      0.36      0.43        28
+        EMCI       0.75      0.63      0.69        38
+
+    accuracy                           0.62        99
+   macro avg       0.62      0.60      0.59        99
+weighted avg       0.63      0.62      0.61        99
+
+[[27  3  3]
+ [13 10  5]
+ [ 9  5 24]]
+              precision    recall  f1-score   support
+
+          NC       0.86      0.73      0.79        33
+        LMCI       0.50      0.18      0.26        28
+        EMCI       0.57      0.92      0.71        38
+
+    accuracy                           0.65        99
+   macro avg       0.64      0.61      0.59        99
+weighted avg       0.65      0.65      0.61        99
+
+[[24  2  7]
+ [ 4  5 19]
+ [ 0  3 35]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.87      0.82      0.84        33
+        LMCI       0.52      0.46      0.49        28
+        EMCI       0.63      0.71      0.67        38
+
+    accuracy                           0.68        99
+   macro avg       0.67      0.66      0.67        99
+weighted avg       0.68      0.68      0.68        99
+
+[[27  2  4]
+ [ 3 13 12]
+ [ 1 10 27]]
+144
+              precision    recall  f1-score   support
+
+          NC       0.62      0.73      0.67        33
+        LMCI       0.45      0.32      0.38        28
+        EMCI       0.62      0.66      0.64        38
+
+    accuracy                           0.59        99
+   macro avg       0.56      0.57      0.56        99
+weighted avg       0.57      0.59      0.57        99
+
+[[24  4  5]
+ [ 9  9 10]
+ [ 6  7 25]]
+              precision    recall  f1-score   support
+
+          NC       0.76      0.79      0.78        33
+        LMCI       0.57      0.43      0.49        28
+        EMCI       0.66      0.76      0.71        38
+
+    accuracy                           0.68        99
+   macro avg       0.67      0.66      0.66        99
+weighted avg       0.67      0.68      0.67        99
+
+[[26  2  5]
+ [ 6 12 10]
+ [ 2  7 29]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.80      0.73      0.76        33
+        LMCI       0.43      0.21      0.29        28
+        EMCI       0.55      0.79      0.65        38
+
+    accuracy                           0.61        99
+   macro avg       0.59      0.58      0.56        99
+weighted avg       0.60      0.61      0.58        99
+
+[[24  1  8]
+ [ 5  6 17]
+ [ 1  7 30]]
+144
+              precision    recall  f1-score   support
+
+          NC       0.64      0.82      0.72        33
+        LMCI       0.57      0.29      0.38        28
+        EMCI       0.65      0.74      0.69        38
+
+    accuracy                           0.64        99
+   macro avg       0.62      0.61      0.60        99
+weighted avg       0.63      0.64      0.61        99
+
+[[27  2  4]
+ [ 9  8 11]
+ [ 6  4 28]]
+              precision    recall  f1-score   support
+
+          NC       0.81      0.79      0.80        33
+        LMCI       0.60      0.43      0.50        28
+        EMCI       0.68      0.84      0.75        38
+
+    accuracy                           0.71        99
+   macro avg       0.70      0.69      0.68        99
+weighted avg       0.70      0.71      0.70        99
+
+[[26  2  5]
+ [ 6 12 10]
+ [ 0  6 32]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.87      0.79      0.83        33
+        LMCI       0.48      0.39      0.43        28
+        EMCI       0.63      0.76      0.69        38
+
+    accuracy                           0.67        99
+   macro avg       0.66      0.65      0.65        99
+weighted avg       0.67      0.67      0.66        99
+
+[[26  3  4]
+ [ 4 11 13]
+ [ 0  9 29]]
+count :  11  acc: 67.676768
+160
+              precision    recall  f1-score   support
+
+          NC       0.70      0.64      0.67        33
+        LMCI       0.43      0.21      0.29        28
+        EMCI       0.56      0.82      0.67        38
+
+    accuracy                           0.59        99
+   macro avg       0.56      0.56      0.54        99
+weighted avg       0.57      0.59      0.56        99
+
+[[21  3  9]
+ [ 7  6 15]
+ [ 2  5 31]]
+              precision    recall  f1-score   support
+
+          NC       0.76      0.88      0.82        33
+        LMCI       0.63      0.43      0.51        28
+        EMCI       0.69      0.76      0.72        38
+
+    accuracy                           0.71        99
+   macro avg       0.70      0.69      0.68        99
+weighted avg       0.70      0.71      0.70        99
+
+[[29  1  3]
+ [ 6 12 10]
+ [ 3  6 29]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.83      0.88      0.85        33
+        LMCI       0.57      0.29      0.38        28
+        EMCI       0.62      0.82      0.70        38
+
+    accuracy                           0.69        99
+   macro avg       0.67      0.66      0.65        99
+weighted avg       0.68      0.69      0.66        99
+
+[[29  0  4]
+ [ 5  8 15]
+ [ 1  6 31]]
+160
+              precision    recall  f1-score   support
+
+          NC       0.68      0.76      0.71        33
+        LMCI       0.45      0.32      0.38        28
+        EMCI       0.62      0.68      0.65        38
+
+    accuracy                           0.61        99
+   macro avg       0.58      0.59      0.58        99
+weighted avg       0.59      0.61      0.59        99
+
+[[25  4  4]
+ [ 7  9 12]
+ [ 5  7 26]]
+              precision    recall  f1-score   support
+
+          NC       0.89      0.76      0.82        33
+        LMCI       0.38      0.18      0.24        28
+        EMCI       0.55      0.84      0.67        38
+
+    accuracy                           0.63        99
+   macro avg       0.61      0.59      0.58        99
+weighted avg       0.62      0.63      0.60        99
+
+[[25  2  6]
+ [ 3  5 20]
+ [ 0  6 32]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.85      0.85      0.85        33
+        LMCI       0.46      0.21      0.29        28
+        EMCI       0.60      0.84      0.70        38
+
+    accuracy                           0.67        99
+   macro avg       0.64      0.63      0.61        99
+weighted avg       0.65      0.67      0.64        99
+
+[[28  2  3]
+ [ 4  6 18]
+ [ 1  5 32]]
+160
+              precision    recall  f1-score   support
+
+          NC       0.54      0.82      0.65        33
+        LMCI       0.55      0.21      0.31        28
+        EMCI       0.63      0.63      0.63        38
+
+    accuracy                           0.58        99
+   macro avg       0.57      0.55      0.53        99
+weighted avg       0.58      0.58      0.55        99
+
+[[27  3  3]
+ [11  6 11]
+ [12  2 24]]
+              precision    recall  f1-score   support
+
+          NC       0.82      0.82      0.82        33
+        LMCI       0.62      0.46      0.53        28
+        EMCI       0.71      0.84      0.77        38
+
+    accuracy                           0.73        99
+   macro avg       0.72      0.71      0.71        99
+weighted avg       0.72      0.73      0.72        99
+
+[[27  2  4]
+ [ 6 13  9]
+ [ 0  6 32]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.84      0.79      0.81        33
+        LMCI       0.45      0.32      0.38        28
+        EMCI       0.62      0.79      0.70        38
+
+    accuracy                           0.66        99
+   macro avg       0.64      0.63      0.63        99
+weighted avg       0.65      0.66      0.64        99
+
+[[26  4  3]
+ [ 4  9 15]
+ [ 1  7 30]]
+count :  12  acc: 68.686869
+160
+              precision    recall  f1-score   support
+
+          NC       0.66      0.76      0.70        33
+        LMCI       0.50      0.18      0.26        28
+        EMCI       0.57      0.76      0.65        38
+
+    accuracy                           0.60        99
+   macro avg       0.58      0.57      0.54        99
+weighted avg       0.58      0.60      0.56        99
+
+[[25  2  6]
+ [ 7  5 16]
+ [ 6  3 29]]
+              precision    recall  f1-score   support
+
+          NC       0.83      0.76      0.79        33
+        LMCI       0.56      0.36      0.43        28
+        EMCI       0.61      0.82      0.70        38
+
+    accuracy                           0.67        99
+   macro avg       0.67      0.64      0.64        99
+weighted avg       0.67      0.67      0.65        99
+
+[[25  2  6]
+ [ 4 10 14]
+ [ 1  6 31]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.89      0.76      0.82        33
+        LMCI       0.61      0.50      0.55        28
+        EMCI       0.65      0.82      0.72        38
+
+    accuracy                           0.71        99
+   macro avg       0.72      0.69      0.70        99
+weighted avg       0.72      0.71      0.71        99
+
+[[25  2  6]
+ [ 3 14 11]
+ [ 0  7 31]]
+160
+              precision    recall  f1-score   support
+
+          NC       0.71      0.82      0.76        33
+        LMCI       0.38      0.11      0.17        28
+        EMCI       0.60      0.84      0.70        38
+
+    accuracy                           0.63        99
+   macro avg       0.56      0.59      0.54        99
+weighted avg       0.57      0.63      0.57        99
+
+[[27  2  4]
+ [ 8  3 17]
+ [ 3  3 32]]
+              precision    recall  f1-score   support
+
+          NC       0.88      0.70      0.78        33
+        LMCI       0.50      0.21      0.30        28
+        EMCI       0.56      0.89      0.69        38
+
+    accuracy                           0.64        99
+   macro avg       0.65      0.60      0.59        99
+weighted avg       0.65      0.64      0.61        99
+
+[[23  2  8]
+ [ 3  6 19]
+ [ 0  4 34]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.90      0.82      0.86        33
+        LMCI       0.50      0.32      0.39        28
+        EMCI       0.61      0.82      0.70        38
+
+    accuracy                           0.68        99
+   macro avg       0.67      0.65      0.65        99
+weighted avg       0.67      0.68      0.66        99
+
+[[27  2  4]
+ [ 3  9 16]
+ [ 0  7 31]]
+160
+              precision    recall  f1-score   support
+
+          NC       0.85      0.67      0.75        33
+        LMCI       0.36      0.18      0.24        28
+        EMCI       0.58      0.89      0.70        38
+
+    accuracy                           0.62        99
+   macro avg       0.59      0.58      0.56        99
+weighted avg       0.60      0.62      0.59        99
+
+[[22  5  6]
+ [ 4  5 19]
+ [ 0  4 34]]
+              precision    recall  f1-score   support
+
+          NC       0.87      0.79      0.83        33
+        LMCI       0.46      0.21      0.29        28
+        EMCI       0.59      0.87      0.70        38
+
+    accuracy                           0.66        99
+   macro avg       0.64      0.62      0.61        99
+weighted avg       0.65      0.66      0.63        99
+
+[[26  2  5]
+ [ 4  6 18]
+ [ 0  5 33]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.89      0.76      0.82        33
+        LMCI       0.47      0.32      0.38        28
+        EMCI       0.60      0.82      0.69        38
+
+    accuracy                           0.66        99
+   macro avg       0.65      0.63      0.63        99
+weighted avg       0.66      0.66      0.65        99
+
+[[25  3  5]
+ [ 3  9 16]
+ [ 0  7 31]]
+count :  13  acc: 70.707071
+160
+              precision    recall  f1-score   support
+
+          NC       0.68      0.64      0.66        33
+        LMCI       0.44      0.39      0.42        28
+        EMCI       0.63      0.71      0.67        38
+
+    accuracy                           0.60        99
+   macro avg       0.58      0.58      0.58        99
+weighted avg       0.59      0.60      0.59        99
+
+[[21  6  6]
+ [ 7 11 10]
+ [ 3  8 27]]
+              precision    recall  f1-score   support
+
+          NC       0.83      0.76      0.79        33
+        LMCI       0.44      0.25      0.32        28
+        EMCI       0.58      0.82      0.68        38
+
+    accuracy                           0.64        99
+   macro avg       0.62      0.61      0.60        99
+weighted avg       0.63      0.64      0.62        99
+
+[[25  2  6]
+ [ 5  7 16]
+ [ 0  7 31]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.86      0.76      0.81        33
+        LMCI       0.57      0.46      0.51        28
+        EMCI       0.66      0.82      0.73        38
+
+    accuracy                           0.70        99
+   macro avg       0.70      0.68      0.68        99
+weighted avg       0.70      0.70      0.69        99
+
+[[25  3  5]
+ [ 4 13 11]
+ [ 0  7 31]]
+160
+              precision    recall  f1-score   support
+
+          NC       0.66      0.70      0.68        33
+        LMCI       0.44      0.25      0.32        28
+        EMCI       0.60      0.76      0.67        38
+
+    accuracy                           0.60        99
+   macro avg       0.57      0.57      0.56        99
+weighted avg       0.57      0.60      0.57        99
+
+[[23  4  6]
+ [ 8  7 13]
+ [ 4  5 29]]
+              precision    recall  f1-score   support
+
+          NC       0.82      0.85      0.84        33
+        LMCI       0.54      0.25      0.34        28
+        EMCI       0.63      0.87      0.73        38
+
+    accuracy                           0.69        99
+   macro avg       0.67      0.66      0.64        99
+weighted avg       0.67      0.69      0.66        99
+
+[[28  1  4]
+ [ 6  7 15]
+ [ 0  5 33]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.85      0.85      0.85        33
+        LMCI       0.50      0.25      0.33        28
+        EMCI       0.62      0.84      0.71        38
+
+    accuracy                           0.68        99
+   macro avg       0.65      0.65      0.63        99
+weighted avg       0.66      0.68      0.65        99
+
+[[28  1  4]
+ [ 5  7 16]
+ [ 0  6 32]]
+160
+              precision    recall  f1-score   support
+
+          NC       0.65      0.79      0.71        33
+        LMCI       0.52      0.54      0.53        28
+        EMCI       0.77      0.61      0.68        38
+
+    accuracy                           0.65        99
+   macro avg       0.64      0.64      0.64        99
+weighted avg       0.66      0.65      0.65        99
+
+[[26  4  3]
+ [ 9 15  4]
+ [ 5 10 23]]
+              precision    recall  f1-score   support
+
+          NC       0.84      0.79      0.81        33
+        LMCI       0.54      0.25      0.34        28
+        EMCI       0.60      0.87      0.71        38
+
+    accuracy                           0.67        99
+   macro avg       0.66      0.64      0.62        99
+weighted avg       0.66      0.67      0.64        99
+
+[[26  1  6]
+ [ 5  7 16]
+ [ 0  5 33]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.82      0.85      0.84        33
+        LMCI       0.55      0.43      0.48        28
+        EMCI       0.65      0.74      0.69        38
+
+    accuracy                           0.69        99
+   macro avg       0.67      0.67      0.67        99
+weighted avg       0.68      0.69      0.68        99
+
+[[28  1  4]
+ [ 5 12 11]
+ [ 1  9 28]]
+count :  14  acc: 69.696970
+160
+              precision    recall  f1-score   support
+
+          NC       0.68      0.70      0.69        33
+        LMCI       0.41      0.25      0.31        28
+        EMCI       0.58      0.74      0.65        38
+
+    accuracy                           0.59        99
+   macro avg       0.56      0.56      0.55        99
+weighted avg       0.57      0.59      0.57        99
+
+[[23  5  5]
+ [ 6  7 15]
+ [ 5  5 28]]
+              precision    recall  f1-score   support
+
+          NC       0.85      0.85      0.85        33
+        LMCI       0.56      0.36      0.43        28
+        EMCI       0.65      0.82      0.72        38
+
+    accuracy                           0.70        99
+   macro avg       0.68      0.67      0.67        99
+weighted avg       0.69      0.70      0.68        99
+
+[[28  1  4]
+ [ 5 10 13]
+ [ 0  7 31]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.90      0.79      0.84        33
+        LMCI       0.50      0.32      0.39        28
+        EMCI       0.60      0.82      0.69        38
+
+    accuracy                           0.67        99
+   macro avg       0.66      0.64      0.64        99
+weighted avg       0.67      0.67      0.65        99
+
+[[26  2  5]
+ [ 3  9 16]
+ [ 0  7 31]]
+160
+              precision    recall  f1-score   support
+
+          NC       0.77      0.61      0.68        33
+        LMCI       0.17      0.04      0.06        28
+        EMCI       0.48      0.84      0.61        38
+
+    accuracy                           0.54        99
+   macro avg       0.47      0.49      0.45        99
+weighted avg       0.49      0.54      0.48        99
+
+[[20  2 11]
+ [ 3  1 24]
+ [ 3  3 32]]
+              precision    recall  f1-score   support
+
+          NC       0.88      0.85      0.86        33
+        LMCI       0.61      0.50      0.55        28
+        EMCI       0.68      0.79      0.73        38
+
+    accuracy                           0.73        99
+   macro avg       0.72      0.71      0.71        99
+weighted avg       0.73      0.73      0.72        99
+
+[[28  1  4]
+ [ 4 14 10]
+ [ 0  8 30]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.90      0.82      0.86        33
+        LMCI       0.58      0.39      0.47        28
+        EMCI       0.62      0.82      0.70        38
+
+    accuracy                           0.70        99
+   macro avg       0.70      0.68      0.68        99
+weighted avg       0.70      0.70      0.69        99
+
+[[27  1  5]
+ [ 3 11 14]
+ [ 0  7 31]]
+160
+              precision    recall  f1-score   support
+
+          NC       0.71      0.67      0.69        33
+        LMCI       0.57      0.57      0.57        28
+        EMCI       0.68      0.71      0.69        38
+
+    accuracy                           0.66        99
+   macro avg       0.65      0.65      0.65        99
+weighted avg       0.66      0.66      0.66        99
+
+[[22  5  6]
+ [ 5 16  7]
+ [ 4  7 27]]
+              precision    recall  f1-score   support
+
+          NC       0.87      0.79      0.83        33
+        LMCI       0.58      0.50      0.54        28
+        EMCI       0.62      0.74      0.67        38
+
+    accuracy                           0.69        99
+   macro avg       0.69      0.67      0.68        99
+weighted avg       0.69      0.69      0.69        99
+
+[[26  1  6]
+ [ 3 14 11]
+ [ 1  9 28]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.89      0.76      0.82        33
+        LMCI       0.60      0.43      0.50        28
+        EMCI       0.61      0.82      0.70        38
+
+    accuracy                           0.69        99
+   macro avg       0.70      0.67      0.67        99
+weighted avg       0.70      0.69      0.68        99
+
+[[25  2  6]
+ [ 2 12 14]
+ [ 1  6 31]]
+count :  15  acc: 69.696970
+144
+              precision    recall  f1-score   support
+
+          NC       0.75      0.64      0.69        33
+        LMCI       0.52      0.57      0.54        28
+        EMCI       0.72      0.76      0.74        38
+
+    accuracy                           0.67        99
+   macro avg       0.66      0.66      0.66        99
+weighted avg       0.67      0.67      0.67        99
+
+[[21  7  5]
+ [ 6 16  6]
+ [ 1  8 29]]
+              precision    recall  f1-score   support
+
+          NC       0.81      0.76      0.78        33
+        LMCI       0.53      0.29      0.37        28
+        EMCI       0.58      0.82      0.68        38
+
+    accuracy                           0.65        99
+   macro avg       0.64      0.62      0.61        99
+weighted avg       0.64      0.65      0.63        99
+
+[[25  2  6]
+ [ 4  8 16]
+ [ 2  5 31]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.81      0.79      0.80        33
+        LMCI       0.50      0.36      0.42        28
+        EMCI       0.62      0.76      0.68        38
+
+    accuracy                           0.66        99
+   macro avg       0.64      0.64      0.63        99
+weighted avg       0.65      0.66      0.65        99
+
+[[26  3  4]
+ [ 4 10 14]
+ [ 2  7 29]]
+144
+              precision    recall  f1-score   support
+
+          NC       0.64      0.85      0.73        33
+        LMCI       0.62      0.54      0.58        28
+        EMCI       0.77      0.63      0.70        38
+
+    accuracy                           0.68        99
+   macro avg       0.68      0.67      0.67        99
+weighted avg       0.69      0.68      0.67        99
+
+[[28  2  3]
+ [ 9 15  4]
+ [ 7  7 24]]
+              precision    recall  f1-score   support
+
+          NC       0.79      0.79      0.79        33
+        LMCI       0.60      0.43      0.50        28
+        EMCI       0.63      0.76      0.69        38
+
+    accuracy                           0.68        99
+   macro avg       0.67      0.66      0.66        99
+weighted avg       0.67      0.68      0.67        99
+
+[[26  1  6]
+ [ 5 12 11]
+ [ 2  7 29]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.86      0.76      0.81        33
+        LMCI       0.44      0.29      0.35        28
+        EMCI       0.56      0.76      0.64        38
+
+    accuracy                           0.63        99
+   macro avg       0.62      0.60      0.60        99
+weighted avg       0.63      0.63      0.61        99
+
+[[25  2  6]
+ [ 3  8 17]
+ [ 1  8 29]]
+144
+              precision    recall  f1-score   support
+
+          NC       0.62      0.79      0.69        33
+        LMCI       0.62      0.46      0.53        28
+        EMCI       0.69      0.66      0.68        38
+
+    accuracy                           0.65        99
+   macro avg       0.64      0.64      0.63        99
+weighted avg       0.65      0.65      0.64        99
+
+[[26  2  5]
+ [ 9 13  6]
+ [ 7  6 25]]
+              precision    recall  f1-score   support
+
+          NC       0.76      0.79      0.78        33
+        LMCI       0.56      0.54      0.55        28
+        EMCI       0.71      0.71      0.71        38
+
+    accuracy                           0.69        99
+   macro avg       0.68      0.68      0.68        99
+weighted avg       0.68      0.69      0.69        99
+
+[[26  3  4]
+ [ 6 15  7]
+ [ 2  9 27]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.83      0.76      0.79        33
+        LMCI       0.43      0.32      0.37        28
+        EMCI       0.60      0.76      0.67        38
+
+    accuracy                           0.64        99
+   macro avg       0.62      0.61      0.61        99
+weighted avg       0.63      0.64      0.63        99
+
+[[25  4  4]
+ [ 4  9 15]
+ [ 1  8 29]]
+count :  16  acc: 65.656566
+160
+              precision    recall  f1-score   support
+
+          NC       0.67      0.85      0.75        33
+        LMCI       0.54      0.25      0.34        28
+        EMCI       0.68      0.79      0.73        38
+
+    accuracy                           0.66        99
+   macro avg       0.63      0.63      0.61        99
+weighted avg       0.64      0.66      0.63        99
+
+[[28  3  2]
+ [ 9  7 12]
+ [ 5  3 30]]
+              precision    recall  f1-score   support
+
+          NC       0.83      0.91      0.87        33
+        LMCI       0.58      0.50      0.54        28
+        EMCI       0.74      0.76      0.75        38
+
+    accuracy                           0.74        99
+   macro avg       0.72      0.72      0.72        99
+weighted avg       0.73      0.74      0.73        99
+
+[[30  2  1]
+ [ 5 14  9]
+ [ 1  8 29]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.87      0.82      0.84        33
+        LMCI       0.45      0.36      0.40        28
+        EMCI       0.63      0.76      0.69        38
+
+    accuracy                           0.67        99
+   macro avg       0.65      0.65      0.64        99
+weighted avg       0.66      0.67      0.66        99
+
+[[27  4  2]
+ [ 3 10 15]
+ [ 1  8 29]]
+160
+              precision    recall  f1-score   support
+
+          NC       0.57      0.73      0.64        33
+        LMCI       0.45      0.18      0.26        28
+        EMCI       0.61      0.74      0.67        38
+
+    accuracy                           0.58        99
+   macro avg       0.54      0.55      0.52        99
+weighted avg       0.55      0.58      0.54        99
+
+[[24  4  5]
+ [10  5 13]
+ [ 8  2 28]]
+              precision    recall  f1-score   support
+
+          NC       0.78      0.88      0.83        33
+        LMCI       0.38      0.18      0.24        28
+        EMCI       0.63      0.82      0.71        38
+
+    accuracy                           0.66        99
+   macro avg       0.60      0.62      0.60        99
+weighted avg       0.61      0.66      0.62        99
+
+[[29  2  2]
+ [ 7  5 16]
+ [ 1  6 31]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.87      0.82      0.84        33
+        LMCI       0.38      0.21      0.27        28
+        EMCI       0.58      0.79      0.67        38
+
+    accuracy                           0.64        99
+   macro avg       0.61      0.61      0.59        99
+weighted avg       0.62      0.64      0.61        99
+
+[[27  3  3]
+ [ 3  6 19]
+ [ 1  7 30]]
+160
+              precision    recall  f1-score   support
+
+          NC       0.78      0.76      0.77        33
+        LMCI       0.50      0.25      0.33        28
+        EMCI       0.60      0.84      0.70        38
+
+    accuracy                           0.65        99
+   macro avg       0.63      0.62      0.60        99
+weighted avg       0.63      0.65      0.62        99
+
+[[25  2  6]
+ [ 6  7 15]
+ [ 1  5 32]]
+              precision    recall  f1-score   support
+
+          NC       0.90      0.79      0.84        33
+        LMCI       0.53      0.32      0.40        28
+        EMCI       0.58      0.82      0.68        38
+
+    accuracy                           0.67        99
+   macro avg       0.67      0.64      0.64        99
+weighted avg       0.67      0.67      0.65        99
+
+[[26  1  6]
+ [ 3  9 16]
+ [ 0  7 31]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.89      0.76      0.82        33
+        LMCI       0.55      0.39      0.46        28
+        EMCI       0.59      0.79      0.67        38
+
+    accuracy                           0.67        99
+   macro avg       0.68      0.65      0.65        99
+weighted avg       0.68      0.67      0.66        99
+
+[[25  1  7]
+ [ 3 11 14]
+ [ 0  8 30]]
+count :  17  acc: 66.666667
+144
+              precision    recall  f1-score   support
+
+          NC       0.69      0.73      0.71        33
+        LMCI       0.50      0.39      0.44        28
+        EMCI       0.67      0.74      0.70        38
+
+    accuracy                           0.64        99
+   macro avg       0.62      0.62      0.62        99
+weighted avg       0.63      0.64      0.63        99
+
+[[24  5  4]
+ [ 7 11 10]
+ [ 4  6 28]]
+              precision    recall  f1-score   support
+
+          NC       0.92      0.73      0.81        33
+        LMCI       0.56      0.18      0.27        28
+        EMCI       0.55      0.92      0.69        38
+
+    accuracy                           0.65        99
+   macro avg       0.68      0.61      0.59        99
+weighted avg       0.67      0.65      0.61        99
+
+[[24  1  8]
+ [ 2  5 21]
+ [ 0  3 35]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.87      0.82      0.84        33
+        LMCI       0.57      0.29      0.38        28
+        EMCI       0.61      0.87      0.72        38
+
+    accuracy                           0.69        99
+   macro avg       0.68      0.66      0.65        99
+weighted avg       0.69      0.69      0.66        99
+
+[[27  1  5]
+ [ 4  8 16]
+ [ 0  5 33]]
+144
+              precision    recall  f1-score   support
+
+          NC       0.53      0.91      0.67        33
+        LMCI       0.59      0.36      0.44        28
+        EMCI       0.80      0.53      0.63        38
+
+    accuracy                           0.61        99
+   macro avg       0.64      0.60      0.58        99
+weighted avg       0.65      0.61      0.59        99
+
+[[30  1  2]
+ [15 10  3]
+ [12  6 20]]
+              precision    recall  f1-score   support
+
+          NC       0.84      0.82      0.83        33
+        LMCI       0.46      0.21      0.29        28
+        EMCI       0.61      0.87      0.72        38
+
+    accuracy                           0.67        99
+   macro avg       0.64      0.63      0.61        99
+weighted avg       0.65      0.67      0.64        99
+
+[[27  2  4]
+ [ 5  6 17]
+ [ 0  5 33]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.87      0.82      0.84        33
+        LMCI       0.56      0.50      0.53        28
+        EMCI       0.70      0.79      0.74        38
+
+    accuracy                           0.72        99
+   macro avg       0.71      0.70      0.70        99
+weighted avg       0.72      0.72      0.71        99
+
+[[27  3  3]
+ [ 4 14 10]
+ [ 0  8 30]]
+144
+              precision    recall  f1-score   support
+
+          NC       0.75      0.64      0.69        33
+        LMCI       0.41      0.25      0.31        28
+        EMCI       0.57      0.82      0.67        38
+
+    accuracy                           0.60        99
+   macro avg       0.58      0.57      0.56        99
+weighted avg       0.59      0.60      0.58        99
+
+[[21  4  8]
+ [ 6  7 15]
+ [ 1  6 31]]
+              precision    recall  f1-score   support
+
+          NC       0.84      0.79      0.81        33
+        LMCI       0.44      0.14      0.22        28
+        EMCI       0.58      0.89      0.70        38
+
+    accuracy                           0.65        99
+   macro avg       0.62      0.61      0.58        99
+weighted avg       0.63      0.65      0.60        99
+
+[[26  1  6]
+ [ 5  4 19]
+ [ 0  4 34]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.84      0.82      0.83        33
+        LMCI       0.59      0.36      0.44        28
+        EMCI       0.64      0.84      0.73        38
+
+    accuracy                           0.70        99
+   macro avg       0.69      0.67      0.67        99
+weighted avg       0.69      0.70      0.68        99
+
+[[27  1  5]
+ [ 5 10 13]
+ [ 0  6 32]]
+count :  18  acc: 71.717172
+160
+              precision    recall  f1-score   support
+
+          NC       0.72      0.79      0.75        33
+        LMCI       0.47      0.32      0.38        28
+        EMCI       0.61      0.71      0.66        38
+
+    accuracy                           0.63        99
+   macro avg       0.60      0.61      0.60        99
+weighted avg       0.61      0.63      0.61        99
+
+[[26  3  4]
+ [ 6  9 13]
+ [ 4  7 27]]
+              precision    recall  f1-score   support
+
+          NC       0.85      0.85      0.85        33
+        LMCI       0.47      0.29      0.36        28
+        EMCI       0.63      0.82      0.71        38
+
+    accuracy                           0.68        99
+   macro avg       0.65      0.65      0.64        99
+weighted avg       0.66      0.68      0.66        99
+
+[[28  2  3]
+ [ 5  8 15]
+ [ 0  7 31]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.90      0.82      0.86        33
+        LMCI       0.44      0.25      0.32        28
+        EMCI       0.60      0.84      0.70        38
+
+    accuracy                           0.67        99
+   macro avg       0.65      0.64      0.63        99
+weighted avg       0.66      0.67      0.65        99
+
+[[27  3  3]
+ [ 3  7 18]
+ [ 0  6 32]]
+160
+              precision    recall  f1-score   support
+
+          NC       0.69      0.76      0.72        33
+        LMCI       0.45      0.18      0.26        28
+        EMCI       0.58      0.79      0.67        38
+
+    accuracy                           0.61        99
+   macro avg       0.58      0.58      0.55        99
+weighted avg       0.58      0.61      0.57        99
+
+[[25  2  6]
+ [ 7  5 16]
+ [ 4  4 30]]
+              precision    recall  f1-score   support
+
+          NC       0.89      0.76      0.82        33
+        LMCI       0.43      0.21      0.29        28
+        EMCI       0.56      0.84      0.67        38
+
+    accuracy                           0.64        99
+   macro avg       0.63      0.60      0.59        99
+weighted avg       0.63      0.64      0.61        99
+
+[[25  2  6]
+ [ 3  6 19]
+ [ 0  6 32]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.84      0.82      0.83        33
+        LMCI       0.58      0.39      0.47        28
+        EMCI       0.62      0.79      0.70        38
+
+    accuracy                           0.69        99
+   macro avg       0.68      0.67      0.67        99
+weighted avg       0.68      0.69      0.68        99
+
+[[27  1  5]
+ [ 4 11 13]
+ [ 1  7 30]]
+160
+              precision    recall  f1-score   support
+
+          NC       0.73      0.73      0.73        33
+        LMCI       0.50      0.29      0.36        28
+        EMCI       0.58      0.76      0.66        38
+
+    accuracy                           0.62        99
+   macro avg       0.60      0.59      0.58        99
+weighted avg       0.61      0.62      0.60        99
+
+[[24  2  7]
+ [ 6  8 14]
+ [ 3  6 29]]
+              precision    recall  f1-score   support
+
+          NC       0.76      0.85      0.80        33
+        LMCI       0.55      0.57      0.56        28
+        EMCI       0.76      0.66      0.70        38
+
+    accuracy                           0.70        99
+   macro avg       0.69      0.69      0.69        99
+weighted avg       0.70      0.70      0.70        99
+
+[[28  3  2]
+ [ 6 16  6]
+ [ 3 10 25]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.90      0.79      0.84        33
+        LMCI       0.56      0.36      0.43        28
+        EMCI       0.60      0.82      0.69        38
+
+    accuracy                           0.68        99
+   macro avg       0.68      0.65      0.65        99
+weighted avg       0.68      0.68      0.67        99
+
+[[26  1  6]
+ [ 3 10 15]
+ [ 0  7 31]]
+count :  19  acc: 68.686869
+176
+              precision    recall  f1-score   support
+
+          NC       0.68      0.64      0.66        33
+        LMCI       0.43      0.32      0.37        28
+        EMCI       0.60      0.74      0.66        38
+
+    accuracy                           0.59        99
+   macro avg       0.57      0.56      0.56        99
+weighted avg       0.58      0.59      0.58        99
+
+[[21  6  6]
+ [ 6  9 13]
+ [ 4  6 28]]
+              precision    recall  f1-score   support
+
+          NC       0.87      0.82      0.84        33
+        LMCI       0.50      0.36      0.42        28
+        EMCI       0.60      0.76      0.67        38
+
+    accuracy                           0.67        99
+   macro avg       0.66      0.65      0.64        99
+weighted avg       0.66      0.67      0.66        99
+
+[[27  2  4]
+ [ 3 10 15]
+ [ 1  8 29]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.90      0.82      0.86        33
+        LMCI       0.44      0.29      0.35        28
+        EMCI       0.57      0.76      0.65        38
+
+    accuracy                           0.65        99
+   macro avg       0.64      0.62      0.62        99
+weighted avg       0.64      0.65      0.63        99
+
+[[27  2  4]
+ [ 2  8 18]
+ [ 1  8 29]]
+176
+              precision    recall  f1-score   support
+
+          NC       0.59      0.67      0.63        33
+        LMCI       0.52      0.39      0.45        28
+        EMCI       0.63      0.68      0.66        38
+
+    accuracy                           0.60        99
+   macro avg       0.58      0.58      0.58        99
+weighted avg       0.59      0.60      0.59        99
+
+[[22  5  6]
+ [ 8 11  9]
+ [ 7  5 26]]
+              precision    recall  f1-score   support
+
+          NC       0.81      0.79      0.80        33
+        LMCI       0.40      0.21      0.28        28
+        EMCI       0.58      0.79      0.67        38
+
+    accuracy                           0.63        99
+   macro avg       0.60      0.60      0.58        99
+weighted avg       0.61      0.63      0.60        99
+
+[[26  2  5]
+ [ 5  6 17]
+ [ 1  7 30]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.90      0.79      0.84        33
+        LMCI       0.45      0.36      0.40        28
+        EMCI       0.58      0.74      0.65        38
+
+    accuracy                           0.65        99
+   macro avg       0.64      0.63      0.63        99
+weighted avg       0.65      0.65      0.64        99
+
+[[26  2  5]
+ [ 3 10 15]
+ [ 0 10 28]]
+176
+              precision    recall  f1-score   support
+
+          NC       0.71      0.67      0.69        33
+        LMCI       0.37      0.25      0.30        28
+        EMCI       0.57      0.74      0.64        38
+
+    accuracy                           0.58        99
+   macro avg       0.55      0.55      0.54        99
+weighted avg       0.56      0.58      0.56        99
+
+[[22  6  5]
+ [ 5  7 16]
+ [ 4  6 28]]
+              precision    recall  f1-score   support
+
+          NC       0.92      0.73      0.81        33
+        LMCI       0.36      0.14      0.21        28
+        EMCI       0.52      0.84      0.64        38
+
+    accuracy                           0.61        99
+   macro avg       0.60      0.57      0.55        99
+weighted avg       0.61      0.61      0.57        99
+
+[[24  1  8]
+ [ 2  4 22]
+ [ 0  6 32]]
+lr decay to 0.00050
+              precision    recall  f1-score   support
+
+          NC       0.90      0.79      0.84        33
+        LMCI       0.50      0.43      0.46        28
+        EMCI       0.63      0.76      0.69        38
+
+    accuracy                           0.68        99
+   macro avg       0.68      0.66      0.66        99
+weighted avg       0.68      0.68      0.68        99
+
+[[26  3  4]
+ [ 3 12 13]
+ [ 0  9 29]]
+count :  20  acc: 67.676768
+73.73737373737374
+[[55, 88], [4, 6], [5, 66], [11, 21], [10, 38], [32, 92], [10, 24], [1, 15], [21, 76], [6, 18], [34, 69], [55, 57], [27, 29], [47, 58], [11, 77], [6, 64], [53, 89], [21, 89], [37, 76], [36, 63], [9, 68], [48, 89], [19, 65], [18, 35], [36, 83], [2, 54], [15, 36], [14, 70], [5, 67], [49, 67], [9, 10], [3, 72], [32, 78], [2, 62], [47, 51], [0, 72], [48, 71], [36, 64], [2, 10], [94, 102], [54, 71], [96, 116], [46, 71], [20, 77], [76, 88], [46, 54], [22, 92], [110, 111], [35, 88], [13, 77], [85, 88], [9, 85], [61, 67], [83, 85], [46, 47], [104, 106], [63, 68], [7, 61], [38, 85], [99, 101], [9, 77], [34, 36], [19, 66], [7, 11], [19, 84], [82, 88], [2, 85], [18, 70], [5, 69], [105, 106], [36, 73], [109, 117], [53, 70], [0, 14], [17, 84], [74, 75], [3, 67], [92, 93], [63, 69], [4, 7], [1, 89], [55, 63], [37, 55], [2, 61], [8, 54], [2, 89], [48, 60], [15, 66], [32, 35], [43, 87], [42, 44], [10, 29], [6, 38], [12, 47], [21, 68], [0, 9], [12, 33], [5, 63], [3, 62], [1, 19], [88, 92], [9, 63], [63, 88], [16, 23], [0, 1], [37, 38], [53, 88], [15, 72], [64, 85], [106, 109], [52, 67], [47, 50], [4, 66], [1, 68], [16, 42], [8, 70], [54, 85], [46, 50], [1, 71], [46, 88], [15, 37], [11, 30], [77, 93], [32, 84], [58, 93], [18, 69], [0, 52], [28, 66], [17, 20], [6, 68], [8, 49], [34, 70], [6, 9], [42, 82], [4, 67], [49, 60], [0, 8], [6, 71], [65, 67], [7, 21], [9, 18], [35, 84], [36, 89], [94, 95], [68, 71], [46, 85], [53, 73], [9, 11], [7, 19], [22, 27], [3, 36], [10, 17], [24, 27], [36, 86], [10, 27], [1, 70], [38, 47], [6, 10], [62, 65], [48, 55], [32, 36], [5, 71], [17, 36], [0, 67], [8, 84], [32, 83], [37, 47], [69, 76], [7, 36], [14, 69], [18, 62], [21, 23], [9, 66], [21, 84], [47, 84], [19, 67], [66, 92], [55, 64], [67, 85], [16, 34], [53, 68], [19, 37], [20, 71], [34, 35], [2, 67], [113, 114], [16, 33], [28, 92], [52, 66], [36, 68], [8, 68], [47, 85], [10, 22], [50, 58], [47, 53], [67, 93], [41, 47], [86, 88], [9, 62], [38, 60], [100, 113], [1, 2], [68, 70], [3, 15], [54, 55], [6, 17], [51, 58], [39, 47], [2, 36], [10, 68], [16, 28], [4, 9], [52, 60], [1, 72], [37, 49], [9, 36], [17, 71], [11, 28], [94, 97], [17, 77], [46, 52], [49, 66], [6, 7], [4, 60], [27, 30], [2, 63], [13, 85], [21, 38], [1, 14], [14, 73], [11, 34], [36, 66], [66, 86], [47, 88], [21, 66], [14, 15], [8, 15], [100, 102], [8, 9], [11, 67], [63, 64], [67, 84], [8, 86], [104, 105], [21, 22], [8, 33], [32, 54], [0, 64], [32, 37], [67, 83], [61, 89], [8, 76], [2, 35], [109, 119], [68, 73], [4, 18], [0, 19], [37, 86], [6, 33], [60, 68], [20, 38], [66, 82], [3, 88], [53, 60], [3, 70], [65, 73], [56, 92], [7, 8], [42, 86], [48, 49], [10, 66], [83, 87], [3, 34], [18, 60], [6, 89], [23, 88], [4, 62], [16, 22], [7, 71], [0, 5], [32, 59], [10, 36], [76, 92], [20, 88], [4, 32], [10, 89], [11, 66], [53, 66], [10, 18], [5, 8], [60, 88], [23, 32], [38, 68], [35, 85], [63, 66], [53, 67], [53, 63], [18, 65], [47, 48], [109, 118], [53, 69], [86, 90], [99, 100], [6, 20], [19, 85], [7, 37], [9, 65], [94, 96], [55, 62], [37, 85], [0, 36], [21, 35], [2, 20], [8, 65], [72, 73], [27, 31], [68, 84], [61, 72], [3, 65], [9, 61], [32, 71], [12, 35], [12, 82], [8, 47], [4, 21], [33, 85], [70, 72], [49, 62], [11, 25], [40, 42], [70, 84], [2, 73], [5, 34], [20, 22], [48, 54], [28, 32], [2, 15], [75, 81], [12, 38], [2, 9], [2, 65], [69, 77], [28, 36], [8, 18], [0, 76], [15, 19], [3, 21], [14, 60], [108, 118], [46, 56], [6, 86], [54, 62], [46, 59], [17, 22], [47, 76], [83, 89], [47, 52], [49, 54], [7, 88], [100, 114], [37, 54], [37, 84], [18, 34], [8, 66], [1, 63], [3, 19], [33, 82], [40, 45], [2, 38], [8, 55], [82, 86], [35, 69], [0, 85], [2, 34], [8, 89], [18, 89], [15, 70], [49, 68], [32, 77], [8, 35], [54, 88], [67, 70], [12, 34], [71, 73], [2, 49], [51, 59], [46, 89], [70, 85], [2, 5], [0, 65], [10, 25], [35, 77], [10, 92], [52, 89], [15, 67], [8, 19], [7, 18], [33, 79], [19, 68], [43, 45], [42, 90], [7, 34], [2, 6], [53, 85], [8, 64], [61, 65], [60, 89], [35, 45], [11, 93], [9, 34], [4, 73], [88, 93], [48, 64], [7, 60], [8, 12], [34, 77], [18, 71], [46, 70], [2, 8], [3, 4], [32, 46], [7, 85], [61, 70], [6, 35], [32, 43], [8, 60], [52, 64], [48, 53], [3, 18], [19, 60], [34, 85], [41, 81], [5, 62], [61, 63], [61, 68], [10, 88], [14, 71], [67, 76], [8, 37], [69, 88], [37, 43], [36, 38], [16, 58], [66, 84], [55, 69], [14, 62], [16, 37], [63, 67], [28, 30], [11, 69], [9, 33], [15, 69], [84, 85], [7, 33], [4, 49], [9, 13], [1, 36], [35, 36], [5, 64], [69, 71], [3, 66], [6, 12], [18, 67], [14, 36], [36, 69], [11, 89], [5, 54], [6, 77], [7, 69], [1, 60], [3, 85], [60, 85], [53, 62], [1, 65], [98, 113], [56, 58], [71, 85], [18, 20], [1, 85], [9, 70], [23, 27], [21, 85], [107, 108], [8, 53], [68, 89], [11, 88], [55, 66], [35, 66], [11, 18], [8, 88], [71, 88], [101, 113], [47, 59], [20, 35], [12, 22], [60, 84], [2, 7], [71, 84], [32, 60], [90, 91], [6, 47], [11, 29], [55, 71], [54, 64], [4, 61], [56, 93], [62, 66], [36, 72], [66, 71], [63, 72], [40, 41], [107, 109], [17, 43], [9, 89], [54, 68], [15, 60], [6, 82], [2, 21], [19, 35], [13, 83], [48, 65], [10, 67], [46, 53], [6, 21], [5, 89], [1, 18], [36, 88], [14, 64], [38, 82], [48, 68], [36, 82], [96, 105], [89, 92], [37, 89], [8, 36], [6, 54], [34, 87], [71, 72], [28, 88], [3, 61], [76, 82], [98, 100], [53, 71], [8, 23], [17, 23], [23, 92], [43, 78], [60, 61], [2, 53], [64, 88], [104, 107], [32, 48], [49, 84], [53, 65], [102, 115], [16, 88], [20, 25], [89, 93], [38, 71], [19, 21], [54, 66], [3, 54], [49, 76], [12, 58], [20, 66], [8, 71], [71, 76], [33, 88], [8, 77], [10, 26], [77, 84], [4, 63], [99, 114], [4, 69], [36, 77], [5, 36], [15, 63], [2, 19], [118, 119], [14, 68], [3, 69], [4, 5], [47, 55], [34, 88], [32, 86], [49, 61], [36, 46], [6, 32], [32, 42], [35, 86], [4, 35], [65, 70], [17, 76], [97, 105], [38, 84], [12, 88], [64, 89], [11, 22], [38, 49], [66, 69], [32, 85], [49, 51], [66, 68], [67, 71], [77, 82], [4, 84], [37, 53], [61, 66], [5, 68], [63, 70], [38, 53], [4, 88], [62, 73], [4, 85], [60, 65], [62, 69], [0, 49], [8, 85], [17, 21], [9, 37], [32, 69], [54, 63], [32, 89], [64, 69], [60, 66], [8, 10], [66, 70], [48, 61], [34, 38], [13, 33], [13, 17], [51, 57], [10, 19], [49, 69], [34, 84], [18, 36], [12, 66], [61, 85], [16, 43], [84, 88], [1, 9], [49, 52], [33, 38], [60, 76], [21, 71], [1, 4], [65, 89], [33, 36], [17, 35], [9, 54], [62, 70], [48, 88], [11, 24], [22, 26], [69, 70], [7, 77], [52, 55], [98, 112], [36, 71], [50, 56], [56, 57], [35, 67], [7, 13], [43, 76], [14, 61], [38, 89], [6, 13], [66, 76], [57, 89], [24, 32], [65, 71], [47, 66], [34, 82], [34, 37], [67, 87], [1, 53], [38, 55], [100, 101], [21, 28], [19, 36], [6, 36], [32, 76], [4, 38], [3, 89], [84, 86], [22, 34], [24, 92], [20, 23], [35, 83], [49, 82], [52, 71], [8, 21], [4, 34], [19, 64], [33, 67], [96, 104], [23, 35], [62, 67], [48, 70], [37, 82], [98, 101], [46, 55], [9, 21], [39, 41], [10, 35], [32, 67], [76, 85], [19, 34], [6, 49], [15, 62], [65, 85], [34, 86], [0, 3], [58, 59], [18, 19], [77, 78], [2, 84], [101, 102], [8, 38], [2, 37], [54, 67], [30, 31], [60, 69], [3, 71], [6, 88], [20, 84], [36, 54], [8, 20], [76, 77], [62, 89], [6, 55], [7, 35], [37, 67], [19, 70], [18, 37], [15, 61], [65, 68], [3, 14], [35, 76], [54, 89], [69, 73], [32, 79], [18, 88], [6, 60], [80, 81], [47, 54], [17, 33], [14, 18], [61, 62], [52, 88], [29, 34], [38, 76], [34, 71], [63, 73], [63, 89], [5, 65], [37, 83], [33, 89], [12, 16], [9, 60], [76, 83], [14, 19], [10, 84], [17, 34], [22, 28], [33, 34], [61, 64], [38, 77], [16, 92], [55, 70], [10, 37], [4, 54], [33, 37], [3, 7], [21, 34], [1, 52], [33, 76], [55, 89], [52, 53], [34, 67], [85, 87], [1, 3], [4, 71], [55, 85], [6, 53], [15, 53], [12, 76], [22, 88], [52, 63], [11, 27], [69, 93], [83, 84], [34, 89], [41, 42], [36, 48], [0, 68], [10, 71], [64, 84], [19, 63], [20, 36]]
+found a new graph, the rest of candidate:  465
+saved the new graph

@@ -84,7 +84,7 @@ def load_data(train_rate=0.8, thresh=0.4, binary=True, num=180, state="fixed", r
         g_mod = np.eye(num)
 
     elif state == "corr":
-        g_mod = np.corrcoef(X_train.transpose()) 
+        g_mod = np.corrcoef(data.transpose()) 
         g_mod[np.isnan(g_mod)]=0 
         np.fill_diagonal(g_mod, 1)
         #g_mod = (g - np.min(g))/(np.max(g) - np.min(g))
