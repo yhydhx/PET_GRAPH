@@ -94,8 +94,8 @@ class Train:
             #print(train_labels)
             
             #A = np.load(self.saved_path+"76.npy")
-            #A = np.load("UGA/multi_30_20_3_800_found_graph_left_candidate_465.npy")
-            #A = scipy.sparse.coo_matrix(A)
+            A = np.load("UGA/multi_30_20_3_300_found_graph.npy")
+            A = scipy.sparse.coo_matrix(A)
             # print(A)
             # print( scipy.sparse.coo_matrix(A))
             old_A = copy.copy(A)
@@ -417,6 +417,7 @@ class Train:
             acc = self.train(train_data, train_label, test_data, test_label, L, lmax,A)
             acc_list.append(acc)
         return acc_list
+        
     def train_one(self, A):
         train_data, test_data, train_label, test_label, L, lmax = self.gene_graph(A)
     
@@ -537,7 +538,7 @@ if __name__ == '__main__':
 
     #different actions 
     action = [random.choice([0,1]) for _ in range(len(candidate))]
-    action = [0 for _ in range(len(candidate))]
+    action = [1 for _ in range(len(candidate))]
 
     #generate graph and then compute the accs. 
     new_A = test.action_graph(action)

@@ -88,13 +88,13 @@ def prepare(dataset):
         # print( scipy.sparse.coo_matrix(A))
         #np.save(saved_path+"_init_graph.npy",A.toarray())
 
-        print("data shape ====")
-        print(train_data.shape)
-        print(train_data[0][0])
-        print(train_labels.shape)
-        print(test_data.shape)
-        print(test_labels.shape)
-        print("data shape end")
+        # print("data shape ====")
+        # print(train_data.shape)
+        # print(train_data[0][0])
+        # print(train_labels.shape)
+        # print(test_data.shape)
+        # print(test_labels.shape)
+        # print("data shape end")
         if verbose:
             fig = plt.figure()
             #定义画布为1*1个划分，并在第1个位置上进行作图
@@ -116,9 +116,9 @@ def prepare(dataset):
             plt.show()
 
 
-        print(train_data.shape)
-        print(test_data.shape)
-        print("baseline: ", sum(test_labels)/test_labels.shape[0])
+        # print(train_data.shape)
+        # print(test_data.shape)
+        # print("baseline: ", sum(test_labels)/test_labels.shape[0])
         
 
         # grid_side = 180 # 102
@@ -131,26 +131,26 @@ def prepare(dataset):
     coarsening_levels = 4
     L, perm = coarsen(A, coarsening_levels)
 
-    print(L)
+    #print(L)
     
     global layer1
     layer1 = (L[0].shape)
-    print(perm)
-    print(set(perm))
+    #print(perm)
+    #print(set(perm))
     # Compute max eigenvalue of graph Laplacians
     lmax = []
     for i in range(coarsening_levels):
         lmax.append(lmax_L(L[i]))
-    print('lmax: ' + str([lmax[i] for i in range(coarsening_levels)]))
+    #print('lmax: ' + str([lmax[i] for i in range(coarsening_levels)]))
 
     # # Reindex nodes to satisfy a binary tree structure
     train_data = perm_data(train_data, perm)
     # val_data = perm_data(val_data, perm)
     test_data = perm_data(test_data, perm)
     #
-    print(train_data.shape)
+    #print(train_data.shape)
     #print(val_data.shape)
-    print(test_data.shape)
+    #print(test_data.shape)
     '''
     test part for update graph
     '''
@@ -160,26 +160,26 @@ def prepare(dataset):
     '''
     test part for update graph
     '''
-    print('Execution time: {:.2f}s'.format(time.time() - t_start))
+    #print('Execution time: {:.2f}s'.format(time.time() - t_start))
     del perm
     return train_data, train_labels, test_data, test_labels, L, lmax,A
 
 
-def train(train_data, train_labels, test_data, test_labels, L, lmax,A):
+def train(train_data, train_labels, test_data, test_labels, L, lmax,A,learning_rate):
     sys.path.insert(0, 'lib/')
 
     os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
-    os.environ["CUDA_VISIBLE_DEVICES"] = "7"
+    os.environ["CUDA_VISIBLE_DEVICES"] = "6"
     #print(A)
     #print("available")
     #exit()
     if torch.cuda.is_available():
-        print('cuda available')
+        #print('cuda available')
         dtypeFloat = torch.cuda.FloatTensor
         dtypeLong = torch.cuda.LongTensor
         torch.cuda.manual_seed(1)
     else:
-        print('cuda not available')
+        #print('cuda not available')
         dtypeFloat = torch.FloatTensor
         dtypeLong = torch.LongTensor
         torch.manual_seed(1)
@@ -209,20 +209,20 @@ def train(train_data, train_labels, test_data, test_labels, L, lmax,A):
     net = Graph_ConvNet_LeNet5(net_parameters)
     if torch.cuda.is_available():
         net.cuda()
-    print(net)
+    #print(net)
 
     # Weights
     L_net = list(net.parameters())
 
     # learning parameters
-    learning_rate = 1e-3 # 1e-3
+    
     dropout_value = 0.4
     l2_regularization = 1e-4
     batch_size = 20 #20
     num_epochs = 300
     train_size = train_data.shape[0]
     nb_iter = int(num_epochs * train_size) // batch_size
-    print('num_epochs=', num_epochs, ', train_size=', train_size, ', nb_iter=', nb_iter)
+    #print('num_epochs=', num_epochs, ', train_size=', train_size, ', nb_iter=', nb_iter)
 
     # Optimizer
     global_lr = learning_rate
@@ -293,8 +293,8 @@ def train(train_data, train_labels, test_data, test_labels, L, lmax,A):
 
         # print
         t_stop = time.time() - t_start
-        print('epoch= %d, loss(train)= %.3f, accuracy(train)= %.3f %%, time= %.3f, lr= %.5f' %
-              (epoch + 1, running_loss / running_total, running_accuray / running_total, t_stop, lr))
+        # print('epoch= %d, loss(train)= %.3f, accuracy(train)= %.3f %%, time= %.3f, lr= %.5f' %
+        #       (epoch + 1, running_loss / running_total, running_accuray / running_total, t_stop, lr))
         if (verbose and ((epoch + 0) % 100 == 0)):
             net.feature_importances(L)
 
@@ -307,7 +307,7 @@ def train(train_data, train_labels, test_data, test_labels, L, lmax,A):
             flag = False
             last = epoch + 1
             last_loss = running_loss / running_total
-            print("lr decay to %.5f" %lr)
+            #print("lr decay to %.5f" %lr)
         
         if flag == False and last + 150 < epoch:
             flag = True
@@ -390,9 +390,32 @@ def train(train_data, train_labels, test_data, test_labels, L, lmax,A):
 
 def main():
     acc_list = []
+
+    learning_rate = 1e-4
     for i in range(10):
         train_data, train_label, test_data, test_label, L, lmax,A = prepare(dataset)  # mi or minist
-        acc = train(train_data, train_label, test_data, test_label, L, lmax,A)
+        acc = train(train_data, train_label, test_data, test_label, L, lmax,A,learning_rate)
+        acc_list.append(acc)
+    print(acc_list)
+
+    learning_rate = 1e-3
+    for i in range(10):
+        train_data, train_label, test_data, test_label, L, lmax,A = prepare(dataset)  # mi or minist
+        acc = train(train_data, train_label, test_data, test_label, L, lmax,A,learning_rate)
+        acc_list.append(acc)
+    print(acc_list)
+
+    learning_rate = 1e-2
+    for i in range(10):
+        train_data, train_label, test_data, test_label, L, lmax,A = prepare(dataset)  # mi or minist
+        acc = train(train_data, train_label, test_data, test_label, L, lmax,A,learning_rate)
+        acc_list.append(acc)
+    print(acc_list)
+
+    learning_rate = 0.1
+    for i in range(10):
+        train_data, train_label, test_data, test_label, L, lmax,A = prepare(dataset)  # mi or minist
+        acc = train(train_data, train_label, test_data, test_label, L, lmax,A,learning_rate)
         acc_list.append(acc)
     print(acc_list)
 

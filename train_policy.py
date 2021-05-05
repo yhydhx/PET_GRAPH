@@ -75,13 +75,13 @@ if __name__ == '__main__':
     init_state_step=1000000
     learning_rate = 0.001
     gamma = 0.99
-    batch_size=10
+    batch_size=2
 
 
     env = DiaEnv(params=1)
     candiatelen=env.candiatelen
     if Ifloadpolicy:
-        model=torch.load('/content/drive/My Drive/Dai/PET_GRAPH/policy.pt')
+        model=torch.load('./policy.pt')
     else:  
         model = policy(candiatelen,candiatelen).to(device)
 
@@ -95,7 +95,7 @@ if __name__ == '__main__':
         ###new state
         if e%init_state_step==0:
             if Ifloadstate:
-                state=torch.load('/content/drive/My Drive/Dai/PET_GRAPH/state.pt')
+                state=torch.load('./state.pt')
             else:  
                 state = env.reset()
                 state = torch.from_numpy(np.array(state)).float().to(device)
@@ -158,7 +158,7 @@ if __name__ == '__main__':
 
             # Normalize reward
             reward_mean = np.mean(reward_pool)
-            reward_std = np.std(reward_pool)
+            reward_std = np.std(reward_pool) + 1e-9
             for i in range(batch_size):
                 reward_pool[i] = (reward_pool[i] - reward_mean) / reward_std
 
@@ -171,12 +171,12 @@ if __name__ == '__main__':
                 [probs_add,probs_remove] = model(state)
                 target_add=Variable(torch.tensor([action_pool[i][0]])).to(device)
                 target_remove=Variable(torch.tensor([action_pool[i][1]])).to(device)
-                loss = criterion(probs_add,target_add) * reward+  criterion(probs_remove,target_remove) * reward
+                loss = criterion(probs_add.reshape(1,-1),target_add) * reward+  criterion(probs_remove.reshape(1,-1),target_remove) * reward
                 loss.backward()
             optimizer.step()
 
             state_pool = []
             action_pool = []
             reward_pool = []
-            torch.save(state, '/content/drive/My Drive/Dai/PET_GRAPH/state.pt')
-            torch.save(policy,'/content/drive/My Drive/Dai/PET_GRAPH/policy.pt')
+            torch.save(state, './state.pt')
+            torch.save(policy,'./policy.pt')
