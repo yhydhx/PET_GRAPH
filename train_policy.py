@@ -131,6 +131,7 @@ if __name__ == '__main__':
             p_remove=p_remove/p_remove.sum()
             action_remvoe=int(np.random.choice(pos_remove, 1, p=p_remove)[0])
             ## threshold
+            action_log=[int(action_add),int(action_remvoe)]
             if alpha>probs_add[action_add]:
                 action_add=-1
             if alpha>probs_remove[action_remvoe]:
@@ -147,7 +148,7 @@ if __name__ == '__main__':
             next_state.require_grad=False
         
             state_pool.append(state.clone().detach())
-            action_pool.append(action)
+            action_pool.append(action_log)
             reward_pool.append(reward)
             state = next_state
         print('updating policy')
